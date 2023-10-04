@@ -9,13 +9,13 @@ public class LearningPlanPrompts {
                         Be detailed enough that the tutor bot can create a lesson for approximately the specified amount of time for each lesson.
                         The lessons will use english as the base language, and switch between speaking english and the language to learn.
                         You must reply in the following format:
-                        {Lesson title}
+                        Lesson: {Lesson title}
                         {Lesson description}
 
-                        {Lesson 2 title}
+                        Lesson: {Lesson 2 title}
                         {Lession 2 description}
 
-                        {Lesson 3 title}
+                        Lesson: {Lesson 3 title}
                         {Lesson 3 description}
                         """;
 

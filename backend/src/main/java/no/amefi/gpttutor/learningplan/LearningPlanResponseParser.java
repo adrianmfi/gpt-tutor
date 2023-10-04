@@ -2,6 +2,8 @@ package no.amefi.gpttutor.learningplan;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 class LearningPlanResponseParser {
 
@@ -10,13 +12,10 @@ class LearningPlanResponseParser {
 
         public static LearningPlan parse(String response) {
                 List<LearningPlanItem> items = new ArrayList<>();
-                String[] sections = response.split("\n\n");
-                // todo: more robust schema
-                for (String section : sections) {
-                        String[] sectionSplit = section.split("\n", 2);
-                        var title = sectionSplit[0];
-                        var details = sectionSplit[1];
-                        items.add(new LearningPlanItem(null, title, details));
+                Matcher matcher = Pattern.compile("Lesson: (.*?)\\n(.*?)(?=\\n+|\\z)", Pattern.DOTALL)
+                                .matcher(response);
+                while (matcher.find()) {
+                        items.add(new LearningPlanItem(null, matcher.group(1).trim(), matcher.group(2).trim()));
                 }
                 return new LearningPlan(null, items);
 
