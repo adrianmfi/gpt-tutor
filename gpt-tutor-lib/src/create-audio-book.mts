@@ -114,7 +114,7 @@ if (resume) {
   );
   writeFileSync(
     join(outputDir, learningPlanFilename),
-    JSON.stringify(learningPlan),
+    JSON.stringify(learningPlan, null, 2),
     "utf-8"
   );
 }
