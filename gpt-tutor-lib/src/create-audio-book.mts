@@ -70,8 +70,7 @@ program.option("-r, --resume <path>", "resume from path");
 program.option("--skip-synth", "skip synthesizing");
 program.parse();
 const resume = program.getOptionValue("resume");
-const skipSynthesizing = program.getOptionValue("skip-synth");
-
+const skipSynthesizing = program.getOptionValue("skipSynth");
 const outputDir = resume ?? `./output/${new Date().toISOString()}`;
 
 const learningPlanFilename = "learning_plan.json";
@@ -87,25 +86,20 @@ if (!existsSync(outputDir)) {
 }
 
 let learningPlan: LearningPlan;
-let lessonStartIndex = 0;
-
 if (resume) {
   learningPlan = JSON.parse(
     readFileSync(join(resume, learningPlanFilename), "utf-8")
   );
+
+  const existingResults = readdirSync(resume);
+  const missingLessons = learningPlan.lessons.filter(
+    (lesson) => !existingResults.includes(lesson.title + ".mp3")
+  );
+  learningPlan.lessons = missingLessons;
   console.log(
-    "Resuming with learning plan:",
+    "Resuming with remaining learning plan",
     learningPlan.lessons.map((lesson) => lesson.title)
   );
-  const existingResults = readdirSync(resume);
-  for (let i = 0; i < learningPlan.lessons.length; i++) {
-    const lesson = learningPlan.lessons[i];
-    if (!existingResults.includes(lesson.title + ".mp3")) {
-      console.log("starting at ", lesson.title);
-      lessonStartIndex = i;
-      break;
-    }
-  }
 } else {
   console.log("Generating learning plan...");
   learningPlan = await createLearningPlan(
@@ -138,18 +132,26 @@ if (!answers.confirm) {
   process.exit(0);
 }
 
-for (let i = lessonStartIndex; i < learningPlan.lessons.length; i++) {
-  const lesson = learningPlan.lessons[i];
+for (const lesson of learningPlan.lessons) {
   console.log(`Creating lesson ${lesson.title}:${lesson.details}...`);
-  const transcript = await createTranscript(
-    openAIClient,
-    lesson,
-    learningGoals,
-    gptModel
-  );
-  writeFileSync(join(outputDir, lesson.title + ".xml"), transcript, "utf-8");
+  const transcriptFilename = join(outputDir, lesson.title + ".xml");
+  let transcript: string;
+  if (existsSync(transcriptFilename)) {
+    console.log("Reusing transcript");
+    transcript = readFileSync(transcriptFilename, "utf-8");
+  } else {
+    console.log("Generating transcript");
+    transcript = await createTranscript(
+      openAIClient,
+      lesson,
+      learningGoals,
+      gptModel
+    );
+    writeFileSync(transcriptFilename, transcript, "utf-8");
+  }
 
   if (!skipSynthesizing) {
+    console.log("Synthesizing audio");
     const audio = await synthesizeAudio(transcript, speechConfig);
     const mp3Buffer = await convertAudioFormat(
       Buffer.from(audio.audioData),
