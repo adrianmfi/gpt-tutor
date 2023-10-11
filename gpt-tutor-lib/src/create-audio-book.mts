@@ -107,7 +107,7 @@ for (const lesson of learningPlan.lessons) {
     learningGoals,
     gptModel
   );
-  writeFileSync(outputDir + "/" + lesson.title + ".txt", transcript, "utf-8");
+  writeFileSync(outputDir + "/" + lesson.title + ".xml", transcript, "utf-8");
 
   const audio = await synthesizeAudio(transcript, speechConfig);
   const mp3Buffer = await convertAudioFormat(
