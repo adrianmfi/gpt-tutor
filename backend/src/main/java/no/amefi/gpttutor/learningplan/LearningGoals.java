@@ -4,8 +4,10 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 
 public record LearningGoals(
-                @NotBlank String language,
+                Long id,
+                // base language is assumed to be english
+                @NotBlank String targetLanguage,
                 @NotNull Integer numberOfLessons,
                 @NotBlank String lessonDuration,
-                @NotBlank String previousKnowledge) {
+                @NotBlank String targetLanguageLevel) {
 }

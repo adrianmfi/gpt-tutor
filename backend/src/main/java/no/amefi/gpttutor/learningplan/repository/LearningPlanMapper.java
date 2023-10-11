@@ -6,6 +6,7 @@ import java.util.List;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 
+import no.amefi.gpttutor.learningplan.LearningGoals;
 import no.amefi.gpttutor.learningplan.LearningPlan;
 import no.amefi.gpttutor.learningplan.LearningPlanItem;
 
@@ -13,7 +14,8 @@ import no.amefi.gpttutor.learningplan.LearningPlanItem;
 public interface LearningPlanMapper {
 
     @Mapping(target = "learningPlanItems", expression = "java(toEntityList(learningPlan, learningPlan.learningPlanItems()))")
-    LearningPlanEntity toEntity(LearningPlan learningPlan);
+    @Mapping(source = "learningPlan.id", target = "id")
+    LearningPlanEntity toEntity(LearningPlan learningPlan, LearningGoals learningGoals);
 
     LearningPlan toDomain(LearningPlanEntity learningPlanEntity);
 
@@ -33,5 +35,10 @@ public interface LearningPlanMapper {
     }
 
     List<LearningPlanItem> toDomainList(List<LearningPlanItemEntity> learningPlanItemEntities);
+
+    @Mapping(source = "learningGoals.id", target = "id")
+    LearningGoalsEntity toEntity(LearningGoals learningGoals, LearningPlan learningPlan);
+
+    LearningGoals toDomain(LearningGoalsEntity learningPlanGoalEntity);
 
 }

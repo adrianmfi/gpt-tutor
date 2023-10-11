@@ -1,0 +1,47 @@
+{
+  "name": "gpt-tutor",
+  "version": "1.0.0",
+  "description": "Estimating the fundamental frequency of a signal",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "files": [
+    "dist/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmfi/gpt-tutor.git"
+  },
+  "keywords": [
+    "language learning",
+    "gpt",
+    "audio book"
+  ],
+  "author": "Adrian Meidell Fiorito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianmfi/gpt-tutor/issues"
+  },
+  "homepage": "https://github.com/adrianmfi/gpt-tutor#readme",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/inquirer": "^9.0.4",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/fluent-ffmpeg": "^2.1.22",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "inquirer": "^9.2.11",
+    "microsoft-cognitiveservices-speech-sdk": "^1.32.0",
+    "openai": "^4.11.1",
+    "ts-node": "^10.9.1"
+  }
+}

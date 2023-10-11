@@ -9,6 +9,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
+import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
 @Entity
@@ -18,8 +19,11 @@ public class LearningPlanEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true, mappedBy = "learningPlan")
+    @OneToMany(mappedBy = "learningPlan", cascade = CascadeType.ALL)
     private List<LearningPlanItemEntity> learningPlanItems = new ArrayList<>();
+
+    @OneToOne(mappedBy = "learningPlan", cascade = CascadeType.ALL)
+    private LearningGoalsEntity learningGoals;
 
     public Long getId() {
         return id;
@@ -35,6 +39,14 @@ public class LearningPlanEntity {
 
     public void setLearningPlanItems(List<LearningPlanItemEntity> learningPlanItems) {
         this.learningPlanItems = learningPlanItems;
+    }
+
+    public LearningGoalsEntity getLearningGoals() {
+        return learningGoals;
+    }
+
+    public void setLearningGoals(LearningGoalsEntity learningGoals) {
+        this.learningGoals = learningGoals;
     }
 
 }

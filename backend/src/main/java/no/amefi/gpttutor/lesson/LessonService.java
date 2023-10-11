@@ -3,35 +3,32 @@ package no.amefi.gpttutor.lesson;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestParam;
 
 import com.theokanning.openai.completion.chat.ChatCompletionRequest;
 import com.theokanning.openai.completion.chat.ChatMessage;
 import com.theokanning.openai.service.OpenAiService;
 
-import no.amefi.gpttutor.learningplan.repository.LearningPlanRepository;
+import no.amefi.gpttutor.learningplan.repository.LearningPlanItemRepository;
 
 @Service
 class LessonService {
 
         private final OpenAiService openAiService;
-        private final LearningPlanRepository learningPlanRepository;
+        private final LearningPlanItemRepository learningPlanItemRepository;
 
-        LessonService(OpenAiService openAiService, LearningPlanRepository learningPlanRepository) {
+        LessonService(OpenAiService openAiService, LearningPlanItemRepository learningPlanItemRepository) {
                 this.openAiService = openAiService;
-                this.learningPlanRepository = learningPlanRepository;
+                this.learningPlanItemRepository = learningPlanItemRepository;
         }
 
         public Lesson createLesson(long learningPlanId, long learningPlanItemId) {
-                var lessonItem = learningPlanRepository.findById(learningPlanId).orElseThrow()
-                                .getLearningPlanItems().stream().filter(item -> item.getId() == learningPlanItemId)
-                                .findFirst()
-                                .orElseThrow();
+                var lessonItem = learningPlanItemRepository.findById(learningPlanItemId).orElseThrow();
+                var learningGoals = lessonItem.getLearningPlan().getLearningGoals();
 
                 String userPrompt = String.format(
                                 LessonPrompts.CREATE_LESSON_USER_PROMPT,
-                                // todo: avoid hardcoding
-                                "15 minute", "japanese", "some hiragana and katakana, basic sentence structure",
+                                learningGoals.getLessonDuration(), learningGoals.getTargetLanguage(),
+                                learningGoals.gettargetLanguageLevel(),
                                 lessonItem.getTitle(), lessonItem.getDetails());
 
                 var completionRequest = ChatCompletionRequest.builder()

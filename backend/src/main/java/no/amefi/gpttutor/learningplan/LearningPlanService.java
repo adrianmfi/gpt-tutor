@@ -10,6 +10,7 @@ import com.theokanning.openai.service.OpenAiService;
 
 import no.amefi.gpttutor.learningplan.repository.LearningPlanEntity;
 import no.amefi.gpttutor.learningplan.repository.LearningPlanItemEntity;
+import no.amefi.gpttutor.learningplan.repository.LearningPlanMapper;
 import no.amefi.gpttutor.learningplan.repository.LearningPlanRepository;
 
 @Service
@@ -17,16 +18,19 @@ class LearningPlanService {
 
         private final OpenAiService openAiService;
         private final LearningPlanRepository learningPlanRepository;
+        private final LearningPlanMapper learningPlanMapper;
 
-        LearningPlanService(OpenAiService openAiService, LearningPlanRepository learningPlanRepository) {
+        LearningPlanService(OpenAiService openAiService, LearningPlanRepository learningPlanRepository,
+                        LearningPlanMapper learningPlanMapper) {
                 this.openAiService = openAiService;
                 this.learningPlanRepository = learningPlanRepository;
+                this.learningPlanMapper = learningPlanMapper;
         }
 
         public LearningPlan createLearningPlan(LearningGoals goals) {
                 String userPrompt = String.format(
                                 LearningPlanPrompts.CREATE_PLAN_USER_PROMPT,
-                                goals.language(), goals.previousKnowledge(),
+                                goals.targetLanguage(), goals.targetLanguageLevel(),
                                 goals.lessonDuration(),
                                 goals.numberOfLessons());
 
@@ -41,22 +45,9 @@ class LearningPlanService {
                                 .getContent();
 
                 var parsed = LearningPlanResponseParser.parse(response);
-                var entity = new LearningPlanEntity();
-                entity.setLearningPlanItems(
-                                parsed.learningPlanItems().stream().map(
-                                                item -> {
-                                                        var e = new LearningPlanItemEntity();
-                                                        e.setDetails(item.details());
-                                                        e.setTitle(item.title());
-                                                        e.setLearningPlan(entity);
-                                                        return e;
-                                                }).toList());
+                var entity = learningPlanMapper.toEntity(parsed, goals);
                 var saved = learningPlanRepository.save(entity);
-                return new LearningPlan(saved.getId(),
-                                saved.getLearningPlanItems().stream()
-                                                .map(item -> new LearningPlanItem(item.getId(), item.getTitle(),
-                                                                item.getDetails()))
-                                                .toList());
+                return learningPlanMapper.toDomain(saved);
         }
 
 }

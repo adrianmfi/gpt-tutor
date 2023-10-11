@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "NodeNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "removeComments": false,
+    "outDir": "./dist",
+    "moduleResolution": "NodeNext",
+    "types": ["jest"]
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "files": ["./src/index.ts"],
+  "exclude": ["node_modules"]
+}
