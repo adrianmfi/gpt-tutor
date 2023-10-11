@@ -75,17 +75,13 @@ Remember that a lesson typically contains repetition and pauses, and is spoken s
 When learning a new word, it is helpful to include a sentence including the word.
 A word and sentence should typically be repeated several times, repetition is key to learning. Don't be terse, lessons should last for a while.
 
-You should NEVER  speak the foreign language with english pronunciation.
-This is therefore bad SSML:
-\`\`\`
+You should NEVER speak the foreign language with english pronunciation.
+This is therefore bad:
 <lang xml:lang="en-US">
     Let's start with the verb "to eat", which in Japanese is "Tabemasu". 
 </lang>
-\`\`\`
 This is better:
-\`\`\`
 <lang xml:lang="en-US">Let's start with the verb "to eat", which in Japanese is </lang><lang xml:lang="ja-JP"> 食べます </lang>
-\`\`\`
 
 The SSML should begin with:
 \`<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="string">\`
@@ -95,7 +91,6 @@ You can use the \`prosody\` tag to adjust pronunciation and speaking rate. A goo
 Here are the supported languages, you can only use one of these: ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW
 
 An simple example of an SSML document:
-\`\`\`
 <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
 <voice name="${voiceName}">
   <prosody rate="-10%">
@@ -121,21 +116,18 @@ An simple example of an SSML document:
     </prosody>
   </voice>
 </speak>
-\`\`\`
+
 Your transcript should be much longer than the simple example.
 
-Extra Important:
-Remember to repeat new words up to several times! Also, remember say new words extra slow, especially the first time(s) they are introduced! Finally, remember to not foreign and english words within the same <lang>.
+Remember to repeat new words up to several times! Also, remember say new words extra slow, especially the first time(s) they are introduced! Finally, remember to NOT use foreign and english words within the same <lang>.
  
 
 Now, the lesson description is:
 The lesson is a part of a series for learning ${goals.targetLanguage}.
 The listener has prior knowledge: ${goals.priorKnowledge}.
-
 The lesson should talk about: ${lesson.title}: ${lesson.details}
 
-Begin SSML for lesson:
-    `;
+Now, give me the SSML for the lesson:`;
 }
 
 function fixTranscriptCompletionRequest(

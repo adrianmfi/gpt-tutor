@@ -61,8 +61,9 @@ const gptModel = gptModelPrompt.model;
 
 const learningGoals: LearningGoals = {
   targetLanguage: "japanese",
-  priorKnowledge: "basically nothing",
-  targetKnowledge: "tourist level japanese for a three week vacation",
+  priorKnowledge:
+    "I know some simple sentences like hello, goodbye, and my name is",
+  targetKnowledge: "Enough to be able to enjoy a three week vacation",
 };
 
 const program = new Command();
@@ -152,6 +153,7 @@ for (const lesson of learningPlan.lessons) {
 
   if (!skipSynthesizing) {
     console.log("Synthesizing audio");
+
     const audio = await synthesizeAudio(transcript, speechConfig);
     const mp3Buffer = await convertAudioFormat(
       Buffer.from(audio.audioData),

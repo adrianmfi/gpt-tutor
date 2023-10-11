@@ -68,11 +68,14 @@ function createLearningPlanCompletionRequest(
         content: createSystemPrompt(goals),
       },
     ],
+    presence_penalty: 0,
+    frequency_penalty: 0,
+    max_tokens: 7000,
   };
 }
 
 function createSystemPrompt(goals: LearningGoals) {
-  const createRealAmountOfLessons = false;
+  const createRealAmountOfLessons = true;
   return `
   You are a bot designed to create a learning plan for learning a specified language.
   You are given details about a users learning goals. You will respond with a list of lessons for learning the specified language.
@@ -88,9 +91,9 @@ function createSystemPrompt(goals: LearningGoals) {
   An excerpt from a generated learning plan for a user wanting to learn japanese for a holiday trip:
   \`\`\`
   ...
-  Introduction to Japanese numbers: learn how to count from 1 to 20 in Japanese.
-  Numbers part two: Learn the numbers 20 through 100 and how to express your age in Japanese
-  To do and to see: Introduce common Japanese verbs "to eat" (Tabemasu), "to drink" (Nomimasu).
+  Introduction to numbers: learn how to count from 1 to 20.
+  Numbers part two: Learn the numbers 20 through 100 and how to express your age
+  To do and to see: Introduce verbs "to eat" (Tabemasu), "to drink" (Nomimasu).
   ...
   \`\`\`
 In other words, one lesson per line, and no whitespace between lines.
@@ -98,13 +101,18 @@ In other words, one lesson per line, and no whitespace between lines.
   
 ${
   createRealAmountOfLessons
-    ? "You should create a large number of lessons, typically somewhere between 50-200, covering what the user wants to learn."
+    ? `You must create a large number of short lessons, between 50-200, covering what the user wants to learn.
+    To make keeping track easier, you might want to start each lesson title with a lesson count, e.g. 15 - Sentence structure`
     : "This is a test run, and you should only generate 2-6 lessons covering a part of what the user wants to learn"
 }
   
-  Remember that the point is to create short (1-5 minute) audio listening lessons.
+  REMEMBER! 
+  * The point is to create short (1-5 minute) audio listening lessons.
   That typically means only learning a few (2-5) new words or sentences. Be specific about what to learn!
-  There's not much use learning characters!
+  Therefore, you might want to create multiple lessons on related topics.
+  * There's not much use learning characters!
+  ${createRealAmountOfLessons ? "* 50 - 200 lessons" : ""}
+  
 
 
   Now, the user has specified the following:
