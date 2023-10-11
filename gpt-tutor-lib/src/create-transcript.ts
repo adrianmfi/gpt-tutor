@@ -1,21 +1,44 @@
 import { OpenAI } from "openai";
 import { ChatCompletionCreateParamsNonStreaming } from "openai/resources/chat/index.mjs";
 import { LearningGoals, LessonDescription } from "./create-learning-plan.js";
+import { ValidationError, XMLValidator } from "fast-xml-parser";
 
 export async function createTranscript(
   openAIClient: OpenAI,
   lesson: LessonDescription,
   goals: LearningGoals,
-  model: ChatCompletionCreateParamsNonStreaming["model"] = "gpt-4"
+  model: ChatCompletionCreateParamsNonStreaming["model"] = "gpt-4",
+  numRetries = 3
 ): Promise<string> {
   const completion = await openAIClient.chat.completions.create(
     createTranscriptCompletionRequest(lesson, goals, model)
   );
-  const response = completion.choices[0].message.content;
+  let response = completion.choices[0].message.content;
   if (!response) {
     throw new Error("No response from OpenAI");
   }
-  return response;
+
+  let retryCount = 0;
+  while (retryCount < numRetries) {
+    const validationResult = XMLValidator.validate(response);
+    if (validationResult === true) {
+      return response;
+    }
+    console.log(
+      "XML validation did not succeed, retrying",
+      response,
+      validationResult
+    );
+
+    const fixCompletion = await openAIClient.chat.completions.create(
+      fixTranscriptCompletionRequest(response, validationResult, model)
+    );
+    response = fixCompletion.choices[0].message.content as string | null;
+    if (!response) {
+      throw new Error("No response from OpenAI");
+    }
+  }
+  throw new Error("Unable to generate a valid transcript");
 }
 
 function createTranscriptCompletionRequest(
@@ -113,4 +136,26 @@ The lesson should talk about: ${lesson.title}: ${lesson.details}
 
 Begin SSML for lesson:
     `;
+}
+
+function fixTranscriptCompletionRequest(
+  transcript: string,
+  validationError: ValidationError,
+  model: ChatCompletionCreateParamsNonStreaming["model"]
+): ChatCompletionCreateParamsNonStreaming {
+  return {
+    model,
+    messages: [
+      {
+        role: "system",
+        content: `
+        Parsing the following XML vailed with:
+        ${JSON.stringify(validationError)}
+
+        Give me a corrected XML of this XML:
+        ${transcript}
+        `,
+      },
+    ],
+  };
 }

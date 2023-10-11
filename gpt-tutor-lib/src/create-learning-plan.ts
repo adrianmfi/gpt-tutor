@@ -103,7 +103,7 @@ ${
 }
   
   Remember that the point is to create short (1-5 minute) audio listening lessons.
-  That typically means only learning a few (2-5) new words or sentences
+  That typically means only learning a few (2-5) new words or sentences. Be specific about what to learn!
   There's not much use learning characters!
 
 
