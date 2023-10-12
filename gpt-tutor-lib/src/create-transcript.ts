@@ -73,7 +73,6 @@ End the lesson by summarizing.
 
 Remember that a lesson typically contains repetition and pauses.
 When learning a new word, it is helpful to include a sentence including the word.
-A word and sentence should typically be repeated several times, repetition is key to learning. Don't be terse, lessons should last for a while.
 
 You should NEVER speak the foreign language with english pronunciation.
 This is therefore bad:
@@ -88,7 +87,7 @@ The SSML should begin with:
 
 Here are the supported languages, you can only use one of these: ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW
 
-Remember to add breaks between words and sentences. Add breaks between sentences by using periods. Add breaks between repetitions in the same language with line breaks. 
+Remember to add breaks between words and sentences, especially when changing languages. Add breaks between sentences by using periods and colon. Add breaks between repetitions in the same language with line breaks. 
 An simple example:
 <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
     xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
@@ -98,9 +97,9 @@ An simple example:
             First, let's learn the phrase for "please". In Japanese, we say:
         </lang>
         <lang xml:lang="ja-JP">お願いします</lang>
-        <lang xml:lang="en-US">. That's</lang>
+        <lang xml:lang="en-US">. That's: </lang>
         <lang xml:lang="ja-JP">お願いします</lang>
-        <lang xml:lang="en-US">. Let's repeat it:</lang>
+        <lang xml:lang="en-US">. Once again:</lang>
         <lang xml:lang="ja-JP">
             お願いします
 
@@ -110,9 +109,9 @@ An simple example:
     </voice>
 </speak>
 
-Your transcript should be much longer than the simple example.
+The real transcript should be much longer than the simple example.
 
-Remember to repeat new words up to several times! Finally, remember to NOT use foreign and english words within the same <lang>.
+Remember to repeat new words up to several times! Finally, remember to NOT use foreign and english words in the same <lang/>.
 
 Now, the lesson description is:
 The lesson is a part of a series for learning ${goals.targetLanguage}.
