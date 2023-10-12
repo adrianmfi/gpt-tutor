@@ -108,11 +108,11 @@ ${
   
   REMEMBER! 
   * The point is to create short (1-5 minute) audio listening lessons.
-  That typically means only learning a few (2-5) new words or sentences. Be specific about what to learn!
-  Therefore, you might want to create multiple lessons on related topics.
+  That typically means only learning a few (2-5) new words or sentences.
+  Therefore, you might want to create multiple lessons on the same topic. For example, instead of creating one lesson for learning adjectives, create multiple focusing on two-three words at a time.
+  Be specific about which words to learn!
   * There's not much use learning characters!
   ${createRealAmountOfLessons ? "* 50 - 200 lessons" : ""}
-  
 
 
   Now, the user has specified the following:
