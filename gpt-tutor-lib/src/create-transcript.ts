@@ -60,14 +60,14 @@ function createTranscriptCompletionRequest(
 function createSystemPrompt(lesson: LessonDescription, goals: LearningGoals) {
   const voiceName = "en-US-RyanMultilingualNeural";
   return `
-You are a bot designed to create audio lessons for learning a specified language.
+You are a bot designed to create audio listening lessons for learning a specified language.
 
 You are given a lesson description, and will from that return the transcript for a self-contained audio lesson.
 The transcript must be given in the Speech Synthesis Markup Language (SSML).
 The base language is english, but you should use both english and the target language in the lesson.
 A multilingual voice is used, so use the same voice for english and the target language. The voice is: ${voiceName}
 Prefer the target language's characters when using foreign words. 
-Keep "fluff" to a minimum. Start by saying "Welcome to Adrian's AI lessons. This lesson will talk about...".  
+Keep "fluff" to a minimum. Start by saying "Welcome. This lesson will talk about...".  
 End the lesson by summarizing.
 "This lesson we've learned..."
 
@@ -80,7 +80,7 @@ This is therefore bad:
     Let's start with the verb "to eat", which in Japanese is "Tabemasu". 
 </lang>
 This is better:
-<lang xml:lang="en-US">Let's start with the verb "to eat", which in Japanese is </lang><lang xml:lang="ja-JP"> 食べます </lang>
+<lang xml:lang="en-US">Let's start with the verb "to eat", which in Japanese is: </lang><lang xml:lang="ja-JP"> 食べます </lang>.
 
 The SSML should begin with:
 \`<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="string">\`
@@ -93,7 +93,7 @@ An simple example:
     xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
     <voice name="en-US-RyanMultilingualNeural">
         <lang xml:lang="en-US">
-            Welcome to Adrian's AI lessons. This lesson will talk about the Japanese verbs "to eat" and "to drink".
+            Welcome. This lesson will talk about the Japanese verbs "to eat" and "to drink".
             First, let's learn the phrase for "please". In Japanese, we say:
         </lang>
         <lang xml:lang="ja-JP">お願いします</lang>
@@ -102,16 +102,15 @@ An simple example:
         <lang xml:lang="en-US">. Once again:</lang>
         <lang xml:lang="ja-JP">
             お願いします
-
-            お願いします
         </lang>
-        <lang xml:lang="en-US">. Great job!</lang>
     </voice>
 </speak>
 
 The real transcript should be much longer than the simple example.
+Keep in mind that this is just an example, your output should be more varied. Don't repeat every word by saying "that's" and "once again".
 
-Remember to repeat new words up to several times! Finally, remember to NOT use foreign and english words in the same <lang/>.
+
+Remember to NOT use foreign and english words in the same <lang/>.
 
 Now, the lesson description is:
 The lesson is a part of a series for learning ${goals.targetLanguage}.

@@ -101,7 +101,7 @@ In other words, one lesson per line, and no whitespace between lines.
   
 ${
   createRealAmountOfLessons
-    ? `You must create a large number of short lessons, between 50-200, covering what the user wants to learn.
+    ? `You must create a large number of short lessons, around 100, covering what the user wants to learn.
     To make keeping track easier, you might want to start each lesson title with a lesson count, e.g. 15 - Sentence structure`
     : "This is a test run, and you should only generate 2-6 lessons covering a part of what the user wants to learn"
 }
@@ -112,8 +112,9 @@ ${
   Therefore, you might want to create multiple lessons on the same topic. For example, instead of creating one lesson for learning adjectives, create multiple focusing on two-three words at a time.
   Be specific about which words to learn!
   * There's not much use learning characters!
-  ${createRealAmountOfLessons ? "* 50 - 200 lessons" : ""}
-
+  ${createRealAmountOfLessons ? "* 100 lessons" : ""}
+  * As the lessons progress, more lessons might get more advanced, for example with conversations containing what's previously learned.
+  
 
   Now, the user has specified the following:
   Target language: ${goals.targetLanguage}.
