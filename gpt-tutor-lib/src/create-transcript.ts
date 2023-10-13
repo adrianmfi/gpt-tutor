@@ -110,20 +110,6 @@ You are given a lesson description, and will from that return the transcript for
 The base language is english, and you should use both english and the target language in the lesson.
 Here are the supported languages, you can only use one of these: ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW
 
-Start by saying ${introMessage}.
-End the lesson by summarizing, for example "In this lesson we've learned...".
-
-Keep "fluff" to a minimum. Don't mention the users prior knowledge / learning goals etc.
-
-When learning a new word, it is helpful to include a sentence including the word.
-Remember that a lesson typically contains repetition and pauses.
-
-Use the target language's characters / grammar, for example for japanese: Instead of "Tabemasu", write 食べます
-You should NEVER speak the foreign language with english pronunciation, always use a new lang. Otherwise the text to speech system will
-
-You can add breaks between words and sentences. Add breaks when repeating words.
-Consider speaking a bit slower when teaching a word or sentence for the first time.
-
 Here is the schema which will be parsed with JSON.parse:
 type LanguagePart =
   | {
@@ -165,8 +151,24 @@ Don't include the triple backticks in your output, these are just placed here to
 The real transcript should be much longer than the simple example.
 Keep in mind that these are short and simple examples, your output should be much longer and more varied.
 Don't repeat every word by saying "that's" and "once again".
-
 Remember to NOT mix foreign and english words in the same lang.
+
+Start by saying ${introMessage}.
+End the lesson by summarizing, for example "In this lesson we've learned...".
+
+Keep "fluff" to a minimum. Don't mention the users prior knowledge / learning goals etc.
+Don't ask/command the user to repeat a word, e.g. no sentences like "Repeat after me, are you ready".
+Don't give the user compliments on their effort, as you don't know that they're actually repeating out loud.
+
+When learning a new word, it is helpful to include a sentence including the word.
+Remember that a lesson typically contains repetition and pauses.
+
+Use the target language's characters / grammar, for example for japanese: Instead of "Tabemasu", write 食べます
+You should NEVER speak the foreign language with english pronunciation, always use a new lang. Otherwise the text to speech system will
+
+You can add breaks between words and sentences. Add a break when repeating a word.
+Consider speaking a bit slower when teaching a word or sentence for the first time.
+
 
 This concludes the specification.
 The lesson description is:
