@@ -70,7 +70,6 @@ function createLearningPlanCompletionRequest(
     ],
     presence_penalty: 0,
     frequency_penalty: 0,
-    max_tokens: 7000,
   };
 }
 
