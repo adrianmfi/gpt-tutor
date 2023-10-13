@@ -1,7 +1,8 @@
-import { writeFileSync, join } from "fs";
+import { writeFileSync, mkdirSync, existsSync } from "fs";
+import { join } from "path";
 import inquirer from "inquirer";
 import { SpeechConfig } from "microsoft-cognitiveservices-speech-sdk";
-import { convertAudioFormat, synthesizeAudio } from "./synthesize-audio.js";
+import { convertAudioFormat, synthesizeAudio } from "./lib/synthesize-audio.js";
 
 let azureSpeechKey = process.env.AZURE_SPEECH_KEY;
 if (!azureSpeechKey) {
@@ -81,4 +82,8 @@ const mp3Buffer = await convertAudioFormat(
   "wav",
   "mp3"
 );
+if (!existsSync(outputDir)) {
+  console.log("Creating output dir", outputDir);
+  mkdirSync(outputDir, { recursive: true });
+}
 writeFileSync(join(outputDir, "test.mp3"), mp3Buffer);

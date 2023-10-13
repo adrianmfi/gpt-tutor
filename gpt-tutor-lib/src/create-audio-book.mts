@@ -12,9 +12,9 @@ import {
   LearningGoals,
   LearningPlan,
   createLearningPlan,
-} from "./create-learning-plan.js";
-import { createTranscript } from "./create-transcript.js";
-import { convertAudioFormat, synthesizeAudio } from "./synthesize-audio.js";
+} from "./lib/create-learning-plan.js";
+import { createTranscript } from "./lib/create-transcript.js";
+import { convertAudioFormat, synthesizeAudio } from "./lib/synthesize-audio.js";
 import { SpeechConfig } from "microsoft-cognitiveservices-speech-sdk";
 import { Command } from "commander";
 
@@ -55,7 +55,7 @@ const gptModelPrompt = await inquirer.prompt({
   type: "input",
   name: "model",
   message: "Enter GPT model",
-  default: "gpt-3.5-turbo",
+  default: "gpt-4",
 });
 const gptModel = gptModelPrompt.model;
 
