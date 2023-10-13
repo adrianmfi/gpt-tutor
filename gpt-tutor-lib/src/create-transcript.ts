@@ -10,47 +10,32 @@ export async function createTranscript(
   model: ChatCompletionCreateParamsNonStreaming["model"] = "gpt-4",
   numRetries = 3
 ): Promise<string> {
-  const completion = await openAIClient.chat.completions.create(
-    createTranscriptCompletionRequest(lesson, goals, model)
-  );
-  let response = completion.choices[0].message.content;
-  if (!response) {
-    throw new Error("No response from OpenAI");
-  }
-
   let retryCount = 0;
   while (retryCount < numRetries) {
+    const systemPrompt = createSystemPrompt(lesson, goals);
+    const completion = await openAIClient.chat.completions.create({
+      model,
+      messages: [
+        {
+          role: "system",
+          content: systemPrompt,
+        },
+      ],
+    });
+    let response = completion.choices[0].message.content;
+    if (!response) {
+      throw new Error("No response from OpenAI");
+    }
     try {
       const parsed = JSON.parse(response);
       return convertToSSML(parsed);
     } catch (e) {
       console.log("Failed parsing, retrying", e);
-      const fixCompletion = await openAIClient.chat.completions.create(
-        fixTranscriptCompletionRequest(response, JSON.stringify(e), model)
-      );
-      response = fixCompletion.choices[0].message.content as string | null;
-      if (!response) {
-        throw new Error("No response from OpenAI");
-      }
+      console.log(response);
     }
+    retryCount++;
   }
   throw new Error("Unable to generate a valid transcript");
-}
-
-function createTranscriptCompletionRequest(
-  lesson: LessonDescription,
-  goals: LearningGoals,
-  model: ChatCompletionCreateParamsNonStreaming["model"]
-): ChatCompletionCreateParamsNonStreaming {
-  return {
-    model,
-    messages: [
-      {
-        role: "system",
-        content: createSystemPrompt(lesson, goals),
-      },
-    ],
-  };
 }
 
 type LanguagePart =
@@ -101,7 +86,7 @@ export function convertToSSML(parsed: Transcript): string {
 }
 
 function createSystemPrompt(lesson: LessonDescription, goals: LearningGoals) {
-  const introMessage = '"Welcome. This lesson will talk about..."';
+  const introMessage = '"Welcome, let\'s get started. "';
   return `
 You are a bot designed to create transcripts for audio listening lessons for learning a specified language.
 The transcripts will be parsed and converted to audio by a text to speech system.
@@ -145,18 +130,19 @@ Another example:
 ]
 \`\`\`
 
+Don't include the triple backticks in your output, these are just placed here to mark example boundaries. Your response should be able to parse with JSON.parse directly.
 Don't add unnecessary whitespace. If you want to add newlines in a text, use \\\\n
 
-Don't include the triple backticks in your output, these are just placed here to mark example boundaries.
 The real transcript should be much longer than the simple example.
 Keep in mind that these are short and simple examples, your output should be much longer and more varied.
 Don't repeat every word by saying "that's" and "once again".
 Remember to NOT mix foreign and english words in the same lang.
 
+Keep "fluff" to a minimum, remember that this is a course for learning the language. 
+Don't mention the users prior knowledge / learning goals etc. 
+Don't give a long introduction to the lesson.
 Start by saying ${introMessage}.
-End the lesson by summarizing, for example "In this lesson we've learned...".
-
-Keep "fluff" to a minimum. Don't mention the users prior knowledge / learning goals etc.
+End the lesson by briefly summarizing, for example "In this lesson we've learned to say...".
 Don't ask/command the user to repeat a word, e.g. no sentences like "Repeat after me, are you ready".
 Don't give the user compliments on their effort, as you don't know that they're actually repeating out loud.
 
@@ -164,11 +150,14 @@ When learning a new word, it is helpful to include a sentence including the word
 Remember that a lesson typically contains repetition and pauses.
 
 Use the target language's characters / grammar, for example for japanese: Instead of "Tabemasu", write 食べます
-You should NEVER speak the foreign language with english pronunciation, always use a new lang. Otherwise the text to speech system will
+You should NEVER mix the foreign language with english language, always use a new lang. Otherwise the text to speech system will fail.
+How to NOT do it. NEVER EVER do this:
+[{"lang":"en-US","parts":[{"text":"It is pronounced as O-gen-ki desu ka?."}]}]
+Instead, do something like
+[{"lang":"en-US","parts":[{"text":"It is pronounced as: "}]},{"lang":"ja-JP","parts":[{"text":"お元気ですか？"}]}]
 
 You can add breaks between words and sentences. Add a break when repeating a word.
 Consider speaking a bit slower when teaching a word or sentence for the first time.
-
 
 This concludes the specification.
 The lesson description is:
@@ -190,11 +179,13 @@ function fixTranscriptCompletionRequest(
       {
         role: "system",
         content: `
-        Parsing the following vailed with:
+        Parsing this:
+        ${transcript}
+        
+        failed with:
         ${error}
 
-        Give me a corrected version:
-        ${transcript}
+        Now, give me the corrected version (only give the corrected data, no other text or characters):
         `,
       },
     ],
