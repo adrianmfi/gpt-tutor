@@ -55,7 +55,7 @@ const gptModelPrompt = await inquirer.prompt({
   type: "input",
   name: "model",
   message: "Enter GPT model",
-  default: "gpt-4",
+  default: "gpt-4-0314",
 });
 const gptModel = gptModelPrompt.model;
 
