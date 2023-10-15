@@ -163,7 +163,6 @@ for (const lesson of learningPlan.lessons) {
     );
     writeFileSync(join(outputDir, lesson.title + ".mp3"), mp3Buffer);
   }
-  throw 1;
 }
 
 console.log("Complete. Files and transcripts are available in", outputDir);
