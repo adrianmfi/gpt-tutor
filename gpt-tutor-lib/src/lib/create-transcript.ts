@@ -134,16 +134,13 @@ Don't add unnecessary whitespace. If you want to add newlines in a text, use \\\
 
 Never, ever mix foreign and english words in the same lang. 
 If you want to say a word or an example in the foreign language, you must use a new LanguagePart
-You should NEVER mix the foreign language with english language, always use a new lang tag. Otherwise the text to speech system will fail, as it is not able to read "Tabemasu" properly with lang="en-US".
-In other words, NEVER EVER do this:
+Bad:
 [{"lang":"en-US","parts":[{"text":"It is pronounced as O-gen-ki desu ka?."}]}]
-Instead, do something like this, where japanese is contained in an object with japanese "lang" statement
+Good:
 [{"lang":"en-US","parts":[{"text":"It is pronounced as: "}]},{"lang":"ja-JP","parts":[{"text":"お元気ですか？"}]}]
 Use the target language's characters / grammar, for example for japanese: Instead of "Tabemasu", write 食べます
 
-Keep "fluff" to a minimum, remember that this is a course for learning the language. 
-Don't give a long introduction to the lesson.
-Don't mention the users prior knowledge / learning goals etc. 
+Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
 Start by saying ${introMessage}.
 End the lesson by briefly summarizing, for example "In this lesson we've learned to say...".
 
@@ -161,14 +158,11 @@ Don't give the user compliments on their effort, e.g. no "good job!".
 You can add breaks between words and sentences. Add a break when repeating a word.
 Consider speaking a bit slower when teaching a word or sentence for the first time.
 
-This concludes the specification. 
-Here comes some example outputs. Keep in mind that these are short and simple examples, your transcript should be much longer and more varied.
-
-Example:
+Simple examples:
 [{"lang":"en-US","parts":[{"text":"Thank you!"}]},
 {"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"ありがとうございます"}]}]
 
-Another example:
+Example:
 [
 {"lang":"en-US","parts":[{"text":"Here is a sentence example: \\"Please show me the menu.\\" In Japanese, this would be:"}]},
 {"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"メニューを見せてください"}]},
@@ -178,10 +172,20 @@ Another example:
 {"lang":"ja-JP","parts":[{"rate":"-20%","text":"予約"},{"break":"1s"},{"text":"予約"}]}
 ]
 
+Example: [
+{"lang":"en-US","parts":[{"text":"Here, "}]},
+{"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"私"}]},
+{"lang":"en-US","parts":[{"text":"means 'I', "}]},
+{"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"は"}]},
+{"lang":"en-US","parts":[{"text":"is a topic marker, and "}]},
+{"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"寿司"}]},
+{"lang":"en-US","parts":[{"text":" means 'sushi'.}]},
+]
+Keep in mind that these are short and simple examples, your transcript should be much longer and more varied.
+
 The lesson description is:
 The lesson is a part of a series for learning ${goals.targetLanguage}.
 ${priorLessonsMessage}
-The listener has prior knowledge: ${goals.priorKnowledge}.
 The lesson should talk about: ${lesson.title}: ${lesson.details}
 
 Now, give me the transcript for the lesson:`;
