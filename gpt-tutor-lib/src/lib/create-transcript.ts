@@ -1,10 +1,15 @@
 import { OpenAI } from "openai";
 import { ChatCompletionCreateParamsNonStreaming } from "openai/resources/chat/index.mjs";
-import { LearningGoals, LessonDescription } from "./create-learning-plan.js";
+import {
+  LearningGoals,
+  LessonDescription,
+  LearningPlan,
+} from "./create-learning-plan.js";
 import { ValidationError, XMLValidator } from "fast-xml-parser";
 
 export async function createTranscript(
   openAIClient: OpenAI,
+  learningPlan: LearningPlan,
   lesson: LessonDescription,
   goals: LearningGoals,
   model: ChatCompletionCreateParamsNonStreaming["model"] = "gpt-4",
@@ -12,7 +17,8 @@ export async function createTranscript(
 ): Promise<string> {
   let retryCount = 0;
   while (retryCount < numRetries) {
-    const systemPrompt = createSystemPrompt(lesson, goals);
+    const systemPrompt = createSystemPrompt(learningPlan, lesson, goals);
+    console.log(systemPrompt);
     const completion = await openAIClient.chat.completions.create({
       model,
       messages: [
@@ -85,17 +91,30 @@ export function convertToSSML(parsed: Transcript): string {
   return ssml;
 }
 
-function createSystemPrompt(lesson: LessonDescription, goals: LearningGoals) {
-  const introMessage = '"Welcome, let\'s get started. "';
+function createSystemPrompt(
+  learningPlan: LearningPlan,
+  lesson: LessonDescription,
+  goals: LearningGoals
+) {
+  const introMessage =
+    'something like "Now, let\'s learn ...", or "We will now ..."';
+  const lessonIndex = learningPlan.lessons.findIndex(
+    (learningPlanLesson) => learningPlanLesson.title === lesson.title
+  );
+  const priorLessons = learningPlan.lessons.slice(0, lessonIndex);
+  const priorLessonsMessage =
+    priorLessons.length === 0
+      ? ""
+      : `The lessons has already covered ${priorLessons
+          .map((l) => l.details)
+          .join(", ")}`;
   return `
 You are a bot designed to create transcripts for audio listening lessons for learning a specified language.
 The transcripts will be parsed and converted to audio by a text to speech system.
+The base language is english (en-US), and you should use both english and the target language in the lesson.
+Here are the supported target languages, you can only use one of these: ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW
 
-You are given a lesson description, and will from that return the transcript for a self-contained audio lesson.
-The base language is english, and you should use both english and the target language in the lesson.
-Here are the supported languages, you can only use one of these: ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW
-
-Here is the schema which will be parsed with JSON.parse:
+You should return your lessons in JSON format. Here is the schema:
 type LanguagePart =
   | {
       text: string;
@@ -110,16 +129,46 @@ type Transcript = {
   parts: LanguagePart[];
 }[];
 
-Examples
-\`\`\`
+Your response should be able to parse with JSON.parse.
+Don't add unnecessary whitespace. If you want to add newlines in a text, use \\\\n
+
+Never, ever mix foreign and english words in the same lang. 
+If you want to say a word or an example in the foreign language, you must use a new LanguagePart
+You should NEVER mix the foreign language with english language, always use a new lang tag. Otherwise the text to speech system will fail, as it is not able to read "Tabemasu" properly with lang="en-US".
+In other words, NEVER EVER do this:
+[{"lang":"en-US","parts":[{"text":"It is pronounced as O-gen-ki desu ka?."}]}]
+Instead, do something like this, where japanese is contained in an object with japanese "lang" statement
+[{"lang":"en-US","parts":[{"text":"It is pronounced as: "}]},{"lang":"ja-JP","parts":[{"text":"お元気ですか？"}]}]
+Use the target language's characters / grammar, for example for japanese: Instead of "Tabemasu", write 食べます
+
+Keep "fluff" to a minimum, remember that this is a course for learning the language. 
+Don't give a long introduction to the lesson.
+Don't mention the users prior knowledge / learning goals etc. 
+Start by saying ${introMessage}.
+End the lesson by briefly summarizing, for example "In this lesson we've learned to say...".
+
+Remember that a lesson typically contains repetition and pauses.
+Don't repeat every word by saying "that's" and "once again", be more varied.
+Don't ask/command the user to repeat a word, e.g. no sentences like "Repeat after me, are you ready".
+After learning new words, consider repeating them again later in the lesson. For example:
+"In norwegian, book is "bok"" ... and then a bit later in the lesson, after learning other things, something like "Remember, book is "bok""
+When learning a new word, it can be helpful to include a sentence including the word.
+When speaking a sentence, it can be helpful to explain each part of the sentence, e.g. something like:
+"To say "How do I get there", you can say "Hvordan kommer jeg meg dit?". "Hvordan" - How, "Kommer jeg meg" - Do i get, "Dit" - there.
+If the listener is learning very simple words they might not be ready for sentences yet.
+Don't give the user compliments on their effort, e.g. no "good job!".
+
+You can add breaks between words and sentences. Add a break when repeating a word.
+Consider speaking a bit slower when teaching a word or sentence for the first time.
+
+This concludes the specification. 
+Here comes some example outputs. Keep in mind that these are short and simple examples, your transcript should be much longer and more varied.
+
+Example:
 [{"lang":"en-US","parts":[{"text":"Thank you!"}]},
 {"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"ありがとうございます"}]}]
-\`\`\`
-In other words, a modifier line starts with >. These lines modify the text that comes after. 
-Lines without a modifier line is the text to read. You can have multiple successive text lines without a modifier.
 
 Another example:
-\`\`\`
 [
 {"lang":"en-US","parts":[{"text":"Here is a sentence example: \\"Please show me the menu.\\" In Japanese, this would be:"}]},
 {"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"メニューを見せてください"}]},
@@ -128,40 +177,10 @@ Another example:
 {"lang":"en-US","parts":[{"break":"1s"},{"text":"Now let's move on to \\"reservation\\". In Japanese, this is:"}]},
 {"lang":"ja-JP","parts":[{"rate":"-20%","text":"予約"},{"break":"1s"},{"text":"予約"}]}
 ]
-\`\`\`
 
-Don't include the triple backticks in your output, these are just placed here to mark example boundaries. Your response should be able to parse with JSON.parse directly.
-Don't add unnecessary whitespace. If you want to add newlines in a text, use \\\\n
-
-The real transcript should be much longer than the simple example.
-Keep in mind that these are short and simple examples, your output should be much longer and more varied.
-Don't repeat every word by saying "that's" and "once again".
-Remember to NOT mix foreign and english words in the same lang.
-
-Keep "fluff" to a minimum, remember that this is a course for learning the language. 
-Don't mention the users prior knowledge / learning goals etc. 
-Don't give a long introduction to the lesson.
-Start by saying ${introMessage}.
-End the lesson by briefly summarizing, for example "In this lesson we've learned to say...".
-Don't ask/command the user to repeat a word, e.g. no sentences like "Repeat after me, are you ready".
-Don't give the user compliments on their effort, as you don't know that they're actually repeating out loud.
-
-When learning a new word, it is helpful to include a sentence including the word.
-Remember that a lesson typically contains repetition and pauses.
-
-Use the target language's characters / grammar, for example for japanese: Instead of "Tabemasu", write 食べます
-You should NEVER mix the foreign language with english language, always use a new lang. Otherwise the text to speech system will fail.
-How to NOT do it. NEVER EVER do this:
-[{"lang":"en-US","parts":[{"text":"It is pronounced as O-gen-ki desu ka?."}]}]
-Instead, do something like
-[{"lang":"en-US","parts":[{"text":"It is pronounced as: "}]},{"lang":"ja-JP","parts":[{"text":"お元気ですか？"}]}]
-
-You can add breaks between words and sentences. Add a break when repeating a word.
-Consider speaking a bit slower when teaching a word or sentence for the first time.
-
-This concludes the specification.
 The lesson description is:
 The lesson is a part of a series for learning ${goals.targetLanguage}.
+${priorLessonsMessage}
 The listener has prior knowledge: ${goals.priorKnowledge}.
 The lesson should talk about: ${lesson.title}: ${lesson.details}
 

@@ -55,14 +55,14 @@ const gptModelPrompt = await inquirer.prompt({
   type: "input",
   name: "model",
   message: "Enter GPT model",
-  default: "gpt-4-0314",
+  default: "gpt-4",
 });
 const gptModel = gptModelPrompt.model;
 
 const learningGoals: LearningGoals = {
   targetLanguage: "japanese",
-  priorKnowledge:
-    "I know some simple sentences like hello, goodbye, and my name is",
+  priorKnowledge: `I've done 100 lessons on duolingo, so i know some words like hello, goodbye, 
+   some sentences like where is, my name is, some colors like white, how to say where and there`,
   targetKnowledge: "Enough to be able to enjoy a three week vacation",
 };
 
@@ -144,6 +144,7 @@ for (const lesson of learningPlan.lessons) {
     console.log("Generating transcript");
     transcript = await createTranscript(
       openAIClient,
+      learningPlan,
       lesson,
       learningGoals,
       gptModel
@@ -162,6 +163,7 @@ for (const lesson of learningPlan.lessons) {
     );
     writeFileSync(join(outputDir, lesson.title + ".mp3"), mp3Buffer);
   }
+  throw 1;
 }
 
 console.log("Complete. Files and transcripts are available in", outputDir);

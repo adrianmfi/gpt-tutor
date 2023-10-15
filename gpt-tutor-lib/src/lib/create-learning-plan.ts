@@ -78,25 +78,7 @@ function createSystemPrompt(goals: LearningGoals) {
   return `
   You are a bot designed to create a learning plan for learning a specified language.
   You are given details about a users learning goals. You will respond with a list of lessons for learning the specified language.
-  These lessons will be later handled by a tutor bot which will take your lesson descriptions and create detailed transcripts and audio for each lesson.
-  The lessons will use english as the base language, and switch between speaking english and the language to learn.
-  You must reply in the following format.
-  \`\`\`
-  {Lesson X title}: {Lesson X contents}
-  {Lesson Y title}: {Lesson Y contents}
-  {...and so on...}
-  \`\`\`
-
-  An excerpt from a generated learning plan for a user wanting to learn japanese for a holiday trip:
-  \`\`\`
-  ...
-  Introduction to numbers: learn how to count from 1 to 20.
-  Numbers part two: Learn the numbers 20 through 100 and how to express your age
-  To do and to see: Introduce verbs "to eat" (Tabemasu), "to drink" (Nomimasu).
-  ...
-  \`\`\`
-In other words, one lesson per line, and no whitespace between lines.
-
+  These lessons will be later handled by a tutor bot which will take your lesson descriptions and create transcripts and audio for each lesson.
   
 ${
   createRealAmountOfLessons
@@ -105,23 +87,32 @@ ${
     : "This is a test run, and you should only generate 2-6 lessons covering a part of what the user wants to learn"
 }
   
-  REMEMBER! 
   * The point is to create short (1-5 minute) audio listening lessons.
   That typically means only learning a few (2-5) new words or sentences.
-  Therefore, you might want to create multiple lessons on the same topic. For example, instead of creating one lesson for learning adjectives, create multiple focusing on two-three words at a time.
-  Be specific about which words to learn!
+  Therefore, you typically want to create several lessons on the same topic.
+  Be specific about what the lesson should contain.
   * There's not much use learning characters!
   ${createRealAmountOfLessons ? "* 100 lessons" : ""}
-  * As the lessons progress, more lessons might get more advanced, for example with conversations containing what's previously learned.
+  * As the lessons progress, more lessons might get more advanced, for example with longer sentences or conversations containing what's previously learned.
   
+  An excerpt from a generated learning plan for a user wanting to learn japanese for a holiday trip:
+  20 - Adverbs of place: Where, here, there
+  21 - Adverbs of place 2: Above, below, inside and outside
+  22 - Directions: Left, right, straight ahead and turn.
+  23 - Transportation: Train, bus, taxi and subway.
+  24 - Buying tickets: Once ticket, round trip and platform.
+  25 - Asking for directions: "Where is the bus stop", "How far", "How long"
+  
+  A bit later in the learning plan:
+  50 - Asking for directions conversation: A conversation about asking for directions
+  51 - Weather vocabulary: Sunny, cloudy, raining/rainy, snowing/snowy
 
   Now, the user has specified the following:
   Target language: ${goals.targetLanguage}.
   Prior knowledge: ${goals.priorKnowledge}.
   Target knowledge: ${goals.targetKnowledge}.
 
-  Now, create a learning plan in the desired format:
-    `;
+  Now, create a learning plan in the desired format:`;
 }
 
 function parseLearningPlan(response: string): LearningPlan {
