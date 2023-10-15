@@ -17,6 +17,8 @@ export async function createTranscript(
 ): Promise<string> {
   let retryCount = 0;
   while (retryCount < numRetries) {
+    retryCount++;
+
     const systemPrompt = createSystemPrompt(learningPlan, lesson, goals);
     console.log(systemPrompt);
     const completion = await openAIClient.chat.completions.create({
@@ -29,17 +31,17 @@ export async function createTranscript(
       ],
     });
     let response = completion.choices[0].message.content;
+    console.log(response);
     if (!response) {
       throw new Error("No response from OpenAI");
     }
     try {
-      const parsed = JSON.parse(response);
+      const parsed = parseTranscript(response);
       return convertToSSML(parsed);
     } catch (e) {
       console.log("Failed parsing, retrying", e);
       console.log(response);
     }
-    retryCount++;
   }
   throw new Error("Unable to generate a valid transcript");
 }
@@ -59,7 +61,41 @@ type Transcript = {
 }[];
 
 export function parseTranscript(transcript: string): Transcript {
-  return JSON.parse(transcript);
+  const parsed: Transcript = [];
+  let startPos = 0;
+  while (true) {
+    const nextOccurrence = transcript.indexOf("<lang", startPos);
+    if (nextOccurrence === -1) {
+      parsed.push({
+        lang: "en-US",
+        parts: [{ text: transcript.slice(startPos) }],
+      });
+      break;
+    } else {
+      parsed.push({
+        lang: "en-US",
+        parts: [
+          { text: transcript.slice(startPos, nextOccurrence) },
+          { break: "1s" },
+        ],
+      });
+      const beginLang = nextOccurrence + '<lang lang="'.length;
+      const endLang = transcript.indexOf('"', beginLang);
+      const lang = transcript.slice(beginLang, endLang);
+
+      const beginText = transcript.indexOf(">", nextOccurrence) + 1;
+      const endText = transcript.indexOf("</lang>", beginText);
+      parsed.push({
+        lang,
+        parts: [
+          { text: transcript.slice(beginText, endText), rate: "-20%" },
+          { break: "1s" },
+        ],
+      });
+      startPos = endText + "</lang>".length;
+    }
+  }
+  return parsed;
 }
 
 export function convertToSSML(parsed: Transcript): string {
@@ -108,87 +144,81 @@ function createSystemPrompt(
       : `The lessons has already covered ${priorLessons
           .map((l) => l.details)
           .join(", ")}`;
-  return `
-You are a bot designed to create transcripts for audio listening lessons for learning a specified language.
-The transcripts will be parsed and converted to audio by a text to speech system.
-The base language is english (en-US), and you should use both english and the target language in the lesson.
-Here are the supported target languages, you can only use one of these: ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW
 
-You should return your lessons in JSON format. Here is the schema:
-type LanguagePart =
-  | {
-      text: string;
-      rate?: string;
-    }
-  | {
-      break: string;
-    };
+  const supportedLanguages =
+    "ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW";
+  return `You are tasked with creating transcripts for audio lessons targeting language learners.
+  These transcripts will be converted to audio via a text-to-speech system.
+  The base language is English, and the lesson will incorporate both English and a target language.
+  Here are the supported languages: ${supportedLanguages}
 
-type Transcript = {
-  lang: string;
-  parts: LanguagePart[];
-}[];
+  Instructions:
+  * Always wrap the foreign language with <lang language-to-speak>Foreign language to speak</lang>.
+  * Use the target language's writing system. Instead of "Tabemasu", write "食べます". For japanese, use hiragana and katakana over kanji.
+  * Start lessons with ${introMessage}.
+  * Conclude by summarizing, e.g., "In this lesson, we've learned...".
+  * Introduce new words with context and possibly a sentence for usage. When using a sentence, explain the sentence part by part.
+  * Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
 
-Your response should be able to parse with JSON.parse.
-Don't add unnecessary whitespace. If you want to add newlines in a text, use \\\\n
+  Example Outputs:
+  Example 1:
+  Now we're going to learn the words for 'left', 'right', 'straight ahead', and 'turn'.
+  First up is the word for 'left', which in Japanese is: <lang lang="ja-JP">左</lang>.
+  Once more, 'left' is: <lang lang="ja-JP">左</lang>.
+  A helpful phrase would be: "Go left" which translates to: <lang lang="ja-JP">左に行って下さい</lang>.
+  And again, 'Go left' is: <lang lang="ja-JP">左に行って下さい</lang>.
 
-Never, ever mix foreign and english words in the same lang. 
-If you want to say a word or an example in the foreign language, you must use a new LanguagePart
-Bad:
-[{"lang":"en-US","parts":[{"text":"It is pronounced as O-gen-ki desu ka?."}]}]
-Good:
-[{"lang":"en-US","parts":[{"text":"It is pronounced as: "}]},{"lang":"ja-JP","parts":[{"text":"お元気ですか？"}]}]
-Use the target language's characters / grammar, for example for japanese: Instead of "Tabemasu", write 食べます
+  Now we will learn the word 'right'. In Japanese, right is: <lang lang="ja-JP">右</lang>.
+  Once more, 'right' is: <lang lang="ja-JP">右</lang>.
+  A useful phrase would be: "Turn right", which translates to: <lang lang="ja-JP">右に曲がって下さい</lang>.
+  And again, 'Turn right' is: <lang lang="ja-JP">右に曲がって下さい</lang>.
 
-Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
-Start by saying ${introMessage}.
-End the lesson by briefly summarizing, for example "In this lesson we've learned to say...".
+  Next, we'll tackle the phrase 'straight ahead'. In Japanese, straight ahead is: <lang lang="ja-JP">まっすぐ</lang>.
+  Once more, 'straight ahead' is: <lang lang="ja-JP">まっすぐ</lang>.
+  A phrase would be: "Go straight ahead", which translates to: <lang lang="ja-JP">まっすぐ進んで下さい</lang>.
+  And again, 'Go straight ahead' is: <lang lang="ja-JP">まっすぐ進んで下さい</lang>.
 
-Remember that a lesson typically contains repetition and pauses.
-Don't repeat every word by saying "that's" and "once again", be more varied.
-Don't ask/command the user to repeat a word, e.g. no sentences like "Repeat after me, are you ready".
-After learning new words, consider repeating them again later in the lesson. For example:
-"In norwegian, book is "bok"" ... and then a bit later in the lesson, after learning other things, something like "Remember, book is "bok""
-When learning a new word, it can be helpful to include a sentence including the word.
-When speaking a sentence, it can be helpful to explain each part of the sentence, e.g. something like:
-"To say "How do I get there", you can say "Hvordan kommer jeg meg dit?". "Hvordan" - How, "Kommer jeg meg" - Do i get, "Dit" - there.
-If the listener is learning very simple words they might not be ready for sentences yet.
-Don't give the user compliments on their effort, e.g. no "good job!".
+  Lastly, let's learn the word for 'turn'. In Japanese, 'turn' is: <lang lang="ja-JP">曲がる</lang>.
+  To reiterate, 'turn' is: <lang lang="ja-JP">曲がる</lang>.
+  For instance, "Turn at the corner" in Japanese would be: <lang lang="ja-JP">角で曲がって下さい</lang>.
+  Repeating, "Turn at the corner" is: <lang lang="ja-JP">角で曲がって下さい</lang>.
 
-You can add breaks between words and sentences. Add a break when repeating a word.
-Consider speaking a bit slower when teaching a word or sentence for the first time.
+  To summarize:
+  Left: <lang lang="ja-JP">左</lang>.
+  Right: <lang lang="ja-JP">右</lang>.
+  Straight ahead: <lang lang="ja-JP">まっすぐ</lang>.
+  Turn: <lang lang="ja-JP">曲がる</lang>.
 
-Simple examples:
-[{"lang":"en-US","parts":[{"text":"Thank you!"}]},
-{"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"ありがとうございます"}]}]
+  In this lesson, we learned how to say 'left' as <lang lang="ja-JP">左</lang>, 'right' as <lang lang="ja-JP">右</lang>, 'straight ahead' as <lang lang="ja-JP">まっすぐ</lang>, and 'turn' as <lang lang="ja-JP">曲がる</lang>. Keep practicing and soon these words will become second nature to you!
 
-Example:
-[
-{"lang":"en-US","parts":[{"text":"Here is a sentence example: \\"Please show me the menu.\\" In Japanese, this would be:"}]},
-{"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"メニューを見せてください"}]},
-{"lang":"en-US","parts":[{"break":"1s"},{"text":". Again, that's:"}]},
-{"lang":"ja-JP","parts":[{"break":"1s"},{"text":"メニューを見せてください"}]},
-{"lang":"en-US","parts":[{"break":"1s"},{"text":"Now let's move on to \\"reservation\\". In Japanese, this is:"}]},
-{"lang":"ja-JP","parts":[{"rate":"-20%","text":"予約"},{"break":"1s"},{"text":"予約"}]}
-]
+  Example 2:
+  In this lesson we're focusing on three foundational Japanese expressions: 'I'm sorry', 'yes', and 'no'.
 
-Example: [
-{"lang":"en-US","parts":[{"text":"Here, "}]},
-{"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"私"}]},
-{"lang":"en-US","parts":[{"text":"means 'I', "}]},
-{"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"は"}]},
-{"lang":"en-US","parts":[{"text":"is a topic marker, and "}]},
-{"lang":"ja-JP","parts":[{"break":"1s"},{"rate":"-20%","text":"寿司"}]},
-{"lang":"en-US","parts":[{"text":" means 'sushi'.}]},
-]
-Keep in mind that these are short and simple examples, your transcript should be much longer and more varied.
+  Firstly, let's tackle 'I'm sorry'. In Japanese, this is: <lang lang="ja-JP">ごめんなさい</lang>.
+  Remember, 'I'm sorry' translates to <lang lang="ja-JP">ごめんなさい</lang>.
+  It's an expression of regret, commonly used to apologize. Let's say it again: 'I'm sorry' is <lang lang="ja-JP">ごめんなさい</lang>.
+  There's also a shorter version, <lang lang="ja-JP">ごめん</lang>, frequently used informally among friends. Once more, a casual 'I'm sorry' can be <lang lang="ja-JP">ごめん</lang>.
 
-The lesson description is:
-The lesson is a part of a series for learning ${goals.targetLanguage}.
-${priorLessonsMessage}
-The lesson should talk about: ${lesson.title}: ${lesson.details}
+  Next, we have 'yes'. In Japanese, 'yes' is: <lang lang="ja-JP">はい</lang>.
+  Did you catch that? 'Yes' is <lang lang="ja-JP">はい</lang>.
+  It's a universal affirmative response, used in many daily situations. Let's reinforce that: 'Yes' in Japanese is <lang lang="ja-JP">はい</lang>.
 
-Now, give me the transcript for the lesson:`;
+  Lastly, we'll cover 'no'. The Japanese word for 'no' is: <lang lang="ja-JP">いいえ</lang>.
+  Once again, 'no' translates to <lang lang="ja-JP">いいえ</lang>.
+  In Japanese culture, directly saying 'no' can be seen as impolite, making <lang lang="ja-JP">いいえ</lang> a more tactful choice. Let's repeat for clarity: 'no' is <lang lang="ja-JP">いいえ</lang>.
+
+  To summarize and reinforce:
+  'I'm sorry' in Japanese is: <lang lang="ja-JP">ごめんなさい</lang>. Repeat it: <lang lang="ja-JP">ごめんなさい</lang>.
+  The word 'Yes' is: <lang lang="ja-JP">はい</lang>. Say it again: <lang lang="ja-JP">はい</lang>.
+  For 'No', we have: <lang lang="ja-JP">いいえ</lang>. One more time: <lang lang="ja-JP">いいえ</lang>.
+
+  This concludes the examples.
+
+  Lesson objective:
+  The lesson is a part of a series for learning ${goals.targetLanguage}.
+  ${priorLessonsMessage}
+  The lesson should talk about: ${lesson.title}: ${lesson.details}
+  Provide the transcript for the lesson:`;
 }
 
 function fixTranscriptCompletionRequest(
