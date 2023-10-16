@@ -75,6 +75,7 @@ export function parseTranscript(transcript: string): Transcript {
       parsed.push({
         lang: "en-US",
         parts: [
+          { break: "1s" },
           { text: transcript.slice(startPos, nextOccurrence) },
           { break: "1s" },
         ],
@@ -87,10 +88,7 @@ export function parseTranscript(transcript: string): Transcript {
       const endText = transcript.indexOf("</lang>", beginText);
       parsed.push({
         lang,
-        parts: [
-          { text: transcript.slice(beginText, endText), rate: "-20%" },
-          { break: "1s" },
-        ],
+        parts: [{ text: transcript.slice(beginText, endText), rate: "-20%" }],
       });
       startPos = endText + "</lang>".length;
     }
@@ -156,7 +154,7 @@ function createSystemPrompt(
   * Always wrap the foreign language with <lang language-to-speak>Foreign language to speak</lang>.
   * Use the target language's writing system. Instead of "Tabemasu", write "食べます". For japanese, use hiragana and katakana over kanji.
   * Start lessons with ${introMessage}.
-  * Conclude by summarizing, e.g., "In this lesson, we've learned...".
+  * Conclude by summarizing, e.g., "In this lesson, we've learned...", but keep it brief
   * Introduce new words with context and possibly a sentence for usage. When using a sentence, explain the sentence part by part.
   * Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
 
@@ -229,28 +227,4 @@ function createSystemPrompt(
   ${priorLessonsMessage}
   The lesson should talk about: ${lesson.title}: ${lesson.details}
   Provide the transcript for the lesson:`;
-}
-
-function fixTranscriptCompletionRequest(
-  transcript: string,
-  error: string,
-  model: ChatCompletionCreateParamsNonStreaming["model"]
-): ChatCompletionCreateParamsNonStreaming {
-  return {
-    model,
-    messages: [
-      {
-        role: "system",
-        content: `
-        Parsing this:
-        ${transcript}
-        
-        failed with:
-        ${error}
-
-        Now, give me the corrected version (only give the corrected data, no other text or characters):
-        `,
-      },
-    ],
-  };
 }
