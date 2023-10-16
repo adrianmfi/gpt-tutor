@@ -141,9 +141,9 @@ function createSystemPrompt(
   const priorLessonsMessage =
     priorLessons.length === 0
       ? ""
-      : `The lessons has already covered ${priorLessons
+      : `The lessons have already covered: "${priorLessons
           .map((l) => l.details)
-          .join(", ")}`;
+          .join(", ")}"`;
 
   const supportedLanguages =
     "ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW";
@@ -161,7 +161,7 @@ function createSystemPrompt(
   * Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
 
   Example Outputs:
-  Example 1:
+  * Example 1 - Words for directions:
   Now we're going to learn the words for 'left', 'right', 'straight ahead', and 'turn'.
   First up is the word for 'left', which in Japanese is: <lang lang="ja-JP">左</lang>.
   Once more, 'left' is: <lang lang="ja-JP">左</lang>.
@@ -182,7 +182,7 @@ function createSystemPrompt(
   To reiterate, 'turn' is: <lang lang="ja-JP">曲がる</lang>.
   For instance, "Turn at the corner" in Japanese would be: <lang lang="ja-JP">角で曲がって下さい</lang>.
   Repeating, "Turn at the corner" is: <lang lang="ja-JP">角で曲がって下さい</lang>.
-
+  
   To summarize:
   Left: <lang lang="ja-JP">左</lang>.
   Right: <lang lang="ja-JP">右</lang>.
@@ -190,28 +190,36 @@ function createSystemPrompt(
   Turn: <lang lang="ja-JP">曲がる</lang>.
 
   In this lesson, we learned how to say 'left' as <lang lang="ja-JP">左</lang>, 'right' as <lang lang="ja-JP">右</lang>, 'straight ahead' as <lang lang="ja-JP">まっすぐ</lang>, and 'turn' as <lang lang="ja-JP">曲がる</lang>. Keep practicing and soon these words will become second nature to you!
-
-  Example 2:
-  In this lesson we're focusing on three foundational Japanese expressions: 'I'm sorry', 'yes', and 'no'.
-
-  Firstly, let's tackle 'I'm sorry'. In Japanese, this is: <lang lang="ja-JP">ごめんなさい</lang>.
-  Remember, 'I'm sorry' translates to <lang lang="ja-JP">ごめんなさい</lang>.
-  It's an expression of regret, commonly used to apologize. Let's say it again: 'I'm sorry' is <lang lang="ja-JP">ごめんなさい</lang>.
-  There's also a shorter version, <lang lang="ja-JP">ごめん</lang>, frequently used informally among friends. Once more, a casual 'I'm sorry' can be <lang lang="ja-JP">ごめん</lang>.
-
-  Next, we have 'yes'. In Japanese, 'yes' is: <lang lang="ja-JP">はい</lang>.
-  Did you catch that? 'Yes' is <lang lang="ja-JP">はい</lang>.
-  It's a universal affirmative response, used in many daily situations. Let's reinforce that: 'Yes' in Japanese is <lang lang="ja-JP">はい</lang>.
-
-  Lastly, we'll cover 'no'. The Japanese word for 'no' is: <lang lang="ja-JP">いいえ</lang>.
-  Once again, 'no' translates to <lang lang="ja-JP">いいえ</lang>.
-  In Japanese culture, directly saying 'no' can be seen as impolite, making <lang lang="ja-JP">いいえ</lang> a more tactful choice. Let's repeat for clarity: 'no' is <lang lang="ja-JP">いいえ</lang>.
-
-  To summarize and reinforce:
-  'I'm sorry' in Japanese is: <lang lang="ja-JP">ごめんなさい</lang>. Repeat it: <lang lang="ja-JP">ごめんなさい</lang>.
-  The word 'Yes' is: <lang lang="ja-JP">はい</lang>. Say it again: <lang lang="ja-JP">はい</lang>.
-  For 'No', we have: <lang lang="ja-JP">いいえ</lang>. One more time: <lang lang="ja-JP">いいえ</lang>.
-
+  
+  * Example 2 - At the Restaurant Conversation:
+  In this lesson, we will practice a conversation in a Norwegian restaurant setting using vocabulary and phrases you've already learned.
+  Imagine you're at a restaurant in Oslo. You're about to order your meal.
+  
+  First up, if you want to get the waiter's attention and say "excuse me," you would use the phrase <lang lang="nb-NO">Unnskyld</lang>.
+  Listen and repeat: "Unnskyld."
+  Next, when you want to say "may I have," the Norwegian phrase is <lang lang="nb-NO">Kan jeg få</lang>.
+  Listen and repeat: "Kan jeg få."
+  
+  Combine these phrases to ask for the menu: "Unnskyld, kan jeg få menyen?"
+  Listen and repeat: "Unnskyld, kan jeg få menyen?"
+  To order food, you'd typically say "I would like." In Norwegian, this is <lang lang="nb-NO">Jeg vil gjerne ha</lang>.
+  Listen and repeat: "Jeg vil gjerne ha."
+  
+  For instance, if you would like to order salmon, say "Jeg vil gjerne ha laksen."
+  Listen and repeat: "Jeg vil gjerne ha laksen."
+  
+  If you'd prefer a vegetarian option and want to order a salad, you'd say "Jeg vil gjerne ha salat."
+  Listen and repeat: "Jeg vil gjerne ha salat."
+  
+  For drinks, to say "water," use the word <lang lang="nb-NO">vann</lang>.
+  Listen and repeat: "vann."
+  Combine it with "may I have" to ask for a glass of water: "Kan jeg få et glass vann?"
+  Listen and repeat: "Kan jeg få et glass vann?"
+  
+  Lastly, when you're ready to pay and you want to ask for the bill, the phrase is <lang lang="nb-NO">Kan jeg få regningen</lang>.
+  Listen and repeat: "Kan jeg få regningen."
+  
+  Putting it all together, you now have a set of phrases that should make your dining experience in Norway quite enjoyable.
   This concludes the examples.
 
   Lesson objective:

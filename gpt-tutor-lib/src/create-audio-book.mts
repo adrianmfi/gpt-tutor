@@ -11,6 +11,7 @@ import inquirer from "inquirer";
 import {
   LearningGoals,
   LearningPlan,
+  LessonDescription,
   createLearningPlan,
 } from "./lib/create-learning-plan.js";
 import { createTranscript } from "./lib/create-transcript.js";
@@ -87,19 +88,20 @@ if (!existsSync(outputDir)) {
 }
 
 let learningPlan: LearningPlan;
+let remainingLessons: LessonDescription[];
+
 if (resume) {
   learningPlan = JSON.parse(
     readFileSync(join(resume, learningPlanFilename), "utf-8")
   );
 
   const existingResults = readdirSync(resume);
-  const missingLessons = learningPlan.lessons.filter(
+  remainingLessons = learningPlan.lessons.filter(
     (lesson) => !existingResults.includes(lesson.title + ".mp3")
   );
-  learningPlan.lessons = missingLessons;
   console.log(
     "Resuming with remaining learning plan",
-    learningPlan.lessons.map((lesson) => lesson.title)
+    remainingLessons.map((lesson) => lesson.title)
   );
 } else {
   console.log("Generating learning plan...");
@@ -117,6 +119,7 @@ if (resume) {
     JSON.stringify(learningPlan, null, 2),
     "utf-8"
   );
+  remainingLessons = learningPlan.lessons;
 }
 
 const answers = await inquirer.prompt<{
@@ -133,7 +136,7 @@ if (!answers.confirm) {
   process.exit(0);
 }
 
-for (const lesson of learningPlan.lessons) {
+for (const lesson of remainingLessons) {
   console.log(`Creating lesson ${lesson.title}:${lesson.details}...`);
   const transcriptFilename = join(outputDir, lesson.title + ".xml");
   let transcript: string;
