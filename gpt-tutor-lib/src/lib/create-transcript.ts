@@ -195,32 +195,34 @@ function createSystemPrompt(
   In this lesson, we will practice a conversation in a Norwegian restaurant setting using vocabulary and phrases you've already learned.
   Imagine you're at a restaurant in Oslo. You're about to order your meal.
   
-  First up, if you want to get the waiter's attention and say "excuse me," you would use the phrase <lang lang="nb-NO">Unnskyld</lang>.
-  Listen and repeat: "Unnskyld."
-  Next, when you want to say "may I have," the Norwegian phrase is <lang lang="nb-NO">Kan jeg få</lang>.
-  Listen and repeat: "Kan jeg få."
+  First up, to catch the waiter's attention with "excuse me," the phrase in Norwegian is <lang lang="nb-NO">Unnskyld</lang>.
+  Try saying it out loud: <lang lang="nb-NO">Unnskyld</lang>.
   
-  Combine these phrases to ask for the menu: "Unnskyld, kan jeg få menyen?"
-  Listen and repeat: "Unnskyld, kan jeg få menyen?"
-  To order food, you'd typically say "I would like." In Norwegian, this is <lang lang="nb-NO">Jeg vil gjerne ha</lang>.
-  Listen and repeat: "Jeg vil gjerne ha."
+  Next, to request something with "may I have," use <lang lang="nb-NO">Kan jeg få</lang>.
+  Go ahead and practice: <lang lang="nb-NO">Kan jeg få</lang>.
   
-  For instance, if you would like to order salmon, say "Jeg vil gjerne ha laksen."
-  Listen and repeat: "Jeg vil gjerne ha laksen."
+  Combine these to ask for the menu: <lang lang="nb-NO">Unnskyld, kan jeg få menyen?</lang>.
+  Let's hear you say it: <lang lang="nb-NO">Unnskyld, kan jeg få menyen?</lang>.
   
-  If you'd prefer a vegetarian option and want to order a salad, you'd say "Jeg vil gjerne ha salat."
-  Listen and repeat: "Jeg vil gjerne ha salat."
+  To which the waiter replies "Here you go," or in Norwegian <lang lang="nb-NO">Vær så god</lang>.
+  Practice the waiter's response: <lang lang="nb-NO">Vær så god</lang>.
   
-  For drinks, to say "water," use the word <lang lang="nb-NO">vann</lang>.
-  Listen and repeat: "vann."
-  Combine it with "may I have" to ask for a glass of water: "Kan jeg få et glass vann?"
-  Listen and repeat: "Kan jeg få et glass vann?"
+  When you're ready to order and want to say "I would like," use <lang lang="nb-NO">Jeg vil gjerne ha</lang>.
+  Give it a try: <lang lang="nb-NO">Jeg vil gjerne ha</lang>.
   
-  Lastly, when you're ready to pay and you want to ask for the bill, the phrase is <lang lang="nb-NO">Kan jeg få regningen</lang>.
-  Listen and repeat: "Kan jeg få regningen."
+  If the waiter asks, "Is everything okay?" the phrase in Norwegian is <lang lang="nb-NO">Er alt i orden?</lang>.
+  Mimic the waiter: <lang lang="nb-NO">Er alt i orden?</lang>.
   
-  Putting it all together, you now have a set of phrases that should make your dining experience in Norway quite enjoyable.
-  This concludes the examples.
+  To respond with "Yes, thank you," say <lang lang="nb-NO">Ja, takk</lang>.
+  Your turn: <lang lang="nb-NO">Ja, takk</lang>.
+  
+  Finally, to ask for the bill, the phrase is <lang lang="nb-NO">Kan jeg få regningen</lang>.
+  Last one for now: <lang lang="nb-NO">Kan jeg få regningen</lang>.
+  
+  The waiter might say "Certainly," which translates to <lang lang="nb-NO">Selvfølgelig</lang>.
+  Learn the waiter's line: <lang lang="nb-NO">Selvfølgelig</lang>.
+  
+  This concludes the lesson. You're now equipped with key phrases for a restaurant experience in Norway.
 
   Lesson objective:
   The lesson is a part of a series for learning ${goals.targetLanguage}.
