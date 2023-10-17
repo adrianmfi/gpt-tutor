@@ -189,8 +189,8 @@ function createSystemPrompt(
 
   In this lesson, we learned how to say 'left' as <lang lang="ja-JP">左</lang>, 'right' as <lang lang="ja-JP">右</lang>, 'straight ahead' as <lang lang="ja-JP">まっすぐ</lang>, and 'turn' as <lang lang="ja-JP">曲がる</lang>. Keep practicing and soon these words will become second nature to you!
   
-  * Example 2 - At the Restaurant Conversation:
-  In this lesson, we will practice a conversation in a Norwegian restaurant setting using vocabulary and phrases you've already learned.
+  * Example 2 - Conversation at the Restaurant:
+  In this lesson, we will practice a conversation in a Norwegian restaurant setting.
   Imagine you're at a restaurant in Oslo. You're about to order your meal.
   
   First up, to catch the waiter's attention with "excuse me", the phrase in Norwegian is <lang lang="nb-NO">Unnskyld</lang>.
@@ -200,31 +200,32 @@ function createSystemPrompt(
   Go ahead and practice: <lang lang="nb-NO">Kan jeg få</lang>.
   
   Combine these to ask for the menu: <lang lang="nb-NO">Unnskyld, kan jeg få menyen?</lang>.
-  Let's hear you say it: <lang lang="nb-NO">Unnskyld, kan jeg få menyen?</lang>.
+  Again: <lang lang="nb-NO">Unnskyld, kan jeg få menyen?</lang>.
   
-  To which the waiter replies "Here you go", or in Norwegian <lang lang="nb-NO">Vær så god</lang>.
-  Practice the waiter's response: <lang lang="nb-NO">Vær så god</lang>.
+  To which the waiter might respond "Here you go", or in Norwegian <lang lang="nb-NO">Vær så god</lang>.
+  Again, the waiter's response: <lang lang="nb-NO">Vær så god</lang>.
   
   When you're ready to order and want to say "I would like", use <lang lang="nb-NO">Jeg vil gjerne ha</lang>.
-  Give it a try: <lang lang="nb-NO">Jeg vil gjerne ha</lang>.
+  The Norwegian word for salmon is <lang lang="nb-NO">Laks</lang>, or to say the salmon: <lang lang="nb-NO">Laksen</lang>. So to say "I would like the salmon", you can say <lang lang="nb-NO">Jeg vil gjerne ha laksen</lang>.
+  Give it a try: <lang lang="nb-NO">Jeg vil gjerne ha laksen</lang>.
   
   If the waiter asks "Is everything okay?", the phrase in Norwegian is <lang lang="nb-NO">Er alt i orden?</lang>.
   Mimic the waiter: <lang lang="nb-NO">Er alt i orden?</lang>.
   
   To respond with "Yes, thank you", say <lang lang="nb-NO">Ja, takk</lang>.
-  Your turn: <lang lang="nb-NO">Ja, takk</lang>.
   
-  Finally, to ask for the bill, the phrase is <lang lang="nb-NO">Kan jeg få regningen</lang>.
-  Last one for now: <lang lang="nb-NO">Kan jeg få regningen</lang>.
+  Finally, to ask for the bill, the phrase is <lang lang="nb-NO">Kan jeg få regningen?</lang>
+  Again, <lang lang="nb-NO">Kan jeg få</lang> means may I have, and <lang lang="nb-NO">Regningen</lang> means the bill.
+  <lang lang="nb-NO">Kan jeg få regningen?</lang>
   
   The waiter might say "Certainly", which translates to <lang lang="nb-NO">Selvfølgelig</lang>.
-  Learn the waiter's line: <lang lang="nb-NO">Selvfølgelig</lang>.
+  Final repetition: <lang lang="nb-NO">Selvfølgelig</lang>.
   
   This concludes the lesson. You're now equipped with key phrases for a restaurant experience in Norway.
 
   Lesson objective:
   The lesson is a part of a series for learning ${goals.targetLanguage}.
   ${priorLessonsMessage}
-  The lesson should talk about: Learning ${goals.targetLanguage} ${lesson.title}: ${lesson.details}
+  The lesson should talk about: Learning ${goals.targetLanguage} lesson ${lesson.title}: ${lesson.details}
   Provide the transcript for the lesson:`;
 }
