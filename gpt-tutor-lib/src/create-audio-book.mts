@@ -53,27 +53,39 @@ if (!azureSpeechRegion) {
 }
 
 const gptModelPrompt = await inquirer.prompt({
-  type: "input",
+  type: "list",
+  choices: ["gpt-3.5-turbo-16k", "gpt-4"],
   name: "model",
   message: "Enter GPT model",
-  default: "gpt-4",
+  default: "gpt-3.5-turbo-16k",
 });
 const gptModel = gptModelPrompt.model;
 
 const learningGoals: LearningGoals = {
   targetLanguage: "japanese",
   priorKnowledge: `I've done 100 lessons on duolingo, so i know some words like hello, goodbye, 
-   some sentences like where is, my name is, some colors like white, how to say where and there`,
-  targetKnowledge: "Enough to be able to enjoy a three week vacation",
+   some sentences like where is, my name is, some colors like white, red, how to say where and there, and some more simple stuff`,
+  targetKnowledge:
+    "As much as possible to be able to enjoy a three week vacation",
 };
 
+// const learningGoals: LearningGoals = {
+//   targetLanguage: "italian",
+//   priorKnowledge: `I am able to speak simple italian, as I have been there many times before and studied spanish.`,
+//   targetKnowledge: "I want to be able to speak italian comfortably.",
+// };
+
 const program = new Command();
-program.option("-r, --resume <path>", "resume from path");
+program.option(
+  "-o, --output <path>",
+  "output path to write to or resume from",
+  `./output/${new Date().toISOString()}`
+);
 program.option("--skip-synth", "skip synthesizing");
 program.parse();
-const resume = program.getOptionValue("resume");
+
 const skipSynthesizing = program.getOptionValue("skipSynth");
-const outputDir = resume ?? `./output/${new Date().toISOString()}`;
+const outputDir = program.getOptionValue("output");
 
 const learningPlanFilename = "learning_plan.json";
 const openAIClient = new OpenAI({ apiKey: openAIApiKey });
@@ -90,17 +102,16 @@ if (!existsSync(outputDir)) {
 let learningPlan: LearningPlan;
 let remainingLessons: LessonDescription[];
 
-if (resume) {
-  learningPlan = JSON.parse(
-    readFileSync(join(resume, learningPlanFilename), "utf-8")
-  );
+const learningPlanPath = join(outputDir, learningPlanFilename);
+if (existsSync(learningPlanPath)) {
+  learningPlan = JSON.parse(readFileSync(learningPlanPath, "utf-8"));
 
-  const existingResults = readdirSync(resume);
+  const existingResults = readdirSync(outputDir);
   remainingLessons = learningPlan.lessons.filter(
     (lesson) => !existingResults.includes(lesson.title + ".mp3")
   );
   console.log(
-    "Resuming with remaining learning plan",
+    "Resuming with learning plan",
     remainingLessons.map((lesson) => lesson.title)
   );
 } else {
@@ -115,7 +126,7 @@ if (resume) {
     learningPlan.lessons.map((lesson) => lesson.title)
   );
   writeFileSync(
-    join(outputDir, learningPlanFilename),
+    learningPlanPath,
     JSON.stringify(learningPlan, null, 2),
     "utf-8"
   );
