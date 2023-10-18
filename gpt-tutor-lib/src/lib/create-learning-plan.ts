@@ -87,15 +87,7 @@ ${
     : "This is a test run, and you should only generate 2-6 lessons covering a part of what the user wants to learn"
 }
   
-  * The point is to create short (1-5 minute) audio listening lessons.
-  That typically means only learning a few (2-5) new words or sentences.
-  Therefore, you typically want to create several lessons on the same topic.
-  Be specific about what the lesson should contain.
-  * There's not much use learning characters!
-  ${createRealAmountOfLessons ? "* 100 lessons" : ""}
-  * As the lessons progress, more lessons might get more advanced, for example with longer sentences or conversations containing what's previously learned.
-  
-  An excerpt from a generated learning plan for a user wanting to learn japanese for a holiday trip:
+  An excerpt from a generated learning plan for a user with little to no prior knowledge, wanting to learn japanese for a holiday trip:
   20 - Adverbs of place: Where, here, there
   21 - Adverbs of place 2: Above, below, inside and outside
   22 - Directions: Left, right, straight ahead and turn.
@@ -103,11 +95,28 @@ ${
   24 - Buying tickets: Once ticket, round trip and platform.
   25 - Asking for directions: "Where is the bus stop", "How far", "How long"
   
-  A bit later in the learning plan:
+  A bit later in this learning plan:
   50 - Asking for directions conversation: A conversation about asking for directions
   51 - Weather vocabulary: Sunny, cloudy, raining/rainy, snowing/snowy
 
-  Now, the user has specified the following:
+
+  Your output might differ a lot from this, depending on the needs of the user.
+
+  Rules:
+  * The point is to create short (1-5 minute) audio listening lessons.
+  That typically means only learning a few (2-5) new words, sentences.
+  Therefore, you typically want to create several lessons on the same topic.
+  Be specific about what the lesson should contain.
+  * There's not much use learning characters!
+  ${createRealAmountOfLessons ? "* 100 lessons" : ""}
+  * As the lessons progress, more lessons might get more advanced, for example with longer sentences or conversations containing what's previously learned.
+  * You don't have to add lessons for things the user already knows. For example, if the user already knows some of the language, don't include lessons for yes and no.
+  * Keep lesson descriptions in english, don't include translations of the words.
+  
+
+  This concludes the specification.
+
+  The current user has specified the following:
   Target language: ${goals.targetLanguage}.
   Prior knowledge: ${goals.priorKnowledge}.
   Target knowledge: ${goals.targetKnowledge}.
