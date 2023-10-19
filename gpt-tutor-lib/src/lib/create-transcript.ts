@@ -131,7 +131,7 @@ function createSystemPrompt(
   goals: LearningGoals
 ) {
   const introMessage =
-    'something like "Let\'s go through ...", or "We will now ..." or "This lesson will focus on ...", but feel free to mix this up a bit';
+    "a very brief introduction of the content the current lesson, typically a single sentence";
   const lessonIndex = learningPlan.lessons.findIndex(
     (learningPlanLesson) => learningPlanLesson.title === lesson.title
   );
@@ -145,24 +145,26 @@ function createSystemPrompt(
 
   const supportedLanguages =
     "ar-EG, ar-SA, ca-ES, cs-CZ, da-DK, de-AT, de-CH, de-DE, en-AU, en-CA, en-GB, en-HK, en-IE, en-IN, en-US, es-ES, es-MX, fi-FI, fr-BE, fr-CA, fr-CH, fr-FR, hi-IN, hu-HU, id-ID, it-IT, ja-JP, ko-KR, nb-NO, nl-BE, nl-NL, pl-PL, pt-BR, pt-PT, ru-RU, sv-SE, th-TH, tr-TR, zh-CN, zh-HK, zh-TW";
-  return `You are tasked with creating transcripts for audio lessons targeting language learners.
-  These transcripts will be converted to audio by a text-to-speech system.
+  return `You are tasked with creating a transcript for a personalized audio lesson.
+  The transcript will be converted to audio by a text-to-speech system without human intervention.
+  The lesson isa part of a series of lessons for a user learning a specified language.
   The base language is English, and the lesson will incorporate both English and a target language.
   Here are the supported languages: ${supportedLanguages}
 
   Instructions:
-  * Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
   * Don't refer to the lesson as "Today's lesson", as the user might listen to multiple lessons in a single day.
   * Use the target language's writing system. Example: Instead of Tabemasu, write 食べます.
   * Start lessons with ${introMessage}.
-  * Conclude by summarizing, but keep it brief and varied. Example: "In this lesson, we've learned...". 
-  * Introduce new words with context and possibly a sentence for usage. When introducing a sentence, describe it part by part.
+  * Keep conclusions very short.
+  * Introduce new words with context and possibly a sentence for usage.
+  * Have the listeners current level and progression in mind, for examples don't introduce difficult sentences when teaching a simple word, and dont explain simple words in an intermediate lesson.
+  * When teaching a sentence, unless the lesson is at an intermediate level, explain the words in the sentence.
   * ALWAYS wrap non-english text with <lang language-to-speak>Foreign language to speak</lang>. Keep english text outside of <lang/>. Example: In Italian, "hello" is <lang lang="it-IT">ciao</lang>. NEVER place english text inside of a foreign language tag. Otherwise the text-to-speech system will fail.
   * Do NOT add placeholders in the transcript, as the Text to speech system is not able to replace these. Use an example value instead.
 
   Here are some shortened transcripts to use as examples:
   * Example 1 - Words for directions:
-  In this lesson we're going to learn the word for 'left' and 'right'.
+  Let's go through the words for 'left' and 'right'.
   
   First up is the word for 'left', which in Japanese is: <lang lang="ja-JP">左</lang>.
   Once more, 'left' is: <lang lang="ja-JP">左</lang>.
@@ -174,10 +176,10 @@ function createSystemPrompt(
   A useful phrase would be: "Turn right", which translates to: <lang lang="ja-JP">右に曲がって下さい</lang>.
   And again, 'Turn right' is: <lang lang="ja-JP">右に曲がって下さい</lang>.
 
-  In this lesson, we learned how to say 'left' as <lang lang="ja-JP">左</lang>, 'right' as <lang lang="ja-JP">右</lang>
+  We have now learned how to say 'left' as <lang lang="ja-JP">左</lang>, 'right' as <lang lang="ja-JP">右</lang>
   
   * Example 2 - Conversation at the Restaurant:
-  In this lesson, we will practice a conversation in a Norwegian restaurant setting.
+  We will now practice a conversation in a Norwegian restaurant setting.
   Imagine you're at a restaurant in Oslo. You're about to order your meal.
   
   First up, to catch the waiter's attention with "excuse me", the phrase in Norwegian is <lang lang="nb-NO">Unnskyld</lang>.
@@ -192,24 +194,28 @@ function createSystemPrompt(
   To which the waiter might respond "Here you go", or in Norwegian <lang lang="nb-NO">Vær så god</lang>.
   Again, the waiter's response: <lang lang="nb-NO">Vær så god</lang>.
   
-  This concludes the lesson.
-
-  Don't use the structure of the examples blindly, but adjust the transcript based on the lesson. For example by providing relevant information about the usage of a word or sentence or adjusting the intro message depending on the context.
+  This concludes the conversation at the restaurant.
+  
+  Don't use the structure of the examples blindly, but adjust the transcript based on the lesson. 
+  For example by providing relevant information about the usage of a word or sentence or adjusting the intro message depending on the context.
+  Conversations and lessons should be longer than the above example, don't be afraid of making lessons long.
   But always adhere to the instructions:
-  * Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
   * Don't refer to the lesson as "Today's lesson", as the user might listen to multiple lessons in a single day.
   * Use the target language's writing system. Example: Instead of Tabemasu, write 食べます.
   * Start lessons with ${introMessage}.
-  * Conclude by summarizing, but keep it brief and varied. Example: "In this lesson, we've learned...". 
-  * Introduce new words with context and possibly a sentence for usage. When introducing a sentence, describe it part by part.
+  * Keep conclusions very short.
+  * Introduce new words with context and possibly a sentence for usage.
+  * Have the listeners current level and progression in mind, for examples don't introduce difficult sentences when teaching a simple word, and dont explain simple words in an intermediate lesson.
+  * When teaching a sentence, unless the lesson is at an intermediate level, explain the words in the sentence part by part.
   * ALWAYS wrap non-english text with <lang language-to-speak>Foreign language to speak</lang>. Keep english text outside of <lang/>. Example: In Italian, "hello" is <lang lang="it-IT">ciao</lang>.
+  * Avoid foreign words using anglicized spelling in the English sections. The text to speech system is not able to pronounce this correctly.
   * NEVER place english text inside of a foreign language tag. Otherwise the text-to-speech system will fail. NEVER place english text inside of a foreign language tag. Otherwise the text-to-speech system will fail.
   * NEVER add placeholders to the transcript (e.g. [Your country], ... or ___ ) to the transcript, as the Text to speech system is not able to handle these. Always use an suiting example value instead. Example: Hello, my name is John, or in Japanese: <lang lang="ja-JP">こんにちは、私の名前はジョンです</lang> 
 
-  Lesson objective:
-  The lesson is a part of a series for learning ${goals.targetLanguage}.
+  Current lesson objective:
+  The target language is ${goals.targetLanguage}.
   The user has prior knowledge: ${goals.priorKnowledge}
   ${priorLessonsMessage}
   The lesson should talk about: Learning ${goals.targetLanguage} lesson ${lesson.title}: ${lesson.details}
-  Provide the transcript for the lesson:`;
+  Now provide the transcript:`;
 }
