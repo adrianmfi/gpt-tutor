@@ -1,9 +1,0 @@
-{
-  "imports": {
-    "server.ts": "https://deno.land/std@0.168.0/http/server.ts",
-    "supabase-js": "https://esm.sh/@supabase/supabase-js@2",
-    "openai": "https://esm.sh/openai@4.11.1",
-    "openai/": "https://esm.sh/openai@4.11.1/",
-    "microsoft-cognitiveservices-speech-sdk": "https://esm.sh/microsoft-cognitiveservices-speech-sdk@1.32.0"
-  }
-}
