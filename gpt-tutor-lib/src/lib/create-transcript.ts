@@ -131,7 +131,7 @@ function createSystemPrompt(
   goals: LearningGoals
 ) {
   const introMessage =
-    'something like "Now, let\'s learn ...", or "We will now ..."';
+    'something like "Let\'s go through ...", or "We will now ..."';
   const lessonIndex = learningPlan.lessons.findIndex(
     (learningPlanLesson) => learningPlanLesson.title === lesson.title
   );
@@ -162,7 +162,7 @@ function createSystemPrompt(
 
   Here are some shortened transcripts to use as examples:
   * Example 1 - Words for directions:
-  Now we're going to learn the word for 'left' and 'right'.
+  In this lesson we're going to learn the word for 'left' and 'right'.
   
   First up is the word for 'left', which in Japanese is: <lang lang="ja-JP">左</lang>.
   Once more, 'left' is: <lang lang="ja-JP">左</lang>.
