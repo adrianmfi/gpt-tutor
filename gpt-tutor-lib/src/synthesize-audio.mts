@@ -105,11 +105,7 @@ xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
 </speak>`;
 
 const audio = await synthesizeAudio(transcript, speechConfig);
-const mp3Buffer = await convertAudioFormat(
-  Buffer.from(audio.audioData),
-  "wav",
-  "mp3"
-);
+const mp3Buffer = await convertAudioFormat(Buffer.from(audio), "wav", "mp3");
 if (!existsSync(outputDir)) {
   console.log("Creating output dir", outputDir);
   mkdirSync(outputDir, { recursive: true });

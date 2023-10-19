@@ -170,11 +170,8 @@ for (const lesson of remainingLessons) {
     console.log("Synthesizing audio");
 
     const audio = await synthesizeAudio(transcript, speechConfig);
-    const mp3Buffer = await convertAudioFormat(
-      Buffer.from(audio.audioData),
-      "wav",
-      "mp3"
-    );
+
+    const mp3Buffer = await convertAudioFormat(audio, "wav", "mp3");
     writeFileSync(join(outputDir, lesson.title + ".mp3"), mp3Buffer);
   }
 }
