@@ -131,7 +131,7 @@ function createSystemPrompt(
   goals: LearningGoals
 ) {
   const introMessage =
-    'something like "Let\'s go through ...", or "We will now ..."';
+    'something like "Let\'s go through ...", or "We will now ..." or "This lesson will focus on ...", but feel free to mix this up a bit';
   const lessonIndex = learningPlan.lessons.findIndex(
     (learningPlanLesson) => learningPlanLesson.title === lesson.title
   );
