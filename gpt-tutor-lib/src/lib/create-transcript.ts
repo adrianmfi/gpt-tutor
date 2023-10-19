@@ -153,37 +153,28 @@ function createSystemPrompt(
   Instructions:
   * Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
   * Don't refer to the lesson as "Today's lesson", as the user might listen to multiple lessons in a single day.
-  * Use the target language's writing system. Example: Instead of "Tabemasu", write "食べます".
+  * Use the target language's writing system. Example: Instead of Tabemasu, write 食べます.
   * Start lessons with ${introMessage}.
-  * Conclude by summarizing, but keep it brief and vary. Example: "In this lesson, we've learned...". 
+  * Conclude by summarizing, but keep it brief and varied. Example: "In this lesson, we've learned...". 
   * Introduce new words with context and possibly a sentence for usage. When introducing a sentence, describe it part by part.
   * ALWAYS wrap non-english text with <lang language-to-speak>Foreign language to speak</lang>. Keep english text outside of <lang/>. Example: In Italian, "hello" is <lang lang="it-IT">ciao</lang>. NEVER place english text inside of a foreign language tag. Otherwise the text-to-speech system will fail.
   * Do NOT add placeholders in the transcript, as the Text to speech system is not able to replace these. Use an example value instead.
 
-  Example Outputs:
+  Here are some shortened transcripts to use as examples:
   * Example 1 - Words for directions:
-  Now we're going to learn the words for 'left', 'right', 'straight ahead', and 'turn'.
+  Now we're going to learn the word for 'left' and 'right'.
+  
   First up is the word for 'left', which in Japanese is: <lang lang="ja-JP">左</lang>.
   Once more, 'left' is: <lang lang="ja-JP">左</lang>.
-  A helpful phrase would be: "Go left" which translates to: <lang lang="ja-JP">左に行って下さい</lang>.
-  And again, 'Go left' is: <lang lang="ja-JP">左に行って下さい</lang>.
+  You could for example say "Go left" which translates to: <lang lang="ja-JP">左に行って下さい</lang>.
+  Again, 'Go left' is: <lang lang="ja-JP">左に行って下さい</lang>.
 
   Now we will learn the word 'right'. In Japanese, right is: <lang lang="ja-JP">右</lang>.
-  Once more, 'right' is: <lang lang="ja-JP">右</lang>.
+  Again, 'right' is: <lang lang="ja-JP">右</lang>.
   A useful phrase would be: "Turn right", which translates to: <lang lang="ja-JP">右に曲がって下さい</lang>.
   And again, 'Turn right' is: <lang lang="ja-JP">右に曲がって下さい</lang>.
 
-  Next, we'll tackle the phrase 'straight ahead'. In Japanese, straight ahead is: <lang lang="ja-JP">まっすぐ</lang>.
-  Once more, 'straight ahead' is: <lang lang="ja-JP">まっすぐ</lang>.
-  A phrase would be: "Go straight ahead", which translates to: <lang lang="ja-JP">まっすぐ進んで下さい</lang>.
-  And again, 'Go straight ahead' is: <lang lang="ja-JP">まっすぐ進んで下さい</lang>.
-
-  Lastly, let's learn the word for 'turn'. In Japanese, 'turn' is: <lang lang="ja-JP">曲がる</lang>.
-  To reiterate, 'turn' is: <lang lang="ja-JP">曲がる</lang>.
-  For instance, "Turn at the corner" in Japanese would be: <lang lang="ja-JP">角で曲がって下さい</lang>.
-  Repeating, "Turn at the corner" is: <lang lang="ja-JP">角で曲がって下さい</lang>.
-  
-  In this lesson, we learned how to say 'left' as <lang lang="ja-JP">左</lang>, 'right' as <lang lang="ja-JP">右</lang>, 'straight ahead' as <lang lang="ja-JP">まっすぐ</lang>, and 'turn' as <lang lang="ja-JP">曲がる</lang>.
+  In this lesson, we learned how to say 'left' as <lang lang="ja-JP">左</lang>, 'right' as <lang lang="ja-JP">右</lang>
   
   * Example 2 - Conversation at the Restaurant:
   In this lesson, we will practice a conversation in a Norwegian restaurant setting.
@@ -201,34 +192,19 @@ function createSystemPrompt(
   To which the waiter might respond "Here you go", or in Norwegian <lang lang="nb-NO">Vær så god</lang>.
   Again, the waiter's response: <lang lang="nb-NO">Vær så god</lang>.
   
-  When you're ready to order and want to say "I would like", use <lang lang="nb-NO">Jeg vil gjerne ha</lang>.
-  The Norwegian word for salmon is <lang lang="nb-NO">Laks</lang>, or to say the salmon: <lang lang="nb-NO">Laksen</lang>. So to say "I would like the salmon", you can say <lang lang="nb-NO">Jeg vil gjerne ha laksen</lang>.
-  Give it a try: <lang lang="nb-NO">Jeg vil gjerne ha laksen</lang>.
-  
-  If the waiter asks "Is everything okay?", the phrase in Norwegian is <lang lang="nb-NO">Er alt i orden?</lang>.
-  Mimic the waiter: <lang lang="nb-NO">Er alt i orden?</lang>.
-  
-  To respond with "Yes, thank you", say <lang lang="nb-NO">Ja, takk</lang>.
-  
-  Finally, to ask for the bill, the phrase is <lang lang="nb-NO">Kan jeg få regningen?</lang>
-  Again, <lang lang="nb-NO">Kan jeg få</lang> means may I have, and <lang lang="nb-NO">Regningen</lang> means the bill.
-  <lang lang="nb-NO">Kan jeg få regningen?</lang>
-  
-  The waiter might say "Certainly", which translates to <lang lang="nb-NO">Selvfølgelig</lang>.
-  Final repetition: <lang lang="nb-NO">Selvfølgelig</lang>.
-  
   This concludes the lesson.
 
-  Don't follow the structure of the examples blindly, but adjust the transcript based on the lesson. For example by providing relevant information about the usage of a word or sentence or adjusting the intro message depending on the context.
+  Don't use the structure of the examples blindly, but adjust the transcript based on the lesson. For example by providing relevant information about the usage of a word or sentence or adjusting the intro message depending on the context.
   But always adhere to the instructions:
   * Avoid lengthy introductions, assumptions about user knowledge, or praising the user.
   * Don't refer to the lesson as "Today's lesson", as the user might listen to multiple lessons in a single day.
-  * Use the target language's writing system. Example: Instead of "Tabemasu", write "食べます".
+  * Use the target language's writing system. Example: Instead of Tabemasu, write 食べます.
   * Start lessons with ${introMessage}.
-  * Conclude by summarizing, but keep it brief and vary. Example: "In this lesson, we've learned...". 
+  * Conclude by summarizing, but keep it brief and varied. Example: "In this lesson, we've learned...". 
   * Introduce new words with context and possibly a sentence for usage. When introducing a sentence, describe it part by part.
-  * ALWAYS wrap non-english text with <lang language-to-speak>Foreign language to speak</lang>. Keep english text outside of <lang/>. Example: In Italian, "hello" is <lang lang="it-IT">ciao</lang>. NEVER place english text inside of a foreign language tag. Otherwise the text-to-speech system will fail. NEVER place english text inside of a foreign language tag. Otherwise the text-to-speech system will fail.
-  * Do NOT add placeholders in the transcript, as the Text to speech system is not able to replace these. Use an example value instead.
+  * ALWAYS wrap non-english text with <lang language-to-speak>Foreign language to speak</lang>. Keep english text outside of <lang/>. Example: In Italian, "hello" is <lang lang="it-IT">ciao</lang>.
+  * NEVER place english text inside of a foreign language tag. Otherwise the text-to-speech system will fail. NEVER place english text inside of a foreign language tag. Otherwise the text-to-speech system will fail.
+  * NEVER add placeholders to the transcript (e.g. [Your country], ... or ___ ) to the transcript, as the Text to speech system is not able to handle these. Always use an suiting example value instead. Example: Hello, my name is John, or in Japanese: <lang lang="ja-JP">こんにちは、私の名前はジョンです</lang> 
 
   Lesson objective:
   The lesson is a part of a series for learning ${goals.targetLanguage}.
