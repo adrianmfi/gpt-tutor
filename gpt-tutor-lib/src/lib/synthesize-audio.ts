@@ -121,12 +121,7 @@ function mergeWavFiles(buffer1: Buffer, buffer2: Buffer): Promise<Buffer> {
         fs.unlinkSync(tempFile1);
         fs.unlinkSync(tempFile2);
         fs.unlinkSync(tempFileOutput);
-        console.log(
-          "merged",
-          buffer1.byteLength,
-          buffer2.byteLength,
-          mergedBuffer.byteLength
-        );
+
         resolve(mergedBuffer);
       })
       .on("error", (err) => {
