@@ -1,0 +1,168 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> In this session, we'll cover how to handle accommodations in Japanese.
+      First, let's start with the phrase: "I have a reservation." In Japanese, we say this as <break
+        time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        予約があります。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> Let's practice that again, "I have a reservation" in Japanese is <break
+        time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        予約があります。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> . To illustrate this phrase, let's use it in a sentence: "I have a
+      reservation under the name Suzuki" translates to <break time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        名前は鈴木で予約があります。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> Recap: "I have a reservation under the name Suzuki" is <break time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        名前は鈴木で予約があります。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> . Our next phrase is "I want to check in". To say this in Japanese, we say <break
+        time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        チェックインしたいです。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> Let's practice this again, "I want to check in" in Japanese is <break
+        time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        チェックインしたいです。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> . In context, you might want to add: "I want to check in, my reservation
+      is under the name Suzuki", which in Japanese is <break time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        チェックインしたいです、名前は鈴木で予約があります。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> To drive it in: "I want to check in, my reservation is under the name
+      Suzuki" in Japanese is <break time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        チェックインしたいです、名前は鈴木で予約があります。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> . Finally, we'll learn how to say "I want to check out". In Japanese, this
+      is <break time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        チェックアウトしたいです。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> For repetition, "I want to check out" in Japanese is <break time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        チェックアウトしたいです。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> . In a real-life situation, you might say: "I want to check out, please
+      prepare the bill." This translates to <break time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        チェックアウトしたいです、請求書を用意してください。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s' /> And again, "I want to check out, please prepare the bill." in Japanese is <break
+        time='1s' />
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+        チェックアウトしたいです、請求書を用意してください。
+      </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      .
+
+      Well done! Now, you should be able to say "I have a reservation", "I want to check in", and "I
+      want to check out" in Japanese!
+
+
+    </lang>
+  </voice>
+</speak>

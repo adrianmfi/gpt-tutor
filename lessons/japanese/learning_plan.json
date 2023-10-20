@@ -1,0 +1,404 @@
+{
+  "lessons": [
+    {
+      "title": "1 - Review of basic greetings",
+      "details": "Hello, goodbye, good morning, good evening."
+    },
+    {
+      "title": "2 - Review of basic sentences",
+      "details": "\"Where is\", \"My name is\"."
+    },
+    {
+      "title": "3 - Review of basic colors",
+      "details": "White, red, blue, yellow."
+    },
+    {
+      "title": "4 - Review of basic location words",
+      "details": "Here, there, over there."
+    },
+    {
+      "title": "5 - Introduction to numbers",
+      "details": "1-10."
+    },
+    {
+      "title": "6 - Introduction to numbers 2",
+      "details": "11-20."
+    },
+    {
+      "title": "7 - Introduction to numbers 3",
+      "details": "30, 40, 50, etc. up to 100."
+    },
+    {
+      "title": "8 - Introduction to numbers 4",
+      "details": "100, 200, 300, etc. up to 1000."
+    },
+    {
+      "title": "9 - Introduction to numbers 5",
+      "details": "1000, 2000, 3000, etc. up to 10,000."
+    },
+    {
+      "title": "10 - Basic shopping phrases",
+      "details": "\"How much\", \"I want this\", \"Do you have\"."
+    },
+    {
+      "title": "11 - Basic shopping phrases 2",
+      "details": "\"Too expensive\", \"Can you lower the price\", \"I'll take it\"."
+    },
+    {
+      "title": "12 - Basic food items",
+      "details": "Rice, fish, meat, vegetables."
+    },
+    {
+      "title": "13 - Basic food items 2",
+      "details": "Sushi, ramen, tempura, yakitori."
+    },
+    {
+      "title": "14 - Ordering food",
+      "details": "\"I want to order\", \"Check, please\", \"Delicious\"."
+    },
+    {
+      "title": "15 - Ordering food 2",
+      "details": "\"I'm allergic to\", \"I don't eat\", \"Can I have the menu\"."
+    },
+    {
+      "title": "16 - Basic drinks",
+      "details": "Water, tea, coffee, beer."
+    },
+    {
+      "title": "17 - Ordering drinks",
+      "details": "\"Can I have a\", \"Another one, please\", \"Cheers\"."
+    },
+    {
+      "title": "18 - Basic accommodations",
+      "details": "Hotel, inn, guesthouse, hostel."
+    },
+    {
+      "title": "19 - Booking accommodations",
+      "details": "\"I have a reservation\", \"I want to check in\", \"I want to check out\"."
+    },
+    {
+      "title": "20 - Basic transportation",
+      "details": "Train, bus, taxi, subway."
+    },
+    {
+      "title": "21 - Using transportation",
+      "details": "\"One ticket to\", \"Where is the platform\", \"What time does it leave\"."
+    },
+    {
+      "title": "22 - Using transportation 2",
+      "details": "\"Does this go to\", \"When is the next\", \"How long does it take\"."
+    },
+    {
+      "title": "23 - Basic directions",
+      "details": "Left, right, straight, back."
+    },
+    {
+      "title": "24 - Asking for directions",
+      "details": "\"Where is the\", \"How far is the\", \"Is it near\"."
+    },
+    {
+      "title": "25 - Asking for directions 2",
+      "details": "\"Can you show me on the map\", \"I'm lost\", \"I'm looking for\"."
+    },
+    {
+      "title": "26 - Basic sightseeing",
+      "details": "Temple, shrine, castle, museum."
+    },
+    {
+      "title": "27 - Sightseeing phrases",
+      "details": "\"What time does it open\", \"How much is the entrance fee\", \"Is it crowded\"."
+    },
+    {
+      "title": "28 - Sightseeing phrases 2",
+      "details": "\"Can I take photos\", \"Where is the exit\", \"Where is the restroom\"."
+    },
+    {
+      "title": "29 - Basic weather",
+      "details": "Sunny, cloudy, rainy, snowy."
+    },
+    {
+      "title": "30 - Weather phrases",
+      "details": "\"What's the weather like\", \"It's too hot\", \"It's too cold\"."
+    },
+    {
+      "title": "31 - Basic emergencies",
+      "details": "Help, police, hospital, doctor."
+    },
+    {
+      "title": "32 - Emergency phrases",
+      "details": "\"I'm sick\", \"I need a doctor\", \"Call the police\"."
+    },
+    {
+      "title": "33 - Basic body parts",
+      "details": "Head, hand, foot, stomach."
+    },
+    {
+      "title": "34 - Body parts 2",
+      "details": "Eye, ear, mouth, nose."
+    },
+    {
+      "title": "35 - Health and sickness",
+      "details": "\"I have a headache\", \"I have a stomachache\", \"I feel nauseous\"."
+    },
+    {
+      "title": "36 - Health and sickness 2",
+      "details": "\"I need medicine\", \"Where is the pharmacy\", \"I need to rest\"."
+    },
+    {
+      "title": "37 - Time",
+      "details": "Hours, minutes, seconds."
+    },
+    {
+      "title": "38 - Time 2",
+      "details": "Morning, afternoon, evening, night."
+    },
+    {
+      "title": "39 - Days of the week",
+      "details": "Monday to Sunday."
+    },
+    {
+      "title": "40 - Months of the year",
+      "details": "January to December."
+    },
+    {
+      "title": "41 - Seasons",
+      "details": "Spring, summer, autumn, winter."
+    },
+    {
+      "title": "42 - Dates and holidays",
+      "details": "\"What's the date today\", \"When is\", \"I'm here for\"."
+    },
+    {
+      "title": "43 - Basic family members",
+      "details": "Mother, father, brother, sister."
+    },
+    {
+      "title": "44 - Family members 2",
+      "details": "Grandmother, grandfather, aunt, uncle."
+    },
+    {
+      "title": "45 - Talking about family",
+      "details": "\"I have a\", \"I'm here with my\", \"My family is in\"."
+    },
+    {
+      "title": "46 - Basic hobbies",
+      "details": "Reading, watching movies, traveling, cooking."
+    },
+    {
+      "title": "47 - Talking about hobbies",
+      "details": "\"I like\", \"I don't like\", \"I'm interested in\"."
+    },
+    {
+      "title": "48 - Basic occupations",
+      "details": "Teacher, student, engineer, doctor."
+    },
+    {
+      "title": "49 - Talking about occupations",
+      "details": "\"I'm a\", \"I work as a\", \"I'm studying to be a\"."
+    },
+    {
+      "title": "50 - Basic countries and nationalities",
+      "details": "America, Japan, American, Japanese."
+    },
+    {
+      "title": "51 - Talking about countries and nationalities",
+      "details": "\"I'm from\", \"I'm\", \"I live in\"."
+    },
+    {
+      "title": "52 - Basic languages",
+      "details": "English, Japanese, Spanish, French."
+    },
+    {
+      "title": "53 - Talking about languages",
+      "details": "\"I speak\", \"I'm learning\", \"I don't understand\"."
+    },
+    {
+      "title": "54 - Basic compliments",
+      "details": "Beautiful, cute, cool, amazing."
+    },
+    {
+      "title": "55 - Complimenting people",
+      "details": "\"You're\", \"That's\", \"I think it's\"."
+    },
+    {
+      "title": "56 - Basic feelings",
+      "details": "Happy, sad, angry, tired."
+    },
+    {
+      "title": "57 - Talking about feelings",
+      "details": "\"I'm\", \"I feel\", \"I'm not\"."
+    },
+    {
+      "title": "58 - Basic daily activities",
+      "details": "Eating, sleeping, working, studying."
+    },
+    {
+      "title": "59 - Daily activities 2",
+      "details": "Shopping, traveling, cooking, cleaning."
+    },
+    {
+      "title": "60 - Talking about daily activities",
+      "details": "\"I'm\", \"I'm going to\", \"I want to\"."
+    },
+    {
+      "title": "61 - Basic clothing",
+      "details": "Shirt, pants, shoes, hat."
+    },
+    {
+      "title": "62 - Clothing 2",
+      "details": "Coat, dress, skirt, socks."
+    },
+    {
+      "title": "63 - Shopping for clothing",
+      "details": "\"I'm looking for a\", \"Do you have this in\", \"I want to try this on\"."
+    },
+    {
+      "title": "64 - Colors 2",
+      "details": "Green, blue, yellow, black."
+    },
+    {
+      "title": "65 - Describing colors",
+      "details": "\"It's\", \"I like\", \"I don't like\"."
+    },
+    {
+      "title": "66 - Basic nature words",
+      "details": "Mountain, river, forest, beach."
+    },
+    {
+      "title": "67 - Nature words 2",
+      "details": "Flower, tree, grass, sky."
+    },
+    {
+      "title": "68 - Talking about nature",
+      "details": "\"I like\", \"I want to go to\", \"It's beautiful\"."
+    },
+    {
+      "title": "69 - Basic city words",
+      "details": "Building, street, store, park."
+    },
+    {
+      "title": "70 - City words 2",
+      "details": "Restaurant, cafe, mall, station."
+    },
+    {
+      "title": "71 - Talking about the city",
+      "details": "\"I'm at\", \"I'm going to\", \"It's crowded\"."
+    },
+    {
+      "title": "72 - Basic technology",
+      "details": "Phone, computer, internet, camera."
+    },
+    {
+      "title": "73 - Technology 2",
+      "details": "TV, radio, game, app."
+    },
+    {
+      "title": "74 - Talking about technology",
+      "details": "\"I'm using\", \"I need\", \"It's broken\"."
+    },
+    {
+      "title": "75 - Basic sports",
+      "details": "Baseball, soccer, tennis, swimming."
+    },
+    {
+      "title": "76 - Sports 2",
+      "details": "Running, cycling, hiking, yoga."
+    },
+    {
+      "title": "77 - Talking about sports",
+      "details": "\"I like\", \"I'm good at\", \"I'm watching\"."
+    },
+    {
+      "title": "78 - Basic music",
+      "details": "Pop, rock, jazz, classical."
+    },
+    {
+      "title": "79 - Music 2",
+      "details": "Concert, album, song, band."
+    },
+    {
+      "title": "80 - Talking about music",
+      "details": "\"I like\", \"I'm listening to\", \"I'm going to a\"."
+    },
+    {
+      "title": "81 - Basic movies",
+      "details": "Action, romance, comedy, horror."
+    },
+    {
+      "title": "82 - Movies 2",
+      "details": "Theater, ticket, popcorn, actor."
+    },
+    {
+      "title": "83 - Talking about movies",
+      "details": "\"I like\", \"I'm watching\", \"I want to see\"."
+    },
+    {
+      "title": "84 - Basic books",
+      "details": "Novel, manga, magazine, newspaper."
+    },
+    {
+      "title": "85 - Books 2",
+      "details": "Library, bookstore, author, page."
+    },
+    {
+      "title": "86 - Talking about books",
+      "details": "\"I like\", \"I'm reading\", \"I want to buy\"."
+    },
+    {
+      "title": "87 - Basic art",
+      "details": "Painting, sculpture, photography, drawing."
+    },
+    {
+      "title": "88 - Art 2",
+      "details": "Museum, gallery, artist, exhibition."
+    },
+    {
+      "title": "89 - Talking about art",
+      "details": "\"I like\", \"I'm looking at\", \"I want to see\"."
+    },
+    {
+      "title": "90 - Basic history",
+      "details": "Ancient, medieval, modern, future."
+    },
+    {
+      "title": "91 - History 2",
+      "details": "War, peace, king, queen."
+    },
+    {
+      "title": "92 - Talking about history",
+      "details": "\"I'm interested in\", \"I'm studying\", \"I want to visit\"."
+    },
+    {
+      "title": "93 - Basic geography",
+      "details": "Continent, country, city, village."
+    },
+    {
+      "title": "94 - Geography 2",
+      "details": "Ocean, lake, island, desert."
+    },
+    {
+      "title": "95 - Talking about geography",
+      "details": "\"I'm from\", \"I'm going to\", \"I want to see\"."
+    },
+    {
+      "title": "96 - Basic science",
+      "details": "Physics, chemistry, biology, astronomy."
+    },
+    {
+      "title": "97 - Science 2",
+      "details": "Experiment, theory, research, discovery."
+    },
+    {
+      "title": "98 - Talking about science",
+      "details": "\"I'm interested in\", \"I'm studying\", \"I want to learn\"."
+    },
+    {
+      "title": "99 - Basic politics",
+      "details": "Government, election, law, rights."
+    },
+    {
+      "title": "100 - Politics 2",
+      "details": "President, prime minister, democracy, dictatorship."
+    }
+  ]
+}

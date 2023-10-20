@@ -1,6 +1,7 @@
 # GPT Tutor
 
-Create audio lessons with GPT and Azure AI speech.
+Generate personalized audio lessons with GPT and Azure AI speech.
+Examples: [Japanese course](./lessons/japanese/)
 
 ## Installation
 

@@ -55,7 +55,7 @@ const outputDirPrompt = await inquirer.prompt({
   type: "input",
   name: "outputDir",
   message: `Where should the output be placed / path to resume from`,
-  default: `./output/${new Date().toISOString()}`,
+  default: `./lessons/${new Date().toISOString()}`,
 });
 
 const outputDir = outputDirPrompt.outputDir;
