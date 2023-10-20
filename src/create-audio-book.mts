@@ -17,7 +17,6 @@ import {
 import { createTranscript } from "./lib/create-transcript.js";
 import { convertAudioFormat, synthesizeAudio } from "./lib/synthesize-audio.js";
 import { SpeechConfig } from "microsoft-cognitiveservices-speech-sdk";
-import { Command } from "commander";
 
 let openAIApiKey = process.env.OPENAI_API_KEY;
 if (!openAIApiKey) {
@@ -27,7 +26,7 @@ if (!openAIApiKey) {
     message: "Enter OpenAI API key",
     validate: (value) => value.length > 0,
   });
-  openAIApiKey = prompt.key!;
+  openAIApiKey = prompt.key as string;
 }
 
 let azureSpeechKey = process.env.AZURE_SPEECH_KEY;
@@ -38,7 +37,7 @@ if (!azureSpeechKey) {
     message: "Enter Azure speech key",
     validate: (value) => value.length > 0,
   });
-  azureSpeechKey = prompt.key!;
+  azureSpeechKey = prompt.key as string;
 }
 
 let azureSpeechRegion = process.env.AZURE_SPEECH_REGION;
@@ -49,59 +48,95 @@ if (!azureSpeechRegion) {
     message: "Enter Azure speech region",
     validate: (value) => value.length > 0,
   });
-  azureSpeechRegion = prompt.region!;
+  azureSpeechRegion = prompt.region as string;
 }
+
+const outputDirPrompt = await inquirer.prompt({
+  type: "input",
+  name: "outputDir",
+  message: `Where should the output be placed / path to resume from`,
+  default: `./output/${new Date().toISOString()}`,
+});
+
+const outputDir = outputDirPrompt.outputDir;
 
 const gptModelPrompt = await inquirer.prompt({
   type: "list",
   choices: ["gpt-3.5-turbo-16k", "gpt-4"],
   name: "model",
   message: "Enter GPT model",
-  default: "gpt-3.5-turbo-16k",
+  default: "gpt-4",
 });
 const gptModel = gptModelPrompt.model;
-
-const learningGoals: LearningGoals = {
-  targetLanguage: "japanese",
-  priorKnowledge: `I've done 100 lessons on duolingo, so i know some words like hello, goodbye, 
-   some sentences like where is, my name is, some colors like white, red, how to say where and there, and some more simple stuff`,
-  targetKnowledge:
-    "As much as possible to be able to enjoy a three week vacation",
-};
-
-// const learningGoals: LearningGoals = {
-//   targetLanguage: "italian",
-//   priorKnowledge: `I am able to speak simple italian, as I have been there many times before and studied spanish.`,
-//   targetKnowledge: "I want to be able to speak italian comfortably.",
-// };
-
-const program = new Command();
-program.option(
-  "-o, --output <path>",
-  "output path to write to or resume from",
-  `./output/${new Date().toISOString()}`
-);
-program.option("--skip-synth", "skip synthesizing");
-program.parse();
-
-const skipSynthesizing = program.getOptionValue("skipSynth");
-const outputDir = program.getOptionValue("output");
-
-const learningPlanFilename = "learning_plan.json";
-const openAIClient = new OpenAI({ apiKey: openAIApiKey });
-const speechConfig: SpeechConfig = SpeechConfig.fromSubscription(
-  azureSpeechKey!,
-  azureSpeechRegion!
-);
 
 if (!existsSync(outputDir)) {
   console.log("Creating output dir", outputDir);
   mkdirSync(outputDir, { recursive: true });
 }
 
+const learningGoalsFilename = "learning_goals.json";
+const learningGoalsPath = join(outputDir, learningGoalsFilename);
+let learningGoals: LearningGoals;
+if (existsSync(learningGoalsPath)) {
+  learningGoals = JSON.parse(readFileSync(learningGoalsPath, "utf-8"));
+} else {
+  const targetLanguagePrompt = await inquirer.prompt({
+    type: "input",
+    name: "targetLanguage",
+    message: "Which language do you want to learn?",
+    default: "Japanese",
+  });
+  const targetLanguage = targetLanguagePrompt.targetLanguage;
+
+  const priorKnowledgePrompt = await inquirer.prompt({
+    type: "input",
+    name: "priorKnowledge",
+    message: `Describe your current knowledge of ${targetLanguage}`,
+    default: `I've done 100 lessons on duolingo, so i know some words like hello, goodbye, 
+  some sentences like where is, my name is, some colors like white, red, how to say where and there, and some more simple stuff`,
+  });
+  const priorKnowledge = priorKnowledgePrompt.priorKnowledge;
+
+  const targetKnowledgePrompt = await inquirer.prompt({
+    type: "input",
+    name: "targetKnowledge",
+    message: `What do you want to learn?`,
+    default: "As much as possible to be able to enjoy a three week vacation",
+  });
+
+  const targetKnowledge = targetKnowledgePrompt.targetKnowledge;
+
+  const numberOfLessonsPrompt = await inquirer.prompt({
+    type: "number",
+    name: "numberOfLessons",
+    message: `How many lessons to generate?`,
+    default: 100,
+  });
+
+  const numberOfLessons = numberOfLessonsPrompt.numberOfLessons;
+
+  learningGoals = {
+    targetKnowledge,
+    targetLanguage,
+    priorKnowledge,
+    numberOfLessons,
+  };
+  writeFileSync(
+    learningGoalsPath,
+    JSON.stringify(learningGoals, null, 2),
+    "utf-8"
+  );
+}
+const openAIClient = new OpenAI({ apiKey: openAIApiKey });
+const speechConfig: SpeechConfig = SpeechConfig.fromSubscription(
+  azureSpeechKey,
+  azureSpeechRegion
+);
+
 let learningPlan: LearningPlan;
 let remainingLessons: LessonDescription[];
 
+const learningPlanFilename = "learning_plan.json";
 const learningPlanPath = join(outputDir, learningPlanFilename);
 if (existsSync(learningPlanPath)) {
   learningPlan = JSON.parse(readFileSync(learningPlanPath, "utf-8"));
@@ -133,20 +168,6 @@ if (existsSync(learningPlanPath)) {
   remainingLessons = learningPlan.lessons;
 }
 
-const answers = await inquirer.prompt<{
-  confirm: boolean;
-}>([
-  {
-    type: "confirm",
-    name: "confirm",
-    message: "Create lessons",
-  },
-]);
-
-if (!answers.confirm) {
-  process.exit(0);
-}
-
 for (const lesson of remainingLessons) {
   console.log(`Creating lesson ${lesson.title}:${lesson.details}...`);
   const transcriptFilename = join(outputDir, lesson.title + ".xml");
@@ -166,14 +187,12 @@ for (const lesson of remainingLessons) {
     writeFileSync(transcriptFilename, transcript, "utf-8");
   }
 
-  if (!skipSynthesizing) {
-    console.log("Synthesizing audio");
+  console.log("Synthesizing audio");
 
-    const audio = await synthesizeAudio(transcript, speechConfig);
+  const audio = await synthesizeAudio(transcript, speechConfig);
 
-    const mp3Buffer = await convertAudioFormat(audio, "wav", "mp3");
-    writeFileSync(join(outputDir, lesson.title + ".mp3"), mp3Buffer);
-  }
+  const mp3Buffer = await convertAudioFormat(audio, "wav", "mp3");
+  writeFileSync(join(outputDir, lesson.title + ".mp3"), mp3Buffer);
 }
 
 console.log("Complete. Files and transcripts are available in", outputDir);

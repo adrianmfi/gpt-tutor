@@ -5,6 +5,7 @@ export type LearningGoals = {
   targetLanguage: string;
   priorKnowledge: string;
   targetKnowledge: string;
+  numberOfLessons: number;
 };
 
 export type LearningPlan = {
@@ -74,18 +75,13 @@ function createLearningPlanCompletionRequest(
 }
 
 function createSystemPrompt(goals: LearningGoals) {
-  const createRealAmountOfLessons = true;
   return `
   You are a bot designed to create a learning plan for learning a specified language.
   You are given details about a users learning goals. You will respond with a list of lessons for learning the specified language.
   These lessons will be later handled by a tutor bot which will take your lesson descriptions and create transcripts and audio for each lesson.
   
-${
-  createRealAmountOfLessons
-    ? `You must create a large number of short lessons, around 100, covering what the user wants to learn.
-    To make keeping track easier, you might want to start each lesson title with a lesson count, e.g. 15 - Sentence structure`
-    : "This is a test run, and you should only generate 2-6 lessons covering a part of what the user wants to learn"
-}
+  You must create ${goals.numberOfLessons} lessons, covering what the user wants to learn.
+  To make keeping track easier, you might want to start each lesson title with a lesson count, e.g. 15 - Sentence structure  
   
   An excerpt from a generated learning plan for a user with little to no prior knowledge, wanting to learn japanese for a holiday trip:
   20 - Adverbs of place: Where, here, there
@@ -108,7 +104,7 @@ ${
   Therefore, you typically want to create several lessons on the same topic.
   Be specific about what the lesson should contain.
   * There's not much use learning characters!
-  ${createRealAmountOfLessons ? "* 100 lessons" : ""}
+  * ${goals.numberOfLessons} lessons
   * As the lessons progress, more lessons might get more advanced, for example with longer sentences or conversations containing what's previously learned.
   * You don't have to add lessons for things the user already knows. For example, if the user already knows some of the language, don't include lessons for yes and no.
   * Keep lesson descriptions in english, don't include translations of the words.

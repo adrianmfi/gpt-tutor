@@ -72,34 +72,13 @@ In this lesson, we have reviewed the words and phrases related to accommodation 
 const parsed = parseTranscript(response);
 let transcript = convertToSSML(parsed);
 
-transcript = `<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
-xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+transcript = `<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
 <voice name="en-US-RyanMultilingualNeural">
-<lang xml:lang="en-US">
-   If you are from New York, you would say 
-  <break time='1s'/>
-</lang>
-</voice>
-<voice name="en-US-RyanMultilingualNeural">
-<lang xml:lang="it-IT">
-  <mstts:prosody rate="-20%">
-      Sono di New York
-    </mstts:prosody>
-</lang>
-</voice>
-<voice name="en-US-RyanMultilingualNeural">
-<lang xml:lang="en-US">
-  <break time='1s'/>
-  . Try saying it with your own city or country: 
-  <break time='1s'/>
-</lang>
-</voice>
-<voice name="en-US-RyanMultilingualNeural">
-<lang xml:lang="it-IT">
-  <mstts:prosody rate="-20%">
-      Sono di [your city/country]
-    </mstts:prosody>
-</lang>
+  <lang xml:lang="en-US">
+    <break time='1s'/>
+    So let's start by saying I am in our context. So let's start by saying "I am" in our context.
+    <break time='1s'/>
+  </lang>
 </voice>
 
 </speak>`;
