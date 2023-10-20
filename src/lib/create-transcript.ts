@@ -5,7 +5,6 @@ import {
   LessonDescription,
   LearningPlan,
 } from "./create-learning-plan.js";
-import { ValidationError, XMLValidator } from "fast-xml-parser";
 
 export async function createTranscript(
   openAIClient: OpenAI,
