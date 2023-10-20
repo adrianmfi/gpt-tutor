@@ -6,7 +6,7 @@ Examples: [Japanese course](./lessons/japanese/)
 ## Installation
 
 ```bash
-git clone gpt-tutor
+git clone https://github.com/adrianmfi/gpt-tutor.git
 cd gpt-tutor
 npm install
 ```
