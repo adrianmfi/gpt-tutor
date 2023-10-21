@@ -1,7 +1,13 @@
 # GPT Tutor
 
 Generate personalized audio lessons with GPT and Azure AI speech. <br>
-A generated Japanese course can be found [here](./lessons/japanese/), or as a [single .mp3](https://github.com/adrianmfi/gpt-tutor/raw/main/lessons/japanese/all_lessons.mp3).
+A generated Japanese course for the following input:
+```
+Target language: Japanese
+Prior knowledge: I've done 100 lessons on duolingo, so I know words like hello, goodbye, some sentences like where is, my name is, some colors, how to say where and there
+Target knowledge: Enough to be able to enjoy a three week vacation`;
+```
+ can be found [here](./lessons/japanese/), or as a [single .mp3](https://github.com/adrianmfi/gpt-tutor/raw/main/lessons/japanese/all_lessons.mp3).
 
 https://github.com/adrianmfi/gpt-tutor/assets/12783483/f3afdb59-ceda-4db7-b85b-d96e0b56d88d
 
