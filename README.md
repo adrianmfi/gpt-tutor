@@ -34,6 +34,12 @@ or:
 OPENAI_API_KEY=... AZURE_SPEECH_KEY=... AZURE_SPEECH_REGION=... npx ts-node ./src/create-audio-book.mts
 ```
 
+Concatenate all generated .mp3 files in a directory into a single file for easier download (Tested on macOS): <br>
+
+```bash
+ffmpeg -f concat -safe 0 -i <(for f in *.mp3; do echo "file '$PWD/$f'"; done | sort -V) -c copy output.mp3
+```
+
 ## License
 
 MIT
