@@ -2,188 +2,198 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to lesson 10 of learning Japanese! In this lesson, we will cover some basic shopping phrases. By the end of this lesson, you will be able to ask "How much?", say "I want this", and ask "Do you have?"
+      In this lesson, we are venturing into the world of shopping in Japan with three essential phrases: "How much", "I want this", and "Do you have". These sentences will take you from browsing to buying.
 
-Let's start with the phrase "How much?" In Japanese, it is 
+Let's begin with the phrase "How much is it?". In Japanese, this is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          いくらですか
+          これはいくらですか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . It's pronounced "ikuradesuka". Say it with me: 
+      . The phrase word for word means "this, how much, is it?". Let's repeat: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          いくらですか
+          これはいくらですか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
+      . "How much is it?" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これはいくらですか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Next, let's look at how to say "I want this". In Japanese, you can say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これが欲しいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Word for word, it means "this, want, is". So, when you see something you'd like to buy, say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これが欲しいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Good. And once more: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これが欲しいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Finally, to ask "Do you have...?", you would say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ...がありますか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . This is a bit different because the item you're looking for goes at the beginning of the sentence. For example, if you're looking for a hat, you'd say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          帽子がありますか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , which means "hat, do you have?". Give it a try: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          帽子がありますか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Again, "Do you have a hat?" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          帽子がありますか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+   
+To recap, we learned "How much is it?" as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これはいくらですか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , "I want this" as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これが欲しいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and "Do you have...?" with the format 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ...がありますか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
       . 
 
-Now let's learn how to say "I want this". In Japanese, it is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          これをください
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . It's pronounced "kore o kudasai". Try saying it out loud: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          これをください
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . This phrase can be used when you want to buy something specific.
-
-Next, we will learn how to ask "Do you have?". In Japanese, it is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ありますか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . It's pronounced "arimasuka". Repeat after me: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ありますか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . This phrase can be used when you want to inquire if a store or shop has a specific item.
-
-Now, let's practice using these phrases in sentences. Imagine you're at a store and you see a shirt that you want to buy. You can say "How much is this shirt?" In Japanese, it would be 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          このシャツはいくらですか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Try saying it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          このシャツはいくらですか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-If you want to buy the shirt, you can say "I want this shirt". In Japanese, it is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          このシャツをください
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Say it with me: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          このシャツをください
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-Finally, if you're looking for a specific item, you can ask the shopkeeper "Do you have any pants?". In Japanese, it would be 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ズボンはありますか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Try saying it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ズボンはありますか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      . 
-
-Good job! In this lesson, you've learned how to ask "How much?", say "I want this", and ask "Do you have?". Keep practicing these phrases to improve your Japanese skills. See you in the next lesson!
+That concludes our basic shopping lesson. Try using these phrases the next time you shop in Japanese!
     </lang>
   </voice>
 </speak>
