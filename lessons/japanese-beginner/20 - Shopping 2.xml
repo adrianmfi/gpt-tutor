@@ -1,0 +1,283 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      Welcome to lesson 20, today you'll be learning about Shopping 2 - focusing on vocabulary and phrases related to clothing, souvenirs, and groceries in Japanese.
+
+First, let's start with words you'll need when shopping for clothing. 
+
+The word for 'clothing' in Japanese is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          衣服
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Allow me to repeat that. The word for 'clothing' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          衣服
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Next, the term for 'try on' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          試着する
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Once more, 'try on' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          試着する
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+An example sentence could be, "Can I try on this clothing?" which in Japanese would be 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          この衣服を試着してもいいですか？
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Again for clarity, "Can I try on this clothing?" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          この衣服を試着してもいいですか？
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now onto souvenirs. The word for 'souvenir' in Japanese is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          お土産
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Once again, 'souvenir' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          お土産
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+If you want to ask where to find souvenirs, you'd say "Where can I buy souvenirs?" which translates to 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          お土産はどこで買えますか？
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating that, "Where can I buy souvenirs?" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          お土産はどこで買えますか？
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Finally, let's explore grocery shopping. The term for 'groceries' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          食料品
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Try saying it out loud, 'groceries' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          食料品
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+For example, if you want to know where the groceries are located, you can ask "Where are the groceries?" which in Japanese is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          食料品はどこにありますか？
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+All together now, "Where are the groceries?" in Japanese is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          食料品はどこにありますか？
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Alright, so we've covered key vocabulary and phrases for shopping for clothing, souvenirs, and groceries in Japanese. To recap, we have 'clothing' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          衣服
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'try on' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          試着する
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'souvenir' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          お土産
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and 'groceries' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          食料品
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      .
+
+This concludes Lesson 20, enjoy your shopping in Japanese!
+    </lang>
+  </voice>
+</speak>

@@ -1,0 +1,281 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      Welcome to your first Japanese lesson. In this session, we will learn some essential greetings and expressions.
+
+Firstly, the phrase 'Good Morning' is very important in Japanese and is said as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          おはようございます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once again, 'Good Morning' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          おはようございます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+The phrase 'Good Afternoon' is similar and is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          こんにちは
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once again, 'Good Afternoon' is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          こんにちは
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+'Good Evening' translates to 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          こんばんは
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Let's repeat that. 'Good Evening' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          こんばんは
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now, if you want to say 'Thank you', you can say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ありがとう
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Again, 'Thank you' is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ありがとう
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+When leaving you might want to say 'Goodbye', in Japanese this is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          さようなら
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once more, 'Goodbye' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          さようなら
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Finally, 'Excuse me' is a versatile phrase, useful in many situations. This is said 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          すみません
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese.
+Let's repeat, 'Excuse me' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          すみません
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Today we have learnt how to say 'Good Morning' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          おはようございます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'Good Afternoon' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          こんにちは
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'Good Evening' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          こんばんは
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'Thank you' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ありがとう
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and 'Goodbye' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          さようなら
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       and finally 'Excuse me' as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          すみません
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      . 
+
+You've done a great job today. Keep practicing these expressions consistently, and you'll be on your way to communicating effectively in Japanese. See you in the next lesson.
+    </lang>
+  </voice>
+</speak>

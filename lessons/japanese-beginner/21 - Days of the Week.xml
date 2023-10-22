@@ -1,0 +1,319 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      Welcome to your new lesson on the days of the week in Japanese. We shall start by introducing each day and practicing their pronunciation. 
+
+Let's begin with 'Monday'. In Japanese, 'Monday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          月曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Once more, 'Monday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          月曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Moving on to 'Tuesday' which is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          火曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese. Repeat after me: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          火曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Next up, 'Wednesday'. 'Wednesday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          水曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese. Let's practice: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          水曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now let's learn 'Thursday' which is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          木曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Again, 'Thursday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          木曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+The word for 'Friday' in Japanese is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          金曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Repeat: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          金曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Let's enjoy our weekend starting with 'Saturday' or 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          土曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese. Once more: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          土曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+And finally, 'Sunday'. 'Sunday' translate to 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          日曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese. Again: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          日曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . 
+
+So to recap our lesson, in Japanese, 'Monday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          月曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'Tuesday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          火曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'Wednesday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          水曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'Thursday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          木曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'Friday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          金曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 'Saturday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          土曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       and 'Sunday' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          日曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      . 
+
+That concludes our lesson on the days of the week in Japanese. Practice these often to familiarise yourself with them.
+    </lang>
+  </voice>
+</speak>

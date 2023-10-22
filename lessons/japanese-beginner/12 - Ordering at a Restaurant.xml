@@ -1,0 +1,193 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      Welcome to your next Japanese lesson. Today, we're going to focus on how to order food and drinks in a restaurant in Japan.
+
+We'll start with a common phrase: 'Can I order?'. In Japanese, you say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          注文してもいいですか。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Let's repeat that, 'Can I order?' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          注文してもいいですか。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now, let's move onto ordering food. If you want to say 'I would like some food', you say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          食べ物をください。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Once more, 'I would like some food' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          食べ物をください。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+In a similar vein, 'I would like some drink', translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          飲み物をください。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Let's say it again: 'I would like a drink' translates to 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          飲み物をください。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now, let's incorporate some of the adjectives we've learned. For instance, 'I want to order a delicious meal'. This in Japanese is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          美味しい食事を注文したい。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Once more, 'I want to order a delicious meal' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          美味しい食事を注文したい。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+We have now learned how to order food and drinks, and make a specific request at a Japanese restaurant.
+
+In quick recap,  
+'Can I order?' translates to 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          注文してもいいですか。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      ,  
+'I would like some food' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          食べ物をください。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      ,  
+'I would like some drink' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          飲み物をください。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and  
+'I want to order a delicious meal' is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          美味しい食事を注文したい。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      .  
+Keep practicing these phrases and you'll soon find dining in a Japanese restaurant a breeze!
+    </lang>
+  </voice>
+</speak>

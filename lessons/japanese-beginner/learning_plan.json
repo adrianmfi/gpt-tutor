@@ -1,0 +1,204 @@
+{
+  "lessons": [
+    {
+      "title": "1 - Introduction to Japanese",
+      "details": "Basic greetings and expressions."
+    },
+    {
+      "title": "2 - Numbers 1-10",
+      "details": "Learning the numbers from one to ten."
+    },
+    {
+      "title": "3 - Basic Verbs",
+      "details": "Introduction to verbs like \"to be\", \"to have\", \"to go\"."
+    },
+    {
+      "title": "4 - Basic Nouns",
+      "details": "Introduction to nouns like \"person\", \"place\", \"thing\"."
+    },
+    {
+      "title": "5 - Basic Adjectives",
+      "details": "Introduction to adjectives like \"big\", \"small\", \"good\", \"bad\"."
+    },
+    {
+      "title": "6 - Basic Sentence Structure",
+      "details": "Subject, verb, object."
+    },
+    {
+      "title": "7 - Numbers 11-20",
+      "details": "Learning the numbers from eleven to twenty."
+    },
+    {
+      "title": "8 - Basic Verbs 2",
+      "details": "Introduction to verbs like \"to eat\", \"to drink\", \"to see\"."
+    },
+    {
+      "title": "9 - Basic Nouns 2",
+      "details": "Introduction to nouns like \"food\", \"drink\", \"sightseeing\"."
+    },
+    {
+      "title": "10 - Basic Adjectives 2",
+      "details": "Introduction to adjectives like \"delicious\", \"interesting\", \"beautiful\"."
+    },
+    {
+      "title": "11 - Basic Sentence Structure 2",
+      "details": "Adding adjectives to sentences."
+    },
+    {
+      "title": "12 - Ordering at a Restaurant",
+      "details": "How to order food and drinks."
+    },
+    {
+      "title": "13 - Ordering at a Restaurant 2",
+      "details": "How to ask for the bill and say thank you."
+    },
+    {
+      "title": "14 - Asking for Directions",
+      "details": "Basic phrases for asking directions."
+    },
+    {
+      "title": "15 - Asking for Directions 2",
+      "details": "Understanding responses when asking for directions."
+    },
+    {
+      "title": "16 - Transportation",
+      "details": "Train, bus, taxi, and subway."
+    },
+    {
+      "title": "17 - Buying Tickets",
+      "details": "One-way ticket, round trip, and platform."
+    },
+    {
+      "title": "18 - At the Hotel",
+      "details": "Checking in, asking for amenities, checking out."
+    },
+    {
+      "title": "19 - Shopping",
+      "details": "How to ask for the price, how to bargain."
+    },
+    {
+      "title": "20 - Shopping 2",
+      "details": "Clothing, souvenirs, and groceries."
+    },
+    {
+      "title": "21 - Days of the Week",
+      "details": "Learning the days of the week."
+    },
+    {
+      "title": "22 - Time",
+      "details": "Asking and telling the time."
+    },
+    {
+      "title": "23 - Weather Vocabulary",
+      "details": "Sunny, cloudy, raining/rainy, snowing/snowy."
+    },
+    {
+      "title": "24 - Basic Sentence Structure 3",
+      "details": "Adding time and place to sentences."
+    },
+    {
+      "title": "25 - Basic Verbs 3",
+      "details": "Introduction to verbs like \"to buy\", \"to sleep\", \"to walk\"."
+    },
+    {
+      "title": "26 - Basic Nouns 3",
+      "details": "Introduction to nouns like \"hotel\", \"store\", \"street\"."
+    },
+    {
+      "title": "27 - Basic Adjectives 3",
+      "details": "Introduction to adjectives like \"expensive\", \"cheap\", \"far\", \"near\"."
+    },
+    {
+      "title": "28 - At the Tourist Spot",
+      "details": "Asking for information, taking pictures."
+    },
+    {
+      "title": "29 - At the Tourist Spot 2",
+      "details": "Understanding information, asking for help."
+    },
+    {
+      "title": "30 - Emergency Situations",
+      "details": "Asking for help, calling for an ambulance."
+    },
+    {
+      "title": "31 - Emergency Situations 2",
+      "details": "Explaining the situation, understanding responses."
+    },
+    {
+      "title": "32 - Numbers 21-100",
+      "details": "Learning the numbers from twenty-one to a hundred."
+    },
+    {
+      "title": "33 - Basic Sentence Structure 4",
+      "details": "Adding numbers to sentences."
+    },
+    {
+      "title": "34 - Basic Verbs 4",
+      "details": "Introduction to verbs like \"to take\", \"to wait\", \"to leave\"."
+    },
+    {
+      "title": "35 - Basic Nouns 4",
+      "details": "Introduction to nouns like \"picture\", \"ticket\", \"time\"."
+    },
+    {
+      "title": "36 - Basic Adjectives 4",
+      "details": "Introduction to adjectives like \"early\", \"late\", \"busy\", \"free\"."
+    },
+    {
+      "title": "37 - At the Airport",
+      "details": "Checking in, boarding, and disembarking."
+    },
+    {
+      "title": "38 - At the Airport 2",
+      "details": "Asking for information, understanding announcements."
+    },
+    {
+      "title": "39 - Transportation 2",
+      "details": "Renting a car, asking for a taxi."
+    },
+    {
+      "title": "40 - Buying Tickets 2",
+      "details": "Buying tickets for tourist spots, understanding ticket information."
+    },
+    {
+      "title": "41 - Shopping 3",
+      "details": "Shopping for food, understanding labels."
+    },
+    {
+      "title": "42 - At the Restaurant 3",
+      "details": "Understanding the menu, asking for recommendations."
+    },
+    {
+      "title": "43 - At the Hotel 2",
+      "details": "Asking for services, understanding hotel policies."
+    },
+    {
+      "title": "44 - Basic Sentence Structure 5",
+      "details": "Making complex sentences."
+    },
+    {
+      "title": "45 - Basic Verbs 5",
+      "details": "Introduction to verbs like \"to understand\", \"to think\", \"to feel\"."
+    },
+    {
+      "title": "46 - Basic Nouns 5",
+      "details": "Introduction to nouns like \"language\", \"culture\", \"experience\"."
+    },
+    {
+      "title": "47 - Basic Adjectives 5",
+      "details": "Introduction to adjectives like \"difficult\", \"easy\", \"different\", \"same\"."
+    },
+    {
+      "title": "48 - Review",
+      "details": "Review of all the lessons."
+    },
+    {
+      "title": "49 - Practice Conversation",
+      "details": "A conversation at a restaurant."
+    },
+    {
+      "title": "50 - Practice Conversation 2",
+      "details": "A conversation at a tourist spot."
+    }
+  ]
+}
