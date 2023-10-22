@@ -9,6 +9,9 @@ Target knowledge: Enough to be able to enjoy a three week vacation`;
 ```
  can be found [here](./lessons/japanese/), or as a [single .mp3](https://github.com/adrianmfi/gpt-tutor/raw/main/lessons/japanese/all_lessons.mp3).
 
+
+The first 20 lessons in a beginners course in Japanese [can be found here](./lessons/japanese/).
+
 https://github.com/adrianmfi/gpt-tutor/assets/12783483/253f55d1-0b0a-40c2-ab78-9affb3901a5a
 
 
