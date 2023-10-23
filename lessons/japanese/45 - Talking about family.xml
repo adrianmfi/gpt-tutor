@@ -2,24 +2,23 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we'll focus on talking about your family in Japanese. You'll learn how to say 'I have a', 'I'm here with my', and 'My family is in'. These phrases are helpful for forming connections and engaging in friendly conversations in Japanese. 
+      Welcome to your next Japanese lesson. This time, we're digging deeper into the topic of family. We'll be focusing on phrases like "I have a", "I'm here with my", and "My family is in".
 
-We'll start with the phrase for 'I have a'. In Japanese, it is: 
+We'll kick off with a simple phrase: "I have a brother". In Japanese, this translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は_がいます
+          私は兄がいます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-Let's try it with 'I have a brother', which in Japanese is: 
+      . Once more: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,7 +33,70 @@ Let's try it with 'I have a brother', which in Japanese is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'I have a brother' is: 
+
+Next, imagine you're visiting Japan and you are with your sister. In Japanese, you would say: "I'm here with my sister", which translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は姉と一緒にいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Let's repeat: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は姉と一緒にいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Lastly, if you want to express "My family is in", using the example of "My family is in Tokyo", you would say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私の家族は東京にいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Again, "My family is in Tokyo" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私の家族は東京にいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Excellent! We've just covered how to say "I have a brother" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -48,70 +110,21 @@ Again, 'I have a brother' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-Now, let's discover the phrase 'I'm here with my'. In Japanese, that phrase translates to: 
+      , "I'm here with my sister" as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は私の_とここにいます
+          私は姉と一緒にいます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-For example, if you want to say 'I'm here with my sister', you'll say: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は私の妹とここにいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Please, repeat again: 'I'm here with my sister' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は私の妹とここにいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-Let's conclude with the last phrase for this lesson which is 'My family is in'. In Japanese, you'll say it like this: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私の家族は_にいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-For instance, 'My family is in Tokyo' would be: 
+      , and "My family is in Tokyo" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -124,25 +137,9 @@ For instance, 'My family is in Tokyo' would be:
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-And once more, 'My family is in Tokyo' is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私の家族は東京にいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      . 
+       in Japanese.
 
-Therefore, you have successfully learned how to say 'I have a', 'I'm here with my' and 'My family is in' in Japanese. Now, don't hesitate to engage in friendly, family-themed conversations during your journey!
-
+This concludes our focus session on using family-related phrases in Japanese. Keep practicing and expanding your vocabulary to communicate more effectively. Happy learning!
     </lang>
   </voice>
 </speak>

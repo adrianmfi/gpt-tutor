@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will focus on key vocabulary related to music, including words such as 'concert', 'album', 'song', and 'band' in Japanese.
+      This lesson dives further into the theme of music, specifically focusing on vocabulary associated with 'concert', 'album', 'song', and 'band'. 
 
-Let's start with the word for 'concert'. In Japanese, 'concert' is 
+Let's begin with the term 'concert'. In Japanese, this is said as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,7 +19,7 @@ Let's start with the word for 'concert'. In Japanese, 'concert' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Please repeat after me. 'Concert' is 
+Once more, 'concert' is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,8 +34,38 @@ Please repeat after me. 'Concert' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+For instance, you could say "I'm going to a concert", which in Japanese is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はコンサートに行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating, "I'm going to a concert" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はコンサートに行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Next up is 'album'. The Japanese word for 'album' is 
+Next up, let's learn how to say 'album'. The Japanese word for this is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -50,7 +80,7 @@ Next up is 'album'. The Japanese word for 'album' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, please repeat: 'Album' is 
+Let's say it again - 'album' is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -65,15 +95,14 @@ Again, please repeat: 'Album' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Time to learn the word for 'song'. In Japanese, a 'song' is referred to as 
+For instance, you could say "I bought a new album", which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          歌
+          私は新しいアルバムを買いました
         </mstts:prosody>
     </lang>
   </voice>
@@ -81,14 +110,14 @@ Time to learn the word for 'song'. In Japanese, a 'song' is referred to as
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's repeat that. 'Song' is 
+Once more, "I bought a new album" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          歌
+          私は新しいアルバムを買いました
         </mstts:prosody>
     </lang>
   </voice>
@@ -97,7 +126,68 @@ Let's repeat that. 'Song' is
       <break time='1s'/>
       .
 
-Finally, let's learn the word for 'band'. In the Japanese language, you would say 
+Moving on, let's learn 'song'. The word for 'song' in Japanese is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          曲
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Say it with me again - 'song' is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          曲
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+You can say "This is my favorite song", which translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これは私のお気に入りの曲です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating, "This is my favorite song" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これは私のお気に入りの曲です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Finally, let's talk about the Japanese word for 'band'. The term used in Japan for this is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -112,7 +202,7 @@ Finally, let's learn the word for 'band'. In the Japanese language, you would sa
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'band' is 
+Let's repeat it one more time, 'band' is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -127,15 +217,14 @@ Again, 'band' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Now let's put what we've learned in a couple of sentences. If you want to say "I bought the album of the band", you would say 
+For example, you could say "Their band is famous", which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はバンドのアルバムを買いました
+          彼らのバンドは有名です
         </mstts:prosody>
     </lang>
   </voice>
@@ -143,45 +232,14 @@ Now let's put what we've learned in a couple of sentences. If you want to say "I
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Please repeat: 
+Again, "Their band is famous" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はバンドのアルバムを買いました
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-And if you would like to say, "I liked the concert's song", the phrase in Japanese would be 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はコンサートの歌が好きでした
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Again, "I liked the concert's song" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はコンサートの歌が好きでした
+          彼らのバンドは有名です
         </mstts:prosody>
     </lang>
   </voice>
@@ -190,7 +248,7 @@ Again, "I liked the concert's song" is
       <break time='1s'/>
       .
 
-In this lesson so far, we have learned the words for 'concert': 
+That concludes our lesson, during which we covered how to say 'concert' as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -204,7 +262,7 @@ In this lesson so far, we have learned the words for 'concert':
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'album': 
+      , 'album' as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -218,21 +276,21 @@ In this lesson so far, we have learned the words for 'concert':
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'song': 
+      , 'song' as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          歌
+          曲
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'band': 
+       and 'band' as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -245,7 +303,7 @@ In this lesson so far, we have learned the words for 'concert':
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       which will allow you to express your interest in music in a more specific way.
+       in Japanese.
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your Japanese lesson number 71, titled "Talking about the City". You'll be learning some useful phrases such as "I'm at", "I'm going to", and "It's crowded". 
+      Welcome to Learning Japanese lesson 71. Today, we are focusing on talking about the city with the phrases "I'm at", "I'm going to", and "It's crowded". 
 
-Let's begin. The phrase "I'm at" in Japanese is 
+Let's start with "I'm at". In Japanese, you would say 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,39 +18,49 @@ Let's begin. The phrase "I'm at" in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Let's break it down: 
-'私は', pronounced as 
+      . Let's go through that slowly. 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          わたしは
+          私
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , means 'I'. 
-The '〜に' part is used to indicate the location, pronounced as 
+       means I, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          に
+          は
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-And lastly 'います', pronounced as 
+       is the topic marker,  
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          〜に
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       indicates location and 
       <break time='1s'/>
     </lang>
   </voice>
@@ -64,24 +74,23 @@ And lastly 'います', pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , is the verb meaning 'am'. 
-So if you wanted to say "I'm at the park", you would say, 
+       expresses existence or state. So if you want to say "I'm at the station", you say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は公園にいます
+          私は駅にいます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      
+      .
 
-Next, we have the phrase "I'm going to". In Japanese, you'd say 
+Next, we will look at "I'm going to". In Japanese, this is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -95,39 +104,79 @@ Next, we have the phrase "I'm going to". In Japanese, you'd say
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      
-This phrase uses the same structure as the previous one, but with '行きます', pronounced as 
+      . Again, let's break that down. 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          いきます
+          私
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , meaning 'going to'.
-To say something like "I'm going to the restaurant", you can say 
+       means I, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はレストランに行きます
+          は
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese.
+       is the topic marker, 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          〜に
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       indicates direction and 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       means going. To say "I'm going to the cafe", one would say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はカフェに行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Lastly, we have the phrase "It's crowded". The term for 'crowded' in Japanese is 
+Finally let's learn how to say "It's crowded". This is expressed in Japanese as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -141,29 +190,14 @@ Lastly, we have the phrase "It's crowded". The term for 'crowded' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , pronounced as 
+      . If you are at the mall and it's crowded, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          こんでいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-You would use this word in the context of a place or location. For example, "The restaurant is crowded" would translate to 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          レストランは混んでいます
+          モールは混んでいます
         </mstts:prosody>
     </lang>
   </voice>
@@ -172,54 +206,54 @@ You would use this word in the context of a place or location. For example, "The
       <break time='1s'/>
       .
 
-To sum it all up, 
-"I'm at the park" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は公園にいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , 
-"I'm going to the restaurant" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はレストランに行きます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , 
-and "The restaurant is crowded" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          レストランは混んでいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-       in Japanese. 
+Let's wrap this up by going over everything one more time: 
 
-Keep practicing and you'll be able to comfortably navigate through conversations about the city in Japanese. Until the next lesson, happy learning!
+"I'm at the station" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は駅にいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+"I'm going to the cafe" translates to 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はカフェに行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+"It's crowded" can be said as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          混んでいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      .
 
+This concludes the city-talk session. Make sure to practice these phrases to build familiarity. See you in the next lesson.
     </lang>
   </voice>
 </speak>

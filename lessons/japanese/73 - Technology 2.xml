@@ -2,23 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to lesson 73, where we will be continuing our discussion on technology. In this lesson, we're going to learn Japanese terms for ‘TV’, ‘radio’, ‘game’, and ‘app’.
+      Let's move along with our journey of the Japanese language. In this lesson, we'll get to grips with some more common technology-related words: TV, radio, game, and app.
 
-Let’s start with the word for ‘TV’. In Japanese, it’s 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          テレビ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Repeat after me, ‘TV’ is 
+Our first word for today is for television, which in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -33,218 +19,7 @@ Let’s start with the word for ‘TV’. In Japanese, it’s
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-For instance, we can say, “I’m watching TV," which in Japanese would be: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          テレビを見ています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Let’s repeat that: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          テレビを見ています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Next, let's talk about the word for ‘radio’. In Japanese, ‘radio’ is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ラジオ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Can you repeat that? 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ラジオ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-For example, you might say, “I’m listening to the radio,” which is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ラジオを聞いています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . One more time: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ラジオを聞いています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-The third item is ‘game’. In Japanese, ‘game’ is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ゲーム
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Try to pronounce it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ゲーム
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-You can say, “I am playing a game,” as: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ゲームをプレイしています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Again, that’s: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ゲームをプレイしています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Our final word for this lesson is ‘app’. In Japanese, ‘app’ is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          アプリ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Let’s practice it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          アプリ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Now, if you want to say, “I'm using an app,” you would say: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          アプリを使っています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Let’s say that sentence again: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          アプリを使っています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Just to review, ‘TV’ is 
+I'll repeat that: Television in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -258,7 +33,39 @@ Just to review, ‘TV’ is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , ‘radio’ is 
+      .
+For instance, you can say "I watch TV," which in Japanese would be 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はテレビを見ます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once more, "I watch TV" translates into 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はテレビを見ます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Next, let's learn how to say radio in Japanese, which is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -272,7 +79,54 @@ Just to review, ‘TV’ is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , ‘game’ is 
+      .
+Again, radio is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ラジオ
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+To say "I listen to the radio," you would say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はラジオを聴きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Let's repeat that: "I listen to the radio" in Japanese is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はラジオを聴きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now, let's learn the word for game, which in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -286,7 +140,54 @@ Just to review, ‘TV’ is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and ‘app’ is 
+      .
+Repeating, game is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ゲーム
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+If you want to say "I play a game," you say it as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はゲームをします
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+One more time, "I play a game" is said as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はゲームをします
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Finally, we will tackle the Japanese word for app, which is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -299,9 +200,110 @@ Just to review, ‘TV’ is
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+One more time, app is worded as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          アプリ
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+An example sentence: "I use an app," translates to 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はアプリを使います
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating this, "I use an app" is translated as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はアプリを使います
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
       .
 
-That wraps up our lesson on Technology in Japanese. Remember, practicing these words regularly will help you master them faster, and build them into your everyday conversation.
+We have now learned to say TV as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          テレビ
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , radio as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ラジオ
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , game as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ゲーム
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       and app as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          アプリ
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+       in Japanese. 
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to our next segment on the learning Japanese series. Now that we've covered basic phrases and some colors, let's delve into numbers. This session intends to equip you with the knowledge to understand and pronounce the numbers 1 to 10 in Japanese.
+      In this lesson, we will learn about numbers from one to ten in Japanese. This will build on your previous knowledge of simple terms and phrases.
 
-Let's start with the Japanese number for 'one', which is 
+Firstly, we will start with the number: one. In Japanese, number one is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ Let's start with the Japanese number for 'one', which is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, 'one' in Japanese is 
+      . 
+Once more: one is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,7 +35,7 @@ Let's start with the Japanese number for 'one', which is
       <break time='1s'/>
       . 
 
-Moving to 'two', in Japanese, 'two' is pronounced as 
+Next, we have the number: two. In Japanese, two is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -48,7 +49,8 @@ Moving to 'two', in Japanese, 'two' is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Practice saying 'two', which is 
+      .
+Please repeat after me: two is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -64,9 +66,7 @@ Moving to 'two', in Japanese, 'two' is pronounced as
       <break time='1s'/>
       .
 
-From now on, we will list the numbers three to ten in Japanese. Listen and repeat each number as we go. 
-
-Three in Japanese is 
+Moving forward to the number: three. Three in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -81,7 +81,23 @@ Three in Japanese is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Four is 
+Again: three is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          三
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Let's continue and learn the number: four. In Japanese, four is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -96,7 +112,38 @@ Four is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Five is 
+Once again: four is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          四
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now we'll tackle the number: five. You'll say it as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          五
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese.
+Repeating: five is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -111,7 +158,8 @@ Five is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Six is 
+
+We'll continue with the number: six. Six in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -126,7 +174,23 @@ Six is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Seven is represented by 
+Again: six is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          六
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Our next number to learn is: seven. Seven translates as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -141,7 +205,23 @@ Seven is represented by
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Eight is 
+Please repeat: seven is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          七
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now we'll learn the number: eight. Eight in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -156,7 +236,23 @@ Eight is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Nine is pronounced as 
+Once again: eight is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          八
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+We're almost there! The number: nine in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -171,7 +267,38 @@ Nine is pronounced as
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-And lastly, 'ten' in Japanese is 
+Repeating: nine is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          九
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Finally, we've reached the number: ten. In Japanese, ten is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          十
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once more: ten is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -187,80 +314,148 @@ And lastly, 'ten' in Japanese is
       <break time='1s'/>
       .
 
-Great job! Now let's start forming sentences with these numbers. For example, if you want to say "I have six apples", in Japanese, it would be "
+We've now covered the numbers from one to ten. So, one is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はりんごを六つ持っています
+          一
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      ". Here, "
+      , two is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は
+          二
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      " means "I have", "
+      , three is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          りんごを
+          三
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      " translates to "apples", and "
+      , four is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          六つ持っています
+          四
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      " signifies "six".
+      , five is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          五
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , six is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          六
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , seven is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          七
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , eight is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          八
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , nine is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          九
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and ten is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          十
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      . 
 
-Let's go through that sentence again: "I have six apples" in Japanese is "
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はりんごを六つ持っています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      ".
-
-This concludes our lesson on counting from 1 to 10 in Japanese. With diligent practice, these numbers will become a natural part of your vocabulary. See you in the next lesson where we will learn numbers from 11 to 20.
+Well done! Practice makes perfect, so repeat these numbers to improve your pronunciation and familiarity.
     </lang>
   </voice>
 </speak>

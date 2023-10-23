@@ -2,23 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to the thirtieth Japanese language lesson. In this session, we will focus on weather phrases like "What's the weather like?", "It's too hot" and "It's too cold". You are already familiar with expressing conditions like sunny, cloudy, rainy, and snowy. Now let's expand your vocabulary with some common phrases relating to the weather.
+      In this lesson, we will focus on essential Japanese phrases related to weather. We will learn "What's the weather like?", "It's too hot", and "It's too cold". 
 
-First, we'll start with the phrase "What’s the weather like?" The Japanese translation of this phrase is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          天気はどうですか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Try saying it aloud. "What’s the weather like?" is: 
+Let's first address how to inquire about the weather in Japanese. To ask "What's the weather like?", you say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -33,68 +19,7 @@ First, we'll start with the phrase "What’s the weather like?" The Japanese tra
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Moving on to "It’s too hot". In Japanese, you would express this as: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          暑すぎます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Let's practice that. Repeat after me: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          暑すぎます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Let's finally look at the phrase "It’s too cold". Translated into Japanese, this becomes: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          寒すぎます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Make sure you practice this phrase too: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          寒すぎます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-This wraps up our conversation about weather phrases. Here's a quick review of what we practiced today: The phrase "What’s the weather like?" is 
+Repeat after me, "What's the weather like?" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -108,7 +33,9 @@ This wraps up our conversation about weather phrases. Here's a quick review of w
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . "It’s too hot" is expressed as: 
+      .
+
+Now let's move on to conveying how you're feeling about the weather. If you're feeling warm and want to say, "It's too hot", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -122,7 +49,24 @@ This wraps up our conversation about weather phrases. Here's a quick review of w
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and "It’s too cold" is: 
+      .
+Once again, "It's too hot" in Japanese is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          暑すぎます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+On the other hand, if you're feeling chilly and want to say, "It's too cold", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -135,9 +79,68 @@ This wraps up our conversation about weather phrases. Here's a quick review of w
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once more, let's repeat "It's too cold", which is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          寒すぎます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
       .
 
-By including these phrases in your practice, you'll be able to comfortably talk about the weather during your Japanese conversations. Happy practicing!
+Recap: In this lesson, we learned to ask "What's the weather like?" as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          天気はどうですか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , "It's too hot" as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          暑すぎます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and "It's too cold" as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          寒すぎます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      . 
+
+Remember to practice these sentences as they are useful in both social conversation and when watching weather forecasts in Japanese. That concludes our lesson.
     </lang>
   </voice>
 </speak>

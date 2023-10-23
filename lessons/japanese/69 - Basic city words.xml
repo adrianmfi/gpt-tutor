@@ -2,45 +2,16 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to the Japanese lesson on basic city words. Given your previous lessons, you already have a good base of vocabulary and simple sentences. Today, we're adding even more words to your vocabulary, specifically related to the city. 
+      Welcome to your next Japanese lesson where we will introduce basic city vocabulary such as building, street, store, and park.
 
-Our first word is "building", which in Japanese is called 
+Let's start with the word for "building". In Japanese, "building" is said as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ビル
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Let's practice saying it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ビル
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-Moving forward with examples, if you wish to say "The building is tall", the sentence will be 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ビルは高いです
+          建物
         </mstts:prosody>
     </lang>
   </voice>
@@ -54,7 +25,35 @@ Moving forward with examples, if you wish to say "The building is tall", the sen
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ビルは高いです
+          建物
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . For example, you could say, "That is a building" which in Japanese translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          それは建物です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Try saying, "That is a building" in Japanese: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          それは建物です
         </mstts:prosody>
     </lang>
   </voice>
@@ -63,56 +62,56 @@ Moving forward with examples, if you wish to say "The building is tall", the sen
       <break time='1s'/>
       .
 
-Next, we have "street", which in Japanese is 
+Next up, the word for "street". "Street" in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          道路
+          通り
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it once again: 
+      . Once again, street is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          道路
+          通り
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . An example of sentence would be "The street is wide", which is 
+      . Suppose you want to say, "This street is beautiful." That translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          道路は広いです
+          この通りは美しいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice this sentence: 
+      . Repeat it, "This street is beautiful": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          道路は広いです
+          この通りは美しいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,8 +119,8 @@ Next, we have "street", which in Japanese is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Now, let's learn how to say "store". The word for "store" in Japanese is 
+ 
+Now, let's look at the word "store". The Japanese term for "store" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -135,7 +134,7 @@ Now, let's learn how to say "store". The word for "store" in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it one more time: 
+      . Please, repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -149,28 +148,28 @@ Now, let's learn how to say "store". The word for "store" in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . If you want to say "I like the store", based on your previous lessons, it will be 
+      . An applicable sentence is, "I want to go to the store". In Japanese, you would state: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は店が好きです
+          店に行きたいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Please repeat after me: 
+      . Repeat: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は店が好きです
+          店に行きたいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -179,7 +178,7 @@ Now, let's learn how to say "store". The word for "store" in Japanese is
       <break time='1s'/>
       .
 
-Finally, the last word for this lesson is "park". The Japanese word for "park" is 
+Finally, the word for "park". In Japanese, "park" is said as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -193,7 +192,7 @@ Finally, the last word for this lesson is "park". The Japanese word for "park" i
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it once more: 
+      . Let's practice: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -207,7 +206,7 @@ Finally, the last word for this lesson is "park". The Japanese word for "park" i
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . To express "The park is beautiful", you would say 
+      . If you want to say, "The park is beautiful". It would be said in Japanese like this: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -221,7 +220,7 @@ Finally, the last word for this lesson is "park". The Japanese word for "park" i
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice this: 
+      . Let's practice: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -237,35 +236,35 @@ Finally, the last word for this lesson is "park". The Japanese word for "park" i
       <break time='1s'/>
       .
 
-To recap, we've learned four new city-related words in Japanese today - 'building' as 
+In this lesson, we have learned the Japanese for building, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ビル
+          建物
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'street' as 
+      , street, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          道路
+          通り
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'store' as 
+      , store, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -279,7 +278,7 @@ To recap, we've learned four new city-related words in Japanese today - 'buildin
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'park' as 
+      , and park, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -292,7 +291,9 @@ To recap, we've learned four new city-related words in Japanese today - 'buildin
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Keep practicing these new words and phrases, and see if you can include them in your upcoming Japanese conversations! Well done for today's lesson!
+      .
+
+Please keep practicing these words and their usage as much as you can, repetition is key for perfecting language learning. Happy studying!
     </lang>
   </voice>
 </speak>

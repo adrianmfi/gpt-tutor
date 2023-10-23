@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to Japanese lesson 32, where we will focus on essential emergency phrases like "I'm sick", "I need a doctor", and "Call the police". These statements can be crucial in an urgent situation, where getting help promptly could make a significant difference.
+      Welcome to our next Japanese lesson where we are going to practice essential emergency phrases. Your previous lessons have provided you with a foundation to understand and speak basic Japanese. We'll build on that foundation today by learning some vital phrases that you would use in emergency situations.
 
-First, let's start with the phrase "I'm sick". In Japanese, this is expressed as 
+Let's start with how to express "I'm sick" in Japanese. To say "I'm sick" you would use: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,78 +18,7 @@ First, let's start with the phrase "I'm sick". In Japanese, this is expressed as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's break this down. 
-
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       means 'I', 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          は
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       is a particle denoting the subject of the sentence, 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          病気
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       stands for 'illness', and finally, 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       is a copula signifying 'is' or 'am'. So, to say "I'm sick" again, it is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は病気です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Repeat it after me: 
+      . Let's repeat, "I'm sick" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -105,7 +34,7 @@ First, let's start with the phrase "I'm sick". In Japanese, this is expressed as
       <break time='1s'/>
       .
 
-Moving on, "I need a doctor" in Japanese translates to 
+The next vital phrase we will cover today is "I need a doctor". In Japanese, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -119,77 +48,7 @@ Moving on, "I need a doctor" in Japanese translates to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Here 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          医者
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       represents 'doctor', 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          が
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       identifies the necessity, 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          必要
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       signifies 'need', and 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       indicates 'is'. So, "I need a doctor" is expressed as  
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          医者が必要です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Please repeat: 
+      . Once again, "I need a doctor" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -205,7 +64,7 @@ Moving on, "I need a doctor" in Japanese translates to
       <break time='1s'/>
       .
 
-Lastly, the phrase "Call the police" is translated as 
+Another critical phrase to learn is how to get help from the police. To say "Call the police" in Japanese, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -219,77 +78,7 @@ Lastly, the phrase "Call the police" is translated as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The term 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          警察
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       refers to 'police', 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          を
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       is a directional particle, 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          呼んで
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       denotes 'call', and 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ください
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       means 'please'. So, the phrase "Call the police" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          警察を呼んでください
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Repeat after me: 
+      . Let's repeat that, "Call the police" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -305,7 +94,9 @@ Lastly, the phrase "Call the police" is translated as
       <break time='1s'/>
       .
 
-In this lesson, we've learned how to say "I'm sick" as 
+These phrases are critical to your safety, and it's important to practice them until they become second nature to you. Being able to express yourself in emergencies could become very valuable in a situation requiring immediate assistance.
+
+Today, we have learned how to say "I'm sick" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -346,7 +137,9 @@ In this lesson, we've learned how to say "I'm sick" as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Remember, these phrases are essential to know in case of an emergency, don't hesitate to use them whenever required. Always be safe, and happy learning!
+       in Japanese. 
+
+Remember to use these phrases responsibly and only in real emergency situations. With this lesson, we have reached the conclusion of Emergency phrases in Japanese. Keep practicing and stay safe!
     </lang>
   </voice>
 </speak>

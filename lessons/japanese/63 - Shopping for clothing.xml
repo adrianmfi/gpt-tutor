@@ -2,23 +2,23 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we are covering phrases relevant to shopping for clothing in Japanese. We'll learn how to say "I'm looking for a", "Do you have this in", and "I want to try this on". So let's get started!
+      In this lesson, we will continue enhancing your shopping vocabulary, with a focus on phrases you might use when shopping for clothing in Japan. Remember you have already learned some essential phrases such as "I am", "I am going to" and vocabularies related to types of clothing. Now let's delve into new expressions like "I'm looking for a", "Do you have this in", and "I want to try this on".
 
-Let's begin with "I'm looking for a". In Japanese, this is 
+Let's begin. To say "I'm looking for a," you'd say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は探している
+          私は...を探しています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , followed by the item you're looking for. Let's practice with a shirt: 
+      . For example, "I'm looking for a shirt," you would say 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,7 +32,7 @@ Let's begin with "I'm looking for a". In Japanese, this is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it with me: 
+      . Once more, "I'm looking for a shirt," is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -48,72 +48,42 @@ Let's begin with "I'm looking for a". In Japanese, this is
       <break time='1s'/>
       .
 
-Moving on, let's learn "Do you have this in". In Japanese, you'd say 
+Next, suppose you find something you like and want to know if it's available in a different size or color. To ask "Do you have this in," you'd say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これはありますか
+          これを...を持っていますか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , followed by the size or color you want. As an example, to ask "Do you have this in size medium?", you'd say 
+      . For instance, to say "Do you have this in red," you would say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これは中サイズありますか
+          これを赤に持っていますか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me: 
+      . Again, "Do you have this in red" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これは中サイズありますか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Finally, let's tackle "I want to try this on". The phrase for this in Japanese is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          これを試着したい
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Let's practice together: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          これを試着したい
+          これを赤に持っていますか
         </mstts:prosody>
     </lang>
   </voice>
@@ -122,35 +92,7 @@ Finally, let's tackle "I want to try this on". The phrase for this in Japanese i
       <break time='1s'/>
       .
 
-In summary, we've learnt how to express "I'm looking for a" in Japanese with 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は探している
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , "Do you have this in" as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          これはありますか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , and "I want to try this on" as 
+Lastly, if you want to try a piece of clothing on, the phrase to use is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -163,9 +105,67 @@ In summary, we've learnt how to express "I'm looking for a" in Japanese with
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Great job!
+      <break time='1s'/>
+      . That is "I want to try this on". Repeat after me: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これを試着したい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Keep practicing to become more fluent in shopping phrases, and we'll see you in the next lesson. Happy learning!
+Now, remember, "I'm looking for a shirt" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はシャツを探しています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , "Do you have this in red" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これを赤に持っていますか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and "I want to try this on" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これを試着したい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      .
+
+That concludes our lesson on shopping for clothing. Keep practicing, and before you know it, you'll be navigating Japanese clothing stores with ease!
     </lang>
   </voice>
 </speak>

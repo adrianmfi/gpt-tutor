@@ -2,44 +2,58 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your Japanese lesson 89 on discussing art. We will focus on using phrases like "I like", "I'm looking at", and "I want to see" when talking about art. 
+      In this lesson, we will be talking about art in Japanese. We'll go over phrases like "I like", "I'm looking at", and "I want to see". 
 
-Let's start with the phrase "I like". In Japanese, you say this as 
+Let's begin with the phrase, "I like this painting". You might remember that the phrase "I like" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          好き
+          好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , often followed by the です particle. That's how we say "I like something". For example, "I like art", in Japanese would be 
+      , and the word for painting is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は芸術が好きです
+          絵画
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, "I like art" is 
+      . So, "I like this painting" would translate into: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は芸術が好きです
+          この絵画が好きです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Repeat after me, 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          この絵画が好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -48,42 +62,56 @@ Let's start with the phrase "I like". In Japanese, you say this as
       <break time='1s'/>
       .
 
-Next up is, "I'm looking at". To say this in Japanese, we say 
+Moving on, if you want to express that you are looking at a piece of art, you might say "I'm looking at this sculpture". To say "I'm looking at" in Japanese, you say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          見ている
+          見ています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For instance, if you are looking at a painting, you would say 
+      . The word for sculpture is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は絵を見ている
+          彫刻
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "I'm looking at a painting" is 
+      . Hence, "I'm looking at this sculpture" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は絵を見ている
+          この彫刻を見ています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Again, let's practice: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          この彫刻を見ています
         </mstts:prosody>
     </lang>
   </voice>
@@ -92,7 +120,7 @@ Next up is, "I'm looking at". To say this in Japanese, we say
       <break time='1s'/>
       .
 
-Finally, we have "I want to see". This is expressed in Japanese as 
+Lastly, if you wanted to express "I want to see this photography exhibition", you will use the phrase “I want to see” or 
       <break time='1s'/>
     </lang>
   </voice>
@@ -106,28 +134,42 @@ Finally, we have "I want to see". This is expressed in Japanese as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . If you want to say "I want to see a sculpture", you would say 
+       in Japanese. Photography exhibition is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は彫刻を見たい
+          写真展示
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice that once more, "I want to see a sculpture" is 
+      . So, "I want to see this photography exhibition" would be: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は彫刻を見たい
+          この写真展示を見たい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Let's practice this phrase: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          この写真展示を見たい
         </mstts:prosody>
     </lang>
   </voice>
@@ -136,50 +178,54 @@ Finally, we have "I want to see". This is expressed in Japanese as
       <break time='1s'/>
       .
 
-To summarize, the phrase "I like art" translates to 
+To sum up:
+"I like this painting" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は芸術が好きです
+          この絵画が好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , "I'm looking at a painting" is said as 
+      .
+"I'm looking at this sculpture" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は絵を見ている
+          この彫刻を見ています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and "I want to see a sculpture" is told as 
+      .
+"I want to see this photography exhibition" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は彫刻を見たい
+          この写真展示を見たい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       in Japanese. 
+      .
 
-This concluded the lesson about discussing art in Japanese.
+Great work! That concludes our lesson about talking about art in Japanese. Practice these sentences and try to incorporate them into your vocabulary, as they will be very useful when visiting art galleries or museums in Japan!
+
     </lang>
   </voice>
 </speak>

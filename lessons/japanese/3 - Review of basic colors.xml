@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome back to another lesson in our series for learning Japanese. In this session, we will take another look at the basic colors, focusing on white, red, blue, and yellow. 
+      Welcome to your Japanese lesson number 3 - today we're focusing on reviewing the basic colors you've previously learned. Let's start with the color White.
 
-Let's start with the color 'white'; in Japanese, white is described with the word 
+In Japanese, "white" is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ Let's start with the color 'white'; in Japanese, white is described with the wor
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once again, 'white' in Japanese is 
+      . Let's repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +32,30 @@ Let's start with the color 'white'; in Japanese, white is described with the wor
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . If you were to compliment a white building, you could say "That building is white", which translates to: 
+      .
+
+For instance, to say "The rabbit is white", you could say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          その建物は白です
+          ウサギは白です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat that, "That building is white": 
+      . Again, we say "The rabbit is white": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          その建物は白です
+          ウサギは白です
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +64,7 @@ Let's start with the color 'white'; in Japanese, white is described with the wor
       <break time='1s'/>
       .
 
-Next on our list is 'red'. Red in Japanese is described as 
+Let's move on now to the color Red. In Japanese, "red" is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +78,7 @@ Next on our list is 'red'. Red in Japanese is described as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, 'red' in Japanese is pronounced as 
+      . And let's repeat, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,28 +92,30 @@ Next on our list is 'red'. Red in Japanese is described as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, if you saw a beautiful red rose and wanted to comment on it, you could say "This rose is red.", in Japanese, it would be: 
+      .
+
+For example, to say "The apple is red", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          この薔薇は赤です
+          リンゴは赤です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, "This rose is red": 
+      . Once again, in Japanese, "The apple is red": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          この薔薇は赤です
+          リンゴは赤です
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,7 +124,7 @@ Next on our list is 'red'. Red in Japanese is described as
       <break time='1s'/>
       .
 
-The color 'blue' in Japanese is described as 
+Next up, we have the color Blue. Now, "blue" is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +138,7 @@ The color 'blue' in Japanese is described as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Go ahead and repeat it after me, 'blue' is pronounced as 
+       in Japanese. Repeating for clarity, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,7 +152,9 @@ The color 'blue' in Japanese is described as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Now let's use this color to say "The sky is blue". In Japanese, it’s "The sky is blue": 
+      .
+
+Let's use that in a sentence as well. To say "The sky is blue", you say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -162,7 +168,7 @@ The color 'blue' in Japanese is described as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, "The sky is blue": 
+      . And again, "The sky is blue" in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -178,7 +184,7 @@ The color 'blue' in Japanese is described as
       <break time='1s'/>
       .
 
-Finally, 'yellow'. Yellow in Japanese is 
+Finally, let's review the color Yellow. In Japanese, "yellow" is pronounced 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +198,7 @@ Finally, 'yellow'. Yellow in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once again, 'yellow' is: 
+      . Please repeat, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -200,34 +206,6 @@ Finally, 'yellow'. Yellow in Japanese is
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
           黄色
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . If you were to talk about a yellow car, you could say, "The car is yellow", which in Japanese is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          自動車は黄色です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Again, 'The car is yellow' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          自動車は黄色です
         </mstts:prosody>
     </lang>
   </voice>
@@ -236,7 +214,37 @@ Finally, 'yellow'. Yellow in Japanese is
       <break time='1s'/>
       .
 
-In review, we learned how to say 'white' as 
+As an example, to say "The sun is yellow", you express it as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          太陽は黄色です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Repeating, "The sun is yellow" translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          太陽は黄色です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+And there you have it, we've reviewed how to say white, which is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,7 +258,7 @@ In review, we learned how to say 'white' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'red' as 
+      , red as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -264,7 +272,7 @@ In review, we learned how to say 'white' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'blue' as 
+      , blue as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,7 +286,7 @@ In review, we learned how to say 'white' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and 'yellow' as 
+      , and yellow as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -291,7 +299,9 @@ In review, we learned how to say 'white' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       in Japanese. Well done on your steady progress, and we look forward to having you back for our next lesson.
+       in Japanese. Well done! Let's keep practicing.
+
+
     </lang>
   </voice>
 </speak>

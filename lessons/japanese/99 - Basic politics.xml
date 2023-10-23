@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      This lesson will introduce some crucial terminology related to the field of politics in Japanese, with words like 'Government', 'Election', 'Law', and 'Rights'. 
+      In this lesson, we'll be delving into some basic political terminology in the Japanese language. We'll cover words for government, election, law, and rights.
 
-Let's begin with the word 'Government'. In Japanese, 'Government' is 
+Starting off, in Japanese, the term for government is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,7 +19,7 @@ Let's begin with the word 'Government'. In Japanese, 'Government' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Please repeat: 
+Let's repeat that again, government is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,38 +34,8 @@ Please repeat:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-You can use 'Government' in a sentence like, "The government is making a new law" which translates to 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          政府は新しい法律を制定しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Let's repeat it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          政府は新しい法律を制定しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
 
-Next up is the word for 'Election', which in Japanese is 
+Following this, we'll move on to the word election. In Japanese, election is represented by the term: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,7 +50,7 @@ Next up is the word for 'Election', which in Japanese is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's hear that again: 
+To repeat, election in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -95,38 +65,8 @@ Let's hear that again:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-A sentence with 'Election' might be, "The election is tomorrow" which is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          選挙は明日です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Please repeat: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          選挙は明日です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
 
-We now move on to the word 'Law'. In Japanese, 'Law' is 
+Now let's proceed to the word for law. In Japanese, you can say law as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -141,7 +81,7 @@ We now move on to the word 'Law'. In Japanese, 'Law' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Please repeat: 
+Again, law is said as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -156,38 +96,8 @@ Please repeat:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-An example sentence using 'Law' could be, "I respect the law", which translates to 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は法律を尊重します
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Please repeat: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は法律を尊重します
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
 
-Lastly, let's learn the word 'Rights'. The Japanese equivalent of 'Rights' is 
+Lastly for today, we'll discover how to say the word rights. In Japanese, the term for rights is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -202,7 +112,7 @@ Lastly, let's learn the word 'Rights'. The Japanese equivalent of 'Rights' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Repeat after me: 
+Let's practice it one more time; rights is said as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -217,14 +127,15 @@ Repeat after me:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-A sentence example for 'Rights' is, "I have the right to vote", which in Japanese is 
+
+As an example sentence, consider the phrase "I'm interested in government and law." This translates in Japanese to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は投票する権利があります
+          私は政府と法律に興味があります
         </mstts:prosody>
     </lang>
   </voice>
@@ -232,14 +143,14 @@ A sentence example for 'Rights' is, "I have the right to vote", which in Japanes
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-And again: 
+Let's repeat that sentence as it's a good practice: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は投票する権利があります
+          私は政府と法律に興味があります
         </mstts:prosody>
     </lang>
   </voice>
@@ -248,7 +159,7 @@ And again:
       <break time='1s'/>
       .
 
-So today, we've learned some basic politics terminology in Japanese: 'Government' is 
+We have now learned how to say government as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -262,7 +173,7 @@ So today, we've learned some basic politics terminology in Japanese: 'Government
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Election' is 
+      , election as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -276,7 +187,7 @@ So today, we've learned some basic politics terminology in Japanese: 'Government
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Law' is 
+      , law as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -290,7 +201,7 @@ So today, we've learned some basic politics terminology in Japanese: 'Government
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and 'Rights' is 
+      , and rights as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -304,8 +215,7 @@ So today, we've learned some basic politics terminology in Japanese: 'Government
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       .
-I hope you found this lesson informative. Keep practicing and see you on the next lesson!
-
+This concludes our lesson on basic political terms in Japanese. Keep practicing these new terms and try implementing them as often as you can to become comfortable with them. 
     </lang>
   </voice>
 </speak>

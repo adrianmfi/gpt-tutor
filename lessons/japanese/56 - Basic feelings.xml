@@ -2,16 +2,16 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will be expanding your Japanese vocabulary by exploring some common emotions: happy, sad, angry, and tired. 
+      Welcome to lesson 56: Basic feelings in Japanese.
 
-Let's start with 'happy' which in Japanese is expressed as 
+Having already mastered some basic expressions, we'll now dive into describing our emotions. Let's start with expressing happiness. The Japanese word for happy is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          うれしい
+          嬉しい
         </mstts:prosody>
     </lang>
   </voice>
@@ -19,60 +19,29 @@ Let's start with 'happy' which in Japanese is expressed as
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Now, let’s repeat it again for reinforcement: 
+Let's repeat: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          うれしい
+          嬉しい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-If you want to say 'I am happy', it will be 
+      . 
+For instance, you could say "I am happy." In Japanese, that would be: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はうれしいです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Again: 'I am happy' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はうれしいです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Moving on, 'sad' in Japanese is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          悲しい
+          私は嬉しいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -87,6 +56,22 @@ Once more:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
+          私は嬉しいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now let's express sadness. The Japanese term for sad is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
           悲しい
         </mstts:prosody>
     </lang>
@@ -95,7 +80,22 @@ Once more:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-To say 'I am sad', you will say 
+Let's say it again: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          悲しい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       .
+To say "I am sad." in Japanese, you'd say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -110,7 +110,7 @@ To say 'I am sad', you will say
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-And repeating: 'I am sad' is 
+Please, repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -126,14 +126,14 @@ And repeating: 'I am sad' is
       <break time='1s'/>
       .
 
-Next we have 'angry'. The Japanese word for this emotion is 
+Next, we'll express anger. The Japanese expression for angry is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          怒っている
+          怒る
         </mstts:prosody>
     </lang>
   </voice>
@@ -141,22 +141,22 @@ Next we have 'angry'. The Japanese word for this emotion is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once again: 
+Repeat it with me: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          怒っている
+          怒る
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-If you would like to express 'I am angry', say 
+      . 
+To state "I am angry." you would say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -171,7 +171,7 @@ If you would like to express 'I am angry', say
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Keep repeating: 'I am angry' is 
+Once more: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -187,7 +187,7 @@ Keep repeating: 'I am angry' is
       <break time='1s'/>
       .
 
-Lastly, the word for 'tired' in Japanese is 
+Lastly, let's learn to convey being tired. The Japanese word for tired is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -201,8 +201,8 @@ Lastly, the word for 'tired' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-Let’s say it again: 
+      . 
+Let's reinforce that learning: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -216,15 +216,15 @@ Let’s say it again:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-If you're feeling worn out, express 'I am tired' as 
+      . 
+For when you need to say "I am tired.", it is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は疲れました
+          私は疲れたです
         </mstts:prosody>
     </lang>
   </voice>
@@ -232,78 +232,23 @@ If you're feeling worn out, express 'I am tired' as
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Make sure you remember: 'I am tired' is 
+Again: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は疲れました
+          私は疲れたです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s'/>
       .
 
-We have now learned how to express the emotions 'happy' with 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          うれしい
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , 'sad' with 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          悲しい
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , 'angry' with 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          怒っている
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , and 'tired' with 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          疲れた
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      . Practice using these words to convey your emotions in Japanese!
+That concludes our lesson on expressing basic feelings in Japanese. We learned how to express being happy, sad, angry, and tired. As always, repetition is key; make sure to practice these words and phrases until you're comfortable with them. Good luck and keep practicing!
+
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we'll go over some basic technology terms in Japanese. We'll look at words like 'phone', 'computer', 'internet', and 'camera'. By the end of this lesson, you'll be able to name these items in Japanese, and say sentences like "I'm using the computer", or "I'm taking a photo". 
+      In this lesson, you will learn how to talk about basic technology in Japanese. Let's approach key vocabulary such as phone, computer, internet, and camera reflecting your recent improvements.
 
-Let's start with the term 'phone', which in Japanese is 
+Let's start with "phone". In Japanese, phone is referred to as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ Let's start with the term 'phone', which in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once again, 'phone' is: 
+      .
+Once more, "phone" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +33,30 @@ Let's start with the term 'phone', which in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . To say "I'm using the phone", you would say 
+      .
+For example, if you want to say "My phone is white", you would say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          電話を使っています
+          私の電話は白いです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me: 
+      .
+Let's repeat that: "My phone is white" - 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          電話を使っています
+          私の電話は白いです
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,56 +65,59 @@ Let's start with the term 'phone', which in Japanese is
       <break time='1s'/>
       .
 
-Next, we have the word for 'computer', which is 
+Next, let's learn how to say "computer". It is called: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          コンピューター
+          コンピュータ
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, 'computer' in Japanese is: 
+      .
+One more time, "computer" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          コンピューター
+          コンピュータ
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . To say "I'm using the computer", the phrase is: 
+      .
+For instance, you can say "I have a red computer" which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          コンピューターを使っています
+          私は赤いコンピュータを持っています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Please repeat: 
+      .
+Repeating, "I have a red computer" - 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          コンピューターを使っています
+          私は赤いコンピュータを持っています
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,7 +126,7 @@ Next, we have the word for 'computer', which is
       <break time='1s'/>
       .
 
-Now let's move on to the word 'internet'. In Japanese, 'internet' is 
+The word for "internet" in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +140,8 @@ Now let's move on to the word 'internet'. In Japanese, 'internet' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat that: 'internet' is 
+      .
+Let's repeat it: "internet" is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,28 +155,30 @@ Now let's move on to the word 'internet'. In Japanese, 'internet' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For the phrase "I'm using the internet", in Japanese you would say 
+      .
+If you would like to say, "The internet is slow here", you'd say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          インターネットを使っています
+          ここでのインターネットは遅いです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice that: 
+      .
+Let's practice: "The internet is slow here" - 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          インターネットを使っています
+          ここでのインターネットは遅いです
         </mstts:prosody>
     </lang>
   </voice>
@@ -178,7 +187,7 @@ Now let's move on to the word 'internet'. In Japanese, 'internet' is
       <break time='1s'/>
       .
 
-Finally, we come to the word 'camera'. In Japanese, 'camera' is 
+Lastly, the Japanese word for "camera" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +201,8 @@ Finally, we come to the word 'camera'. In Japanese, 'camera' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more: 'camera' is 
+      .
+Again, "camera" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -206,28 +216,30 @@ Finally, we come to the word 'camera'. In Japanese, 'camera' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The phrase "I'm taking a photo" translates to 
+      .
+For example, if you wanted to say "I want a new camera", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          写真を撮っています
+          私は新しいカメラがほしいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Practice this phrase: 
+      .
+Let's repeat: "I want a new camera" - 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          写真を撮っています
+          私は新しいカメラがほしいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -236,7 +248,7 @@ Finally, we come to the word 'camera'. In Japanese, 'camera' is
       <break time='1s'/>
       .
 
-Today we've learned to say 'phone' as 
+So to recap, in this lesson we've learned how to say "phone" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,21 +262,21 @@ Today we've learned to say 'phone' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'computer' as 
+      , "computer" as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          コンピューター
+          コンピュータ
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'internet' as 
+      , "internet" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,7 +290,7 @@ Today we've learned to say 'phone' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'camera' as 
+      , and "camera" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -291,7 +303,7 @@ Today we've learned to say 'phone' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . You practiced sentences like "I'm using the phone", "I'm using the computer", "I'm using the internet", and "I'm taking a photo". Please continue to review and practice these lessons. Before long, you'll be quite comfortable discussing technology in Japanese.
+       in Japanese. Continue to practice and familiarize yourself with these new words incorporated in your day-to-day conversations for further grasp. That concludes today's lesson.
     </lang>
   </voice>
 </speak>

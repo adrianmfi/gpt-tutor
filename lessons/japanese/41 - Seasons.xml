@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will explore the vocabulary for seasons in Japanese: spring, summer, autumn, and winter.
+      Welcome to your Japanese language lesson on the topic of seasons. We will cover words for Spring, Summer, Autumn, and Winter.
 
-Let's begin with the word for 'spring', which in Japanese is: 
+Let's start with spring. In Japanese, "spring" translates to 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,7 +19,7 @@ Let's begin with the word for 'spring', which in Japanese is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Repeat after me, 'spring' is: 
+Repeating, spring is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,14 +34,14 @@ Repeat after me, 'spring' is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-You might use this in a sentence like this: "I like spring", which translates to: 
+Let's put that in a phrase, "We see cherry blossoms in spring." which in Japanese would be 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は春が好きです
+          春には桜を見ます
         </mstts:prosody>
     </lang>
   </voice>
@@ -49,14 +49,14 @@ You might use this in a sentence like this: "I like spring", which translates to
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'I like spring' is: 
+Once more, "We see cherry blossoms in spring": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は春が好きです
+          春には桜を見ます
         </mstts:prosody>
     </lang>
   </voice>
@@ -65,7 +65,7 @@ Again, 'I like spring' is:
       <break time='1s'/>
       .
 
-Moving on to 'summer'. In Japanese, summer is: 
+Moving on to summer. Summer in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,7 +80,7 @@ Moving on to 'summer'. In Japanese, summer is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'summer' is: 
+Let's repeat, summer is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -95,7 +95,7 @@ Again, 'summer' is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-For example, you might say "It's hot in summer." That translates to: 
+In context: "It is hot in the summer": 
       <break time='1s'/>
     </lang>
   </voice>
@@ -110,7 +110,7 @@ For example, you might say "It's hot in summer." That translates to:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once more, 'It's hot in summer.' is: 
+Repeating, "It is hot in the summer": 
       <break time='1s'/>
     </lang>
   </voice>
@@ -126,7 +126,7 @@ Once more, 'It's hot in summer.' is:
       <break time='1s'/>
       .
 
-Next, we have 'autumn'. In Japanese, autumn is: 
+Next, we have autumn. Autumn translates to: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -141,7 +141,7 @@ Next, we have 'autumn'. In Japanese, autumn is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'autumn' is: 
+Once again, autumn is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -156,14 +156,14 @@ Again, 'autumn' is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-You might say "Autumn leaves are beautiful." which translates to: 
+For example, we can say, "I like autumn because of colorful leaves" which is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          秋の葉は美しいです
+          色づく葉っぱのおかげで、秋が好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -171,14 +171,14 @@ You might say "Autumn leaves are beautiful." which translates to:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'Autumn leaves are beautiful.' is: 
+Repeating that phrase, "I like autumn because of colorful leaves": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          秋の葉は美しいです
+          色づく葉っぱのおかげで、秋が好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -187,7 +187,7 @@ Again, 'Autumn leaves are beautiful.' is:
       <break time='1s'/>
       .
 
-Finally, we have 'winter'. In Japanese, winter is: 
+Lastly, we have winter. Winter in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -202,7 +202,7 @@ Finally, we have 'winter'. In Japanese, winter is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'winter' is: 
+Again, winter is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -217,14 +217,14 @@ Again, 'winter' is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-For instance, you might say "It snows in winter." That translates to 
+Let's use that in a sentence, "It snows in winter" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          冬に雪が降ります
+          冬には雪が降ります
         </mstts:prosody>
     </lang>
   </voice>
@@ -232,14 +232,14 @@ For instance, you might say "It snows in winter." That translates to
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once more, 'It snows in winter.' is: 
+Repeating, "It snows in winter": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          冬に雪が降ります
+          冬には雪が降ります
         </mstts:prosody>
     </lang>
   </voice>
@@ -248,7 +248,7 @@ Once more, 'It snows in winter.' is:
       <break time='1s'/>
       .
 
-So to recap, we've learned 'spring' as 
+You've now learned how to talk about spring, summer, autumn, and winter in Japanese. Remember: spring is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -262,7 +262,7 @@ So to recap, we've learned 'spring' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'summer' as 
+      , summer is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -276,7 +276,7 @@ So to recap, we've learned 'spring' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'autumn' as 
+      , autumn is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -290,7 +290,7 @@ So to recap, we've learned 'spring' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'winter' as 
+      , and winter is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -303,9 +303,7 @@ So to recap, we've learned 'spring' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . 
-
-That concludes our lesson on seasons in Japanese. We hope this will be useful as you continue to navigate the Japanese language and in your future conversations about seasons and weather in Japan.
+      . This concludes our Japanese lesson on the seasons. Keep practicing!
     </lang>
   </voice>
 </speak>

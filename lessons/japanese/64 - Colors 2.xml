@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to lesson 64 where we will be expanding your Japanese color vocabulary with green, blue, yellow, and black. 
+      In this lesson, we are going to expand your knowledge about colors in Japanese. We'll be covering green, blue, yellow, and black. Given your previous exposure to Japanese, let's dive straight into it.
 
-Our first color for today's lesson is 'green'. In Japanese, 'green' is said as 
+Starting with green, which in Japanese is expressed as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ Our first color for today's lesson is 'green'. In Japanese, 'green' is said as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat that, 'green' in Japanese is 
+      .
+Once more, green is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -33,29 +34,29 @@ Our first color for today's lesson is 'green'. In Japanese, 'green' is said as
     <lang xml:lang="en-US">
       <break time='1s'/>
       . 
-
-An example sentence could be, "I have a green hat", which in Japanese is 
+For example, you can say "The plant is green", which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は緑色の帽子を持っています
+          植物は緑です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . One more time, "I have a green hat" is 
+      .
+Again, "The plant is green" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は緑色の帽子を持っています
+          植物は緑です
         </mstts:prosody>
     </lang>
   </voice>
@@ -64,7 +65,7 @@ An example sentence could be, "I have a green hat", which in Japanese is
       <break time='1s'/>
       .
 
-Next, we have 'blue'. The Japanese term for 'blue' is 
+Next let's learn the word for blue, that is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -78,7 +79,8 @@ Next, we have 'blue'. The Japanese term for 'blue' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice saying that, 'blue' in Japanese is 
+      .
+Again, blue is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -92,30 +94,30 @@ Next, we have 'blue'. The Japanese term for 'blue' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-An example sentence: "Do you have this in blue?" translates to 
+      .
+To say "The sea is blue", you say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これを青で持っていますか？
+          海は青です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "Do you have this in blue?" in Japanese is 
+      .
+Once more, "The sea is blue" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これを青で持っていますか？
+          海は青です
         </mstts:prosody>
     </lang>
   </voice>
@@ -124,7 +126,7 @@ An example sentence: "Do you have this in blue?" translates to
       <break time='1s'/>
       .
 
-On to our third color, 'yellow'. In Japanese, 'yellow' is said as 
+Yellow in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -138,7 +140,8 @@ On to our third color, 'yellow'. In Japanese, 'yellow' is said as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, 'yellow' in Japanese is 
+      .
+Again, yellow is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -152,30 +155,30 @@ On to our third color, 'yellow'. In Japanese, 'yellow' is said as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-Here's an example sentence: "I am looking for a yellow coat." In Japanese, that's 
+      .
+One can say "The sun is yellow", which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は黄色のコートを探しています
+          太陽は黄色です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's say that again, "I am looking for a yellow coat" is 
+      .
+Repeating, "The sun is yellow" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は黄色のコートを探しています
+          太陽は黄色です
         </mstts:prosody>
     </lang>
   </voice>
@@ -184,7 +187,7 @@ Here's an example sentence: "I am looking for a yellow coat." In Japanese, that'
       <break time='1s'/>
       .
 
-Finally, 'black'. In Japanese, black is expressed as 
+Finally, we will learn the word for black. The word for black in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -198,7 +201,8 @@ Finally, 'black'. In Japanese, black is expressed as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, 'black' in Japanese is 
+      .
+Once more, black is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -212,30 +216,30 @@ Finally, 'black'. In Japanese, black is expressed as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-An example sentence could be: "I want to try on these black shoes", which in Japanese is 
+      .
+To express "The cat is black", you say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はこの黒い靴を試着したい
+          猫は黒です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat, "I want to try on these black shoes" is 
+      .
+Repeating, "The cat is black" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はこの黒い靴を試着したい
+          猫は黒です
         </mstts:prosody>
     </lang>
   </voice>
@@ -244,7 +248,7 @@ An example sentence could be: "I want to try on these black shoes", which in Jap
       <break time='1s'/>
       .
 
-And there we have it, we've learned how to express the colors 'green' as 
+To summarize, we learned how to say green as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -258,7 +262,7 @@ And there we have it, we've learned how to express the colors 'green' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'blue' as 
+      , blue as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -272,7 +276,7 @@ And there we have it, we've learned how to express the colors 'green' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'yellow' as 
+      , yellow is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -286,7 +290,7 @@ And there we have it, we've learned how to express the colors 'green' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and 'black' as 
+      , and black as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -299,7 +303,9 @@ And there we have it, we've learned how to express the colors 'green' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       in Japanese today. Don't forget to continue practicing these new terms as you move onto your next lesson.
+       in Japanese.
+
+This concludes our lesson. Practice these new color expressions, and they'll soon become a natural part of your Japanese vocabulary.
     </lang>
   </voice>
 </speak>

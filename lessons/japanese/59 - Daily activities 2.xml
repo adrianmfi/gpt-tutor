@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will cover more daily activities such as shopping, traveling, cooking, and cleaning, providing phrases in Japanese for your use.
+      In this lesson, we will be expanding our vocabulary on daily activities, focusing more on verbs relating to shopping, traveling, cooking, and cleaning in Japanese.
 
-First, let's start with the activity of shopping. Shopping in Japanese is: 
+Let's begin with the activity of shopping. The term for shopping in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ First, let's start with the activity of shopping. Shopping in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me: 
+      .
+Once again, shopping is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +33,30 @@ First, let's start with the activity of shopping. Shopping in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A phrase you might find useful is "I am going shopping", which translates to: 
+      .
+"The act of going shopping" can be expressed as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は買い物に行く
+          買い物に行く
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's say that again, "I am going shopping" is: 
+      . 
+To repeat, "Going shopping" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は買い物に行く
+          買い物に行く
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,56 +65,59 @@ First, let's start with the activity of shopping. Shopping in Japanese is:
       <break time='1s'/>
       .
 
-Next, we will learn about the concept of traveling. Traveling in Japanese is said as: 
+Next, let's cover the verb for travelling. Traveling in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          旅行
+          旅行する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, traveling is: 
+      .
+Repeat after me, "travelling" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          旅行
+          旅行する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . You might say "I enjoy traveling", which in Japanese is: 
+      .
+For example, "I'm going on a trip" can be expressed as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は旅行が好きです
+          私は旅行に行く
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "I enjoy traveling" translates to: 
+      .
+Once more, "I'm going on a trip" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は旅行が好きです
+          私は旅行に行く
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,56 +126,59 @@ Next, we will learn about the concept of traveling. Traveling in Japanese is sai
       <break time='1s'/>
       .
 
-Now we will move to cooking. Cooking in Japanese is: 
+Moving on to cooking, the Japanese term for "cooking" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          料理
+          料理する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me: 
+      .
+Let's repeat that; cooking is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          料理
+          料理する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A handy phrase would be "I am cooking dinner", which in Japanese is: 
+      .
+An example of its usage could be "I'm cooking dinner", which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は夕食を作っています
+          私は夕食を料理しています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, "I am cooking dinner" translates to: 
+      .
+To restate, "I'm cooking dinner" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は夕食を作っています
+          私は夕食を料理しています
         </mstts:prosody>
     </lang>
   </voice>
@@ -178,35 +187,52 @@ Now we will move to cooking. Cooking in Japanese is:
       <break time='1s'/>
       .
 
-Lastly, let's go to the term for cleaning. Cleaning in Japanese is: 
+Finally, we will cover the term for cleaning. Cleaning in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          掃除
+          掃除する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat the word: 
+      .
+Again, cleaning is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          掃除
+          掃除する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A useful sentence could be "I am cleaning the house", which in Japanese is: 
+      .
+In a sentence, you might say, "I'm cleaning the house", that translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は家を掃除しています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      
+Repeating, "I'm cleaning the house" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -221,23 +247,8 @@ Lastly, let's go to the term for cleaning. Cleaning in Japanese is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once more, "I am cleaning the house" is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は家を掃除しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
 
-Now you know how to express these daily activities in Japanese, such as 'shopping' as 
+To recap, we've learned how to express shopping as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -251,48 +262,48 @@ Now you know how to express these daily activities in Japanese, such as 'shoppin
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'traveling' as 
+      , traveling as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          旅行
+          旅行する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'cooking' as 
+      , cooking as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          料理
+          料理する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'cleaning' as 
+      , and cleaning as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          掃除
+          掃除する
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Keep practicing these new words and phrases to enhance your fluency in Japanese. Happy learning!
+      . We've also seen how each of these can be used in a sentence. Please review and practice these terms and sentences until you're comfortable with them.
     </lang>
   </voice>
 </speak>

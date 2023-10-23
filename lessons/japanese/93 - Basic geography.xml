@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will explore basic geography terminology in Japanese. Let's start by introducing the new vocabulary words.
+      In this lesson, we will take a look at words related to basic geography, namely the terms for continent, country, city, and village.
 
-The word for 'continent' is 
+We'll start with the term for continent. In Japanese, 'continent' translates to: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,7 +19,7 @@ The word for 'continent' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Repeat after me: 
+Let's repeat that: Continent is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,8 +34,38 @@ Repeat after me:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+An example sentence might be: "Asia is a continent." In Japanese, you could say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          アジアは大陸です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Again, "Asia is a continent" translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          アジアは大陸です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Next, 'country' in Japanese is 
+Next is the term for 'country'. In Japanese, this is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -50,7 +80,7 @@ Next, 'country' in Japanese is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Try saying it: 
+Recall, 'country' is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -65,8 +95,38 @@ Try saying it:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+For example, to say "Japan is a country", you would say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          日本は国です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating, "Japan is a country" translates as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          日本は国です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Moving on, we have the term for 'city', which is 
+Now let's move on to the term for city. City translates to: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -81,7 +141,7 @@ Moving on, we have the term for 'city', which is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again with me: 
+Once more, 'city' in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -96,8 +156,38 @@ Again with me:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+To say "Tokyo is a city," you would say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          東京は都市です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Again, "Tokyo is a city" translates as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          東京は都市です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Lastly, the word for 'village' is 
+Finally, let's learn how to say 'village'. In Japanese, 'village' is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -112,7 +202,7 @@ Lastly, the word for 'village' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Practice saying: 
+Repeating, 'village' is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -127,17 +217,14 @@ Practice saying:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Now, let's use these words in sentences.
-
-If you want to say "I'm studying the countries of Asia", you would say: 
+For example, to say "Hakone is a village", say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はアジアの国々を勉強しています
+          箱根は村です
         </mstts:prosody>
     </lang>
   </voice>
@@ -145,43 +232,14 @@ If you want to say "I'm studying the countries of Asia", you would say:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Here, 'I'm studying' is 
+Once again, "Hakone is a village" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は勉強しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       and 'the countries of Asia' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          アジアの国々
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Let's repeat: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はアジアの国々を勉強しています
+          箱根は村です
         </mstts:prosody>
     </lang>
   </voice>
@@ -190,67 +248,7 @@ Let's repeat:
       <break time='1s'/>
       .
 
-Suppose you want to say "I'm interested in the villages of Japan". The sentence in Japanese would be: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本の村に興味があります
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-This time, 'I'm interested in' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は興味があります
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       and 'the villages of Japan' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          日本の村
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Let's try it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本の村に興味があります
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Well done today! We have now learned how to say 'continent' as 
+This concludes our lesson on basic geography terms in Japanese, where we learned 'continent' as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -305,7 +303,7 @@ Well done today! We have now learned how to say 'continent' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       in Japanese. Keep practicing and using these words in your conversations!
+      . Keep practicing these terms!
     </lang>
   </voice>
 </speak>

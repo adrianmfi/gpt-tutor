@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will learn about the days of the week in Japanese, from Monday to Sunday. This will help you plan your schedules, make appointments and understand the local calendar in Japan. 
+      In this lesson, we are going to learn the days of the week in Japanese, from Monday to Sunday.
 
-Let's start with Monday. In Japanese, Monday is denoted as 
+Starting with Monday, the Japanese word for Monday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ Let's start with Monday. In Japanese, Monday is denoted as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat that, Monday is 
+      . I'll repeat that for you, Monday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,9 +32,9 @@ Let's start with Monday. In Japanese, Monday is denoted as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-Next, we have Tuesday. Tuesday in Japanese is 
+Next, we move on to Tuesday. In Japanese, Tuesday translates to 
       <break time='1s'/>
     </lang>
   </voice>
@@ -48,7 +48,7 @@ Next, we have Tuesday. Tuesday in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, Tuesday is 
+      . Again, Tuesday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -62,9 +62,9 @@ Next, we have Tuesday. Tuesday in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-Now, let's move on to Wednesday. In Japanese, Wednesday is noted as 
+Wednesday is next. The Japanese for Wednesday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -78,7 +78,7 @@ Now, let's move on to Wednesday. In Japanese, Wednesday is noted as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, Wednesday is 
+      . Let's repeat, Wednesday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -94,7 +94,7 @@ Now, let's move on to Wednesday. In Japanese, Wednesday is noted as
       <break time='1s'/>
       . 
 
-Moving forward to Thursday now. Thursday in Japanese is called 
+Now, let's move on to Thursday. Thursday in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -108,7 +108,7 @@ Moving forward to Thursday now. Thursday in Japanese is called
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat it again - Thursday is 
+      . Once more, Thursday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -124,7 +124,7 @@ Moving forward to Thursday now. Thursday in Japanese is called
       <break time='1s'/>
       .
 
-Next is Friday. Friday in Japanese is referred to as 
+Following Thursday, we have Friday which is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -138,7 +138,7 @@ Next is Friday. Friday in Japanese is referred to as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, we say Friday as 
+       in Japanese. Again, Friday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -152,9 +152,9 @@ Next is Friday. Friday in Japanese is referred to as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-For Saturday, Japanese use the term 
+Going on to the weekend, Saturday in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -168,7 +168,7 @@ For Saturday, Japanese use the term
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . So Saturday is 
+      . I'll repeat, Saturday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -182,9 +182,9 @@ For Saturday, Japanese use the term
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-And finally, we have Sunday. Sunday is 
+Finally, we have Sunday. Sunday in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -198,7 +198,7 @@ And finally, we have Sunday. Sunday is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. One more time, Sunday is 
+      . Once more, Sunday is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -212,9 +212,9 @@ And finally, we have Sunday. Sunday is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-So now we know all seven days of the week in Japanese. From Monday, 
+There we have it, we've learned all the days of the week in Japanese. Starting from Monday to Sunday, they are: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -228,7 +228,77 @@ So now we know all seven days of the week in Japanese. From Monday,
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , through to Sunday, 
+      , 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          火曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          水曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          木曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          金曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          土曜日
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and 
       <break time='1s'/>
     </lang>
   </voice>
@@ -241,9 +311,8 @@ So now we know all seven days of the week in Japanese. From Monday,
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Take your time, replay this lesson if necessary, and practice your pronunciation. 
+      , respectively. Continue practising and you'll have these nailed in no time.
 
-This wraps up our lesson on the days of the week in Japanese. Keep practicing, and you'll be able to discuss schedules and plans in no time.
     </lang>
   </voice>
 </speak>

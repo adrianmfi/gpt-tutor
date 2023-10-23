@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your next Japanese language lesson. Building on recent lessons about nature and colors, we will be introducing four new nature-related vocabulary words: Flower, tree, grass, and sky. So let's delve in.
+      Welcome to your continued exploration of Japanese vocabulary concentrating on nature words. In this lesson, we will dive into four new words: flower, tree, grass, and sky.
 
-Firstly, we will focus on the word for 'flower'. In Japanese, flower is: 
+Let's begin with the word for 'flower'. In Japanese, 'flower' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ Firstly, we will focus on the word for 'flower'. In Japanese, flower is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat, 'flower' is: 
+      . Let's repeat: 'flower' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +32,28 @@ Firstly, we will focus on the word for 'flower'. In Japanese, flower is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A simple sentence incorporating 'flower' could be "I see a flower", which in Japanese is: 
+      . You might say: "I like flowers," which in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は花を見ます
+          私は花が好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Remember, 'I see a flower' is: 
+      . Once more, "I like flowers" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は花を見ます
+          私は花が好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +62,7 @@ Firstly, we will focus on the word for 'flower'. In Japanese, flower is:
       <break time='1s'/>
       .
 
-Next, let's look at the word for 'tree'. In Japanese, 'tree' is: 
+Next, we will learn the word for 'tree'. In Japanese, 'tree' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +76,7 @@ Next, let's look at the word for 'tree'. In Japanese, 'tree' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, 'tree' is: 
+      . Again, 'tree' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,28 +90,28 @@ Next, let's look at the word for 'tree'. In Japanese, 'tree' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Using 'tree' in a sentence you could say "The tree is big", which translates to: 
+      . You could say, "There is a tree," which translates to 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          木は大きいです
+          そこに木があります
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, 'The tree is big' is: 
+      . Let's repeat that: "There is a tree" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          木は大きいです
+          そこに木があります
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,7 +120,7 @@ Next, let's look at the word for 'tree'. In Japanese, 'tree' is:
       <break time='1s'/>
       .
 
-Moving on to 'grass'. Grass in Japanese is: 
+The third word of this lesson is 'grass'. 'Grass' in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +134,7 @@ Moving on to 'grass'. Grass in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, 'grass' is: 
+      . Please, repeat after me: 'grass' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,28 +148,28 @@ Moving on to 'grass'. Grass in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A simple sentence using 'grass' could be "The grass is green", translating to: 
+      . For example, if you wanted to say, "The grass is green," you would say, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          草は緑です
+          草は緑色です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat, 'The grass is green' is: 
+      . Again, "The grass is green" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          草は緑です
+          草は緑色です
         </mstts:prosody>
     </lang>
   </voice>
@@ -178,7 +178,7 @@ Moving on to 'grass'. Grass in Japanese is:
       <break time='1s'/>
       .
 
-Finally, we will learn 'sky'. In Japanese, 'sky' is: 
+Finally, we come to the word 'sky'. The Japanese word for 'sky' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +192,7 @@ Finally, we will learn 'sky'. In Japanese, 'sky' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, 'sky' is: 
+      . Let's practice: 'sky' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -206,7 +206,7 @@ Finally, we will learn 'sky'. In Japanese, 'sky' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A practical sentence could be "The sky is blue", which is: 
+      . In a sentence, you might say: "The sky is blue," which in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -220,7 +220,7 @@ Finally, we will learn 'sky'. In Japanese, 'sky' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . And once more, 'The sky is blue' is: 
+      . Let's repeat: "The sky is blue" in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -236,7 +236,7 @@ Finally, we will learn 'sky'. In Japanese, 'sky' is:
       <break time='1s'/>
       .
 
-In this lesson, we've added 'flower' as 
+Great job! Today we learned how to say 'flower' as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -291,7 +291,7 @@ In this lesson, we've added 'flower' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       to your vocabulary. Well done! Keep practicing and soon you'll be more comfortable in describing the world around you in Japanese.
+       in Japanese. That brings us to the end of this lesson on nature words in Japanese. Keep up the good work!
     </lang>
   </voice>
 </speak>

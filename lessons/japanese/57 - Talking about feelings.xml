@@ -2,25 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will continue expanding your Japanese vocabulary, focusing especially on expressing feelings. Building upon the previous lessons, we will introduce phrases for "I'm", "I feel", and "I'm not" in the context of emotions.
+      Welcome to your 57th Japanese lesson. Today, we're going to focus on how to talk about your feelings, using "I'm", "I feel", and "I'm not". It's essential to communicate your emotions effectively in any language, and Japanese is no exception.
 
-To start with, the word for 'I' in Japanese is often omitted when the context is clear, but for full sentences, especially for beginners, we will use 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , which translates to 'I'.
-
-When you want to express 'I am' in Japanese, you would say 
+Let's start with "I'm". In Japanese, we express this using the word: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,8 +18,23 @@ When you want to express 'I am' in Japanese, you would say
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       followed by the condition or feeling.
-To say 'I feel', you would use 
+      , which literally translates to "I am". Repeat after me: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+To say "I feel," we can use 
       <break time='1s'/>
     </lang>
   </voice>
@@ -49,7 +48,21 @@ To say 'I feel', you would use
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, the phrase 'I feel' is 
+      . The word for feel here is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          感じる
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Let's practice that a bit: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -65,7 +78,65 @@ To say 'I feel', you would use
       <break time='1s'/>
       .
 
-Now let's express some feelings. If you want to say 'I'm happy', you'd say 
+Now if you want to express that you're not feeling a certain way, we can use 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は...ではありません
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       which means "I'm not...". For example, to say "I'm not tired", you'd say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は疲れていません
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Here, 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          疲れていません
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       stands for "not tired". Practice this saying with me: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は疲れていません
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now let's take all what we learned to form full sentences about your feelings. If you're happy, you could say 
       <break time='1s'/>
     </lang>
   </voice>
@@ -79,29 +150,14 @@ Now let's express some feelings. If you want to say 'I'm happy', you'd say
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-'To feel' in Japanese often gets directly coupled with the feeling or sensation, for example, 'I feel happy' is 
+       which means "I'm happy". Once again, the phrase is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は幸せを感じます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Again, 'I feel happy' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は幸せを感じます
+          私は幸せです
         </mstts:prosody>
     </lang>
   </voice>
@@ -110,28 +166,28 @@ Now let's express some feelings. If you want to say 'I'm happy', you'd say
       <break time='1s'/>
       .
 
-Next, we will cover the negation 'I'm not'. This is expressed as 
+If you feel sad, it would read 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は...ではありません
+          私は感じる寂しい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , where the ellipsis gets replaced with what you're negating. So, 'I'm not happy' becomes 
+      . This means "I feel sad". Let's practice: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は幸せではありません
+          私は感じる寂しい
         </mstts:prosody>
     </lang>
   </voice>
@@ -140,48 +196,36 @@ Next, we will cover the negation 'I'm not'. This is expressed as
       <break time='1s'/>
       .
 
-This forms the basis for talking about your feelings in Japanese. Practice these phrases by incorporating different emotions into the sentences. Remember, 'I am' is 
+And if you're not angry, you would say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は
+          私は怒っていません
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'I feel' is 
+      . This stands for "I'm not angry". Repeat after me: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は感じる
+          私は怒っていません
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s'/>
-      , and 'I'm not' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は...ではありません
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      . This concludes our Japanese lesson on expressing emotions. Happy learning!
+      .
+
+Through today's lesson, we've learned how to better express our emotions in Japanese using the phrases for "I'm", "I feel", and "I'm not". Regularly practicing these phrases will help you communicate your feelings more expressively in Japanese. Keep up the good work.
     </lang>
   </voice>
 </speak>

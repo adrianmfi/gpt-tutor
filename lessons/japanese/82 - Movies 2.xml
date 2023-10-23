@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      This lesson will continue our exploration of the theme of "movies" in Japanese. We will learn new vocabulary for 'theater', 'ticket', 'popcorn', and 'actor', and how to use these words in context.
+      Welcome to your Japanese lesson sharing more vocabulary pertaining to movies. Given your prior acquaintance with basic phrases, we will introduce new words and integrate them in simple sentences. 
 
-Let's start with the word for 'theater' in Japanese, which is: 
+Let's start with "theater". The Japanese for theater is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ Let's start with the word for 'theater' in Japanese, which is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Now, repeat after me: 
+      . Repeat after me, theater in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +32,28 @@ Let's start with the word for 'theater' in Japanese, which is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A useful sentence is "I'm going to the theater". In Japanese, this is: 
+      . For example, when you want to say "The theater is over there", you say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          映画館に行きます
+          映画館はそこにあります
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "I'm going to the theater" is: 
+      . Let's repeat, "The theater is over there": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          映画館に行きます
+          映画館はそこにあります
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +62,7 @@ Let's start with the word for 'theater' in Japanese, which is:
       <break time='1s'/>
       .
 
-Next, let's learn 'ticket'. In Japanese, this is 
+Now, the word "ticket". Ticket in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +76,7 @@ Next, let's learn 'ticket'. In Japanese, this is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat: 
+      . Repeat: ticket is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,28 +90,28 @@ Next, let's learn 'ticket'. In Japanese, this is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . You could say "I bought a ticket", which in Japanese is 
+      . For instance, to say "I have a ticket", you say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          チケットを買いました
+          私はチケットを持っています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, "I bought a ticket" is: 
+      . Let's practice, "I have a ticket": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          チケットを買いました
+          私はチケットを持っています
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,7 +120,7 @@ Next, let's learn 'ticket'. In Japanese, this is
       <break time='1s'/>
       .
 
-The word for 'popcorn' is very similar to English. In Japanese, it is: 
+Let's move onto "popcorn". Popcorn in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +134,7 @@ The word for 'popcorn' is very similar to English. In Japanese, it is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat: 
+      . Say it with me, popcorn is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,7 +148,7 @@ The word for 'popcorn' is very similar to English. In Japanese, it is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, "I want popcorn" translates to: 
+      . Let's say, "I want popcorn", which translates to 
       <break time='1s'/>
     </lang>
   </voice>
@@ -162,7 +162,7 @@ The word for 'popcorn' is very similar to English. In Japanese, it is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . And again, "I want popcorn" is: 
+      . Once more, "I want popcorn": 
       <break time='1s'/>
     </lang>
   </voice>
@@ -178,7 +178,7 @@ The word for 'popcorn' is very similar to English. In Japanese, it is:
       <break time='1s'/>
       .
 
-And lastly, let's learn 'actor'. The Japanese term is: 
+Lastly, the word for "actor". Actor in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +192,7 @@ And lastly, let's learn 'actor'. The Japanese term is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Recite it one more time: 
+      . Repeat, actor is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -206,28 +206,28 @@ And lastly, let's learn 'actor'. The Japanese term is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A good example sentence is "The actor is famous", or in Japanese, 
+      . To say "He is an actor", you say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          俳優は有名です
+          彼は俳優です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat: "The actor is famous" is 
+      . Again, "he is an actor": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          俳優は有名です
+          彼は俳優です
         </mstts:prosody>
     </lang>
   </voice>
@@ -236,7 +236,7 @@ And lastly, let's learn 'actor'. The Japanese term is:
       <break time='1s'/>
       .
 
-Our newly learned vocabulary for this lesson includes: 'theater', translating to 
+We have now learned the Japanese for theater as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,7 +250,7 @@ Our newly learned vocabulary for this lesson includes: 'theater', translating to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'ticket' as 
+      , ticket as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -264,7 +264,7 @@ Our newly learned vocabulary for this lesson includes: 'theater', translating to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'popcorn' is 
+      , popcorn as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,7 +278,7 @@ Our newly learned vocabulary for this lesson includes: 'theater', translating to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'actor' which translates to 
+      , and actor as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -293,7 +293,8 @@ Our newly learned vocabulary for this lesson includes: 'theater', translating to
     <lang xml:lang="en-US">
       .
 
-While practicing these phrases, remember correct pronunciation is key, and using these words in context will help reinforce your memory. This concludes today's Japanese lesson on movie-related vocabulary. Keep practicing!
+This concludes your lesson. Keep practicing these new words and we'll build on them in your next lesson!
+
     </lang>
   </voice>
 </speak>

@@ -1,158 +1,236 @@
-<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
-  xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> Let's start with lesson 11, which covers more basic shopping phrases that
-      you may find useful. First, let's learn how to say "too expensive" in Japanese. The phrase is: <break
-        time='1s' />
+      <break time='1s'/>
+      Welcome to your Japanese lesson on negotiating and finalizing purchases. We'll cover phrases like "too expensive", "can you lower the price", and "I'll take it". Let's get started.
+
+The first phrase we're going to learn is "too expensive". In Japanese, this is said as: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        高すぎます
-      </mstts:prosody>
+          高すぎます
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Try repeating: <break time='1s' />
+      <break time='1s'/>
+      .
+Repeat after me: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        高すぎます
-      </mstts:prosody>
+          高すぎます
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Again, "too expensive" is: <break time='1s' />
+      <break time='1s'/>
+      .
+If you wanted to use it in a sentence, you could say: "This is too expensive", which translates to: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        高すぎます
-      </mstts:prosody>
+          これは高すぎます
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Next, let's cover a common negotiation phrase: "Can you lower the
-      price?". In Japanese, you would say this as: <break time='1s' />
+      <break time='1s'/>
+      .
+Again, "This is too expensive" is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        値段を下げてもらえますか
-      </mstts:prosody>
+          これは高すぎます
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Please repeat: <break time='1s' />
+      <break time='1s'/>
+      .
+
+Next, let's move on to "can you lower the price". In Japanese, this is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        値段を下げてもらえますか
-      </mstts:prosody>
+          値段を下げてもらえますか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . One more time, "Can you lower the price?" is: <break time='1s' />
+      <break time='1s'/>
+      .
+Repeating, "can you lower the price" is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        値段を下げてもらえますか
-      </mstts:prosody>
+          値段を下げてもらえますか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . If you're ready to make a purchase and want to say, "I'll take it", in
-      Japanese you would say: <break time='1s' />
+      <break time='1s'/>
+      .
+If you wanted to make a sentence with it, you could say: "Can you lower the price of this?", which is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        これにします
-      </mstts:prosody>
+          これの値段を下げてもらえますか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Let's practice saying: <break time='1s' />
+      <break time='1s'/>
+      .
+Again, "Can you lower the price of this?" is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        これにします
-      </mstts:prosody>
+          これの値段を下げてもらえますか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Repeat again: "I'll take it" is: <break time='1s' />
+      <break time='1s'/>
+      .
+
+Finally, we'll learn how to say "I'll take it". The phrase in Japanese is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        これにします
-      </mstts:prosody>
+          これにします
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . To sum up what we've learned so far: 'too expensive' is <break time='1s' />
+      <break time='1s'/>
+      .
+One more time, "I'll take it" is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        高すぎます
-      </mstts:prosody>
+          これにします
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> , 'Can you lower the price?' is <break time='1s' />
+      <break time='1s'/>
+      .
+To use it in context, you could say: "I'll take this one", which would be: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        値段を下げてもらえますか
-      </mstts:prosody>
+          これにします
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> , and 'I'll take it' is <break time='1s' />
+      <break time='1s'/>
+      .
+Repeating, "I'll take this one" is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        これにします
-      </mstts:prosody>
+          これにします
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Now we've learned "too expensive" as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          高すぎます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , "can you lower the price" as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          値段を下げてもらえますか
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and "I'll take it" as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これにします
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       .
 
-      This concludes your introduction to basic shopping phrases Part 2 in Japanese.
+Congratulations! You're now equipped with key phrases for shopping in Japan. Kudos for your dedication and progress in your Japanese language journey.
     </lang>
   </voice>
 </speak>

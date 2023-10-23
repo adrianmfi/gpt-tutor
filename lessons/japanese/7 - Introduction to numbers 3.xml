@@ -2,11 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      This lesson works towards strengthening our Japanese number knowledge, allowing us to count from 30 up to 100.
+      In our current lesson, we will be focusing on learning to count in Japanese from 30 up to 100. It's important to note our previous work where we mastered counting from 1 to 20 in Japanese. If you find that you're having difficulty, please revisit those lessons first.
 
-We will continue with the method of using the base number with the addition of specific suffixes. 
-
-Let's start with the number '30'. In Japanese, we say 
+Let's begin. In Japanese, the word for 30 is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -20,42 +18,14 @@ Let's start with the number '30'. In Japanese, we say
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The first character "
+      . Let's say it one more time: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          三
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " stands for 'three' while the second character "
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " stands for 'ten'. When combined, they make up the word for 'thirty', pronounced as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          さんじゅう
+          三十
         </mstts:prosody>
     </lang>
   </voice>
@@ -64,7 +34,7 @@ Let's start with the number '30'. In Japanese, we say
       <break time='1s'/>
       .
 
-Next, we have '40' which in Japanese is 
+Next, we have the word for 40, which is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -78,35 +48,7 @@ Next, we have '40' which in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The first character "
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          四
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " means 'four' and the second character is '
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      ', for 'ten'. When put together, they make '
+      . Hear it again: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -120,23 +62,9 @@ Next, we have '40' which in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      ', pronounced '
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          よんじゅう
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      ', which means 'forty'. 
+      .
 
-For '50', we use 
+Onwards to the word for 50. In Japanese, 50 is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -150,42 +78,14 @@ For '50', we use
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Here, "
+      . Let's repeat, 50 is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          五
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " represents 'five' and "
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " is 'ten', totaling to 'fifty'. It's pronounced as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ごじゅう
+          五十
         </mstts:prosody>
     </lang>
   </voice>
@@ -194,7 +94,7 @@ For '50', we use
       <break time='1s'/>
       .
 
-The word for '60' is 
+The word for 60 in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -208,51 +108,23 @@ The word for '60' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . "
+      . Hear it once more: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          六
+          六十
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      " is the number six and "
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " is 'ten'. The combined term, pronounced 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ろくじゅう
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , translates to 'sixty' in English. 
+      .
 
-'70' in Japanese is 
+Next, we have the word for 70, pronounced as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -266,42 +138,14 @@ The word for '60' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . That is "
+      . Again, 70 is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          七
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " or 'seven' and "
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " or 'ten'. So, 'seventy' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ななじゅう
+          七十
         </mstts:prosody>
     </lang>
   </voice>
@@ -310,7 +154,7 @@ The word for '60' is
       <break time='1s'/>
       .
 
-Next, '80' is 
+Continuing, the word for 80 in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -324,51 +168,23 @@ Next, '80' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Here the first character "
+      . In repetition, 80 is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          八
+          八十
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      " means 'eight' and the second one "
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " is 'ten'. The term 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          はちじゅう
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       stands for 'eighty'.
+      .
 
-As for '90', it is 
+The penultimate number here is 90, or in Japanese: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -382,42 +198,14 @@ As for '90', it is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. With "
+      . Let's say it again: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          九
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " representing 'nine' and "
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      " being 'ten'. You say it as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          きゅうじゅう
+          九十
         </mstts:prosody>
     </lang>
   </voice>
@@ -426,7 +214,7 @@ As for '90', it is
       <break time='1s'/>
       .
 
-Lastly, the term for '100' is 
+Finally, the culmination of our counting journey, 100! In Japanese, 100 is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -440,22 +228,22 @@ Lastly, the term for '100' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , pronounced as 
+      . Once more, 100 is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ひゃく
+          百
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . 
+      .
 
-We have now learned to count from 30 up to 100 in Japanese. Practicing these term by integrating them into your regular conversations will help you master them. The key is repetition and practice, so don't worry if it takes time. Remember that consistency is vital in language learning!
+There we go! Now you're able to count from 30 to 100 in Japanese. Practice these new words whenever you can to solidify your learning. We'll continue to build upon this foundation in our next lesson.
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,25 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will be learning the Japanese names for the months of the year, from January to December. 
+      Welcome back! We're going further into the realm of time in Japanese, and for this lesson, we will learn how to say the months of the year from January through to December. This is lesson 40 - Months of the Year.
 
-Let's start with January. In Japanese, January is: 
+First, "month" translates as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          月
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . It's pronounced a bit like the English word "gets". 
+
+Let's start with January. The word for January in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +34,7 @@ Let's start with January. In Japanese, January is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it once more,
+      . Repeat that for me, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,9 +48,9 @@ Let's start with January. In Japanese, January is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-Next is February which in Japanese is: 
+Next up is February. In Japanese, February is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -48,7 +64,7 @@ Next is February which in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat, February is: 
+      . Let's hear you say it: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -64,7 +80,7 @@ Next is February which in Japanese is:
       <break time='1s'/>
       .
 
-Let's move on to March. March in Japanese is: 
+March in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -78,7 +94,7 @@ Let's move on to March. March in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying it again: 
+      . Say it again, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -94,7 +110,7 @@ Let's move on to March. March in Japanese is:
       <break time='1s'/>
       .
 
-Next is April, which is 
+Following that is April, which in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -108,7 +124,7 @@ Next is April, which is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. Repeat after me, 
+      . Let's repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -124,7 +140,7 @@ Next is April, which is
       <break time='1s'/>
       .
 
-Now we have May. May translates to: 
+May is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -138,7 +154,7 @@ Now we have May. May translates to:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice it, say 
+       in Japanese. Try saying: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -152,9 +168,9 @@ Now we have May. May translates to:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
+       for me.
 
-Up next we have June. June in Japanese is: 
+June, as you might have guessed by now, is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -168,7 +184,7 @@ Up next we have June. June in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Give it a try: 
+       in Japanese. Again, it's 
       <break time='1s'/>
     </lang>
   </voice>
@@ -184,7 +200,7 @@ Up next we have June. June in Japanese is:
       <break time='1s'/>
       .
 
-Moving on to July. In Japanese July is: 
+July is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -198,7 +214,7 @@ Moving on to July. In Japanese July is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, 
+      . Please say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -214,7 +230,7 @@ Moving on to July. In Japanese July is:
       <break time='1s'/>
       .
 
-Let's learn August now. August in Japanese is: 
+Next is August or 
       <break time='1s'/>
     </lang>
   </voice>
@@ -228,7 +244,7 @@ Let's learn August now. August in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it again, August is: 
+       in Japanese. Once more, August is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -244,7 +260,7 @@ Let's learn August now. August in Japanese is:
       <break time='1s'/>
       .
 
-September comes next. September translates to: 
+September in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -258,7 +274,7 @@ September comes next. September translates to:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. Repeat after me, 
+      . Repeat after me, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -274,7 +290,7 @@ September comes next. September translates to:
       <break time='1s'/>
       .
 
-We now have October which in Japanese is: 
+We then have October, which is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -288,7 +304,7 @@ We now have October which in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's pronounce it again, 
+       in Japanese. Let's say that again, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -304,7 +320,7 @@ We now have October which in Japanese is:
       <break time='1s'/>
       .
 
-Nearly there, November in Japanese is: 
+November in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -318,7 +334,7 @@ Nearly there, November in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying it, 
+      . Repeat for practice: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -334,7 +350,7 @@ Nearly there, November in Japanese is:
       <break time='1s'/>
       .
 
-Finally, December. In Japanese, December translates to: 
+Finally, December in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -348,7 +364,7 @@ Finally, December. In Japanese, December translates to:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, December is: 
+      . One more time, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -356,6 +372,50 @@ Finally, December. In Japanese, December translates to:
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
           十二月
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Great work! You now know all of the months from January 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          一月
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       to December 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          十二月
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese. Remember, when you're telling the date, remember to include the word for "month", which is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          月
         </mstts:prosody>
     </lang>
   </voice>
@@ -363,7 +423,7 @@ Finally, December. In Japanese, December translates to:
     <lang xml:lang="en-US">
       .
 
-Good job! We have now learned all the months of the year in Japanese. Keep practicing and make sure to memorize them. You will need these to discuss dates and appointments.
+We'll continue working on this in the next lesson by learning dates and years. Keep practicing and don't forget the hard work pays off.
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,11 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we are going to learn how to discuss languages in Japanese. We'll cover phrases like "I speak", "I'm learning", and "I don't understand."
+      In this lesson, we'll explore Japanese phrases for expressing proficiency in languages, including "I speak," "I'm learning," and "I don't understand." 
 
-Firstly, let's learn how to say "I speak". In Japanese, it is: 
+From your previous lessons, you're familiar with expressing identities, occupations, and nationalities, so today we'll take a step ahead.
+
+We'll begin with the phrase "I speak," in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +20,52 @@ Firstly, let's learn how to say "I speak". In Japanese, it is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, "I speak" translates to: 
+      . The literal translation for this sentence is "I will speak". However, in conversational Japanese, it can also mean "I speak". Let's break it down.
+
+The first word, 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , means "I". Next, 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          は
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       is a particle used to mark the topic of the sentence, it's similar to the English word "as for". The last part, 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          話します
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , means "will speak" or "speak".  
+So again, "I speak" translates as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,28 +81,14 @@ Firstly, let's learn how to say "I speak". In Japanese, it is:
       <break time='1s'/>
       .
 
-Let's put it into context. Let's say you want to express "I speak English". In Japanese, you would say: 
+Now, to specify the language that you speak, we place the language before the phrase we just learned. For instance, "I speak English" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は英語を話します
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Practice this phrase: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は英語を話します
+          英語を私は話します
         </mstts:prosody>
     </lang>
   </voice>
@@ -63,22 +96,23 @@ Let's put it into context. Let's say you want to express "I speak English". In J
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Next, we'll learn how to say "I’m learning". In Japanese, this phrase is 
+Here 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は学んでいます
+          英語を
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "I’m learning" is: 
+       means "English". So the full sentence translates to "Regarding me, I speak English."
+
+Moving on to "I'm learning," which in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -93,59 +127,43 @@ Next, we'll learn how to say "I’m learning". In Japanese, this phrase is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Using this phrase, we can say "I’m learning Japanese". This would translate to: 
+Again, let me break it down. 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は日本語を学んでいます
+          私は
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying: 
+       means "I" as we learned before, and 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は日本語を学んでいます
+          学んでいます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-
-Finally, let's cover the phrase "I don't understand". In Japanese, it is: 
+       means "am learning".
+So, "I'm learning English" for example, translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は理解していません
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Once more, "I don't understand" is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は理解していません
+          私は英語を学んでいます
         </mstts:prosody>
     </lang>
   </voice>
@@ -154,28 +172,14 @@ Finally, let's cover the phrase "I don't understand". In Japanese, it is:
       <break time='1s'/>
       .
 
-In conversation, you could say "I don't understand Japanese" if someone is speaking too fast or using complex language. It would be said as: 
+Lastly, we will learn "I don't understand". It is translated to Japanese as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は日本語が理解していません
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Please repeat: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本語が理解していません
+          私は分かりません
         </mstts:prosody>
     </lang>
   </voice>
@@ -184,48 +188,35 @@ In conversation, you could say "I don't understand Japanese" if someone is speak
       <break time='1s'/>
       .
 
-Great! We've now covered how to say "I speak", "I'm learning", and "I don't understand" in Japanese. Continue to practice these phrases and incorporate them into your conversations. Remember, "I speak" translates to 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は話します
+          分かりません
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , "I'm learning" is 
+       means "I don't understand". So if you wanted to say, for instance, "I don't understand Spanish", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は学んでいます
+          私はスペイン語が分かりません
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s'/>
-      , and "I don't understand" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は理解していません
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      . Until our next lesson, keep practicing and keep learning.
+      .
+
+That concludes this lesson on speaking about language proficiency in Japanese. Practice your new knowledge, and keep learning!
     </lang>
   </voice>
 </speak>

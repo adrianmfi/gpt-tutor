@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome back to your next lesson in Japanese. This time we will focus on city-related vocabulary, specifically, words related to 'Restaurant', 'Cafe', 'Mall', and 'Station'.
+      In this lesson, we'll extend your Japanese city vocabulary by learning some important everyday words: restaurant, cafe, mall, and station.
 
-Let's start with the word for 'Restaurant'. In Japanese, a restaurant is referred to as: 
+Let's start with the word for restaurant. In Japanese, we say 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,7 +19,7 @@ Let's start with the word for 'Restaurant'. In Japanese, a restaurant is referre
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Please repeat, restaurant is: 
+Try to repeat that: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,8 +34,38 @@ Please repeat, restaurant is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+In a sentence, you could say: "The restaurant is there", which translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          レストランがあります
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once more, "The restaurant is there" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          レストランがあります
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Next, 'Cafe'. In Japanese, the word for cafe is: 
+Next, we have cafe. The Japanese word for cafe is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -50,7 +80,7 @@ Next, 'Cafe'. In Japanese, the word for cafe is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Try repeating 'cafe' in Japanese: 
+Again, cafe is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -65,8 +95,38 @@ Try repeating 'cafe' in Japanese:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+In a sentence you could say, "I like the cafe," translated to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          カフェがすきです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Let's repeat, "I like the cafe" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          カフェがすきです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Moving on to the 'Mall'. This is expressed in Japanese as: 
+Moving on, the word for mall in Japanese is known as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -81,7 +141,7 @@ Moving on to the 'Mall'. This is expressed in Japanese as:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once again, a mall is: 
+Repeat after me: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -96,8 +156,53 @@ Once again, a mall is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+Consider the sentence: "The mall is beautiful", which translates as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          モールはきれいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once more: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          モールはきれいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Finally, we will learn the word for 'station', which in Japanese is: 
+Lastly, the word for station is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          駅
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese.
+Try saying: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -112,14 +217,29 @@ Finally, we will learn the word for 'station', which in Japanese is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's practice, 'station' in Japanese is: 
+For example, if you want to say "I want to go to the station", you could say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          駅
+          駅にいきたいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Let's repeat that, "I want to go to the station": 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          駅にいきたいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -128,97 +248,7 @@ Let's practice, 'station' in Japanese is:
       <break time='1s'/>
       .
 
-To build up phrases with these words, you could say: "I like the cafe at the mall", which translates to: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          モールのカフェが好きです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-In this sentence, 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          モールのカフェ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       means "mall's cafe" and 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          好きです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       means "I like".
-
-Alternatively, you might say: "The restaurant is near the station", which in Japanese is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          レストランは駅の近くです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Here, 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          レストランは
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       means "the restaurant is" and 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          駅の近くです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       translates to "near the station".
-
-To summarize, this lesson covered the Japanese terms for 'restaurant' or 
+Well done! We have learned restaurant as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -232,8 +262,7 @@ To summarize, this lesson covered the Japanese terms for 'restaurant' or
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      ,
-'cafe' or 
+      , cafe as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -247,7 +276,7 @@ To summarize, this lesson covered the Japanese terms for 'restaurant' or
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'mall' or 
+      , mall as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -261,7 +290,7 @@ To summarize, this lesson covered the Japanese terms for 'restaurant' or
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'station' or 
+      , and station as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -274,8 +303,7 @@ To summarize, this lesson covered the Japanese terms for 'restaurant' or
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      .
-Keep practicing and you'll become familiar with these terms in no time. Until next time, さようなら!
+       in Japanese. These should come in handy while navigating around Japanese cities. Keep practicing and stay confident!
     </lang>
   </voice>
 </speak>

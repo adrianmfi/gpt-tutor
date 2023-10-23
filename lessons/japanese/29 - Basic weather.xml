@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your 29th Japanese lesson. Today, we're going to talk about basic weather terms which include the words for 'sunny', 'cloudy', 'rainy', and 'snowy' in Japanese.
+      In this lesson, we will discuss how to tell basic weather conditions in Japanese. Specifically, we're going to learn how to express "Sunny", "Cloudy", "Rainy", and "Snowy". 
 
-The first term we are going to learn is 'sunny'. In Japanese, 'sunny' is pronounced as 
+Starting with describing the weather as sunny. The word for sunny in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ The first term we are going to learn is 'sunny'. In Japanese, 'sunny' is pronoun
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying it: 
+      . Let's practice that. Sunny is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,7 +32,7 @@ The first term we are going to learn is 'sunny'. In Japanese, 'sunny' is pronoun
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . An example sentence could be "It's sunny today" which translates to: 
+       in Japanese. An example sentence is: "It is sunny today.", which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -46,7 +46,7 @@ The first term we are going to learn is 'sunny'. In Japanese, 'sunny' is pronoun
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat that: 
+      . Saying it once again, "Today is sunny" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -62,7 +62,7 @@ The first term we are going to learn is 'sunny'. In Japanese, 'sunny' is pronoun
       <break time='1s'/>
       .
 
-Next is 'cloudy'. In Japanese, 'cloudy' is pronounced as 
+Next is the expression for a cloudy weather. The Japanese word for cloudy is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +76,7 @@ Next is 'cloudy'. In Japanese, 'cloudy' is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying: 
+      . Repeat after me, cloudy is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,28 +90,28 @@ Next is 'cloudy'. In Japanese, 'cloudy' is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Using it in a sentence - "It's cloudy today", you say 
+      . To illustrate its use, we can say, "It is cloudy now." in Japanese as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          今日は曇りです
+          今すぐ曇りです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's rehearse: 
+      . Let's practice. "It is cloudy now." is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          今日は曇りです
+          今すぐ曇りです
         </mstts:prosody>
     </lang>
   </voice>
@@ -119,8 +119,8 @@ Next is 'cloudy'. In Japanese, 'cloudy' is pronounced as
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
- 
-Moving on to 'rainy'. The term for 'rainy' is 
+
+Let's now move to the Japanese term for rainy. Rainy is referred to as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +134,7 @@ Moving on to 'rainy'. The term for 'rainy' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. Give it a try: 
+       in Japanese. Repeating for practice: rainy is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,37 +148,37 @@ Moving on to 'rainy'. The term for 'rainy' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . When you want to say "It's rainy today", say 
+      . In a sentence, we can say, "It looks like rain" in Japanese as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          今日は雨です
+          雨が降りそうです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Please, repeat: 
+      . Repeat, "It looks like rain" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          今日は雨です
+          雨が降りそうです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-Lastly, we have 'snowy'. 'Snowy' in Japanese is 
+Finally, we will learn how to describe snowy weather in Japanese. The word for snowy is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +192,7 @@ Lastly, we have 'snowy'. 'Snowy' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Practice pronouncing it: 
+      . Repeat: snowy is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -206,37 +206,37 @@ Lastly, we have 'snowy'. 'Snowy' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The sentence "It's snowy today" translates to 
+      . As an example, let's take "It is snowing" which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          今日は雪です
+          雪が降っています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me: 
+      . Practice this sentence: "It is snowing" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          今日は雪です
+          雪が降っています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-In conclusion, we've learned four weather expressions: 'sunny' as 
+In summary, we have learnt: sunny as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,7 +250,7 @@ In conclusion, we've learned four weather expressions: 'sunny' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'cloudy' as 
+      , cloudy as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -264,7 +264,7 @@ In conclusion, we've learned four weather expressions: 'sunny' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'rainy' as 
+      , rainy as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,7 +278,7 @@ In conclusion, we've learned four weather expressions: 'sunny' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'snowy' as 
+      , and snowy as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -291,7 +291,9 @@ In conclusion, we've learned four weather expressions: 'sunny' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Try to practice these terms and sentences so you can confidently describe the weather in Japanese. Do Svidaniya!
+      . Practice these words. They're going to be very useful for your conversations in Japanese, especially if you're planning to travel to Japan. 
+
+This concludes our discussion on expressing basic weather conditions in Japanese. Keep practicing and stay tuned for the next lesson.
     </lang>
   </voice>
 </speak>

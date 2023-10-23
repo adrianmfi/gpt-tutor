@@ -2,44 +2,47 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will be focusing on talking about daily activities in Japanese. By the end of this session, you should be comfortable with the phrases: "I am", "I'm going to", and "I want to".
+      This lesson focuses on expressing daily activities in Japanese.
 
-Let's start with the phrase "I am", which translates to 
+Firstly, we're going to talk about expressing "I'm" in Japanese which is translated.
+The phrase "I'm" is translated as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は~です
+          私は・わたしは
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. Here "~" is replaced by whatever activity you're currently doing. For example, saying "I am studying" is 
+      . Let's repeat: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は勉強しています
+          私は
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, "I am studying" 
+       which means "I'm"
+
+Let's turn that into a full sentence and say "I'm cooking". In Japanese, we say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は勉強しています
+          私は料理しています・わたしはりょうりしています
         </mstts:prosody>
     </lang>
   </voice>
@@ -47,43 +50,44 @@ Let's start with the phrase "I am", which translates to
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+Once again, "I'm cooking" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は料理しています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese.
 
-Now let's learn the phrase "I'm going to". The Japanese version of this is 
+Moving on to express "I'm going to", it translates to 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は~に行きます
+          私は...に行きます・わたしは...にいきます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Here, "~" is replaced by the place you're going to. For example, "I'm going to the library" is: 
+      . For example, if you're about to say, "I'm going to the park": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は図書館に行きます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Repeat after me, "I'm going to the library" 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は図書館に行きます
+          私は公園に行きます・わたしはこうえんにいきます
         </mstts:prosody>
     </lang>
   </voice>
@@ -91,43 +95,14 @@ Now let's learn the phrase "I'm going to". The Japanese version of this is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Lastly, we will talk about "I want to". This phrase is expressed in Japanese as 
+Repeat, "I'm going to the park" in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は~が欲しい
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       where "~" is replaced by what you're desiring. For instance, "I want to eat sushi" can be expressed as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は寿司が食べたい
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Now you try, "I want to eat sushi" is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は寿司が食べたい
+          私は公園に行きます
         </mstts:prosody>
     </lang>
   </voice>
@@ -136,15 +111,28 @@ Lastly, we will talk about "I want to". This phrase is expressed in Japanese as
       <break time='1s'/>
       .
 
-Let's summarize:
-"I am studying" was 
+Finally, we'll learn how to say "I want to" in Japanese. The phrase 'I want to' is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は勉強しています
+          私は...がほしい・わたしは...がほしい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . For instance, to say "I want to sleep", you can say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は寝るがほしい・わたしはねるがほしい
         </mstts:prosody>
     </lang>
   </voice>
@@ -152,37 +140,22 @@ Let's summarize:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-"I'm going to the library" was 
+Repeating, "I want to sleep" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は図書館に行きます
+          私は寝るがほしい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-"I want to eat sushi" was 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は寿司が食べたい
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      .
+       in Japanese.
 
-Continue practicing these phrases, incorporating them into your daily conversations. Always remember, consistent practice is key to language mastery.
+In this lesson, you have learned how to express "I'm", "I'm going to" and "I want to" for discussing daily activities in Japanese.
     </lang>
   </voice>
 </speak>

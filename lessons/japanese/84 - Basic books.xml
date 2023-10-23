@@ -2,40 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your Japanese lesson focused on various types of books. 
+      In this lesson, we will be expanding your vocabulary by introducing some basic book-related words in Japanese.
 
-Let's start by tackling the word for 'book' in Japanese, which is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          本
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Try saying it aloud. In Japanese, 'book' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          本
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Now, let's move onto the word 'novel'. In Japanese, you would say 
+Our first word is "novel". The Japanese term for novel is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -49,7 +18,7 @@ Now, let's move onto the word 'novel'. In Japanese, you would say
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, 'novel' is 
+      . Let's repeat that, novel is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -64,8 +33,51 @@ Now, let's move onto the word 'novel'. In Japanese, you would say
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+A sample sentence could be "I am reading a novel", which in Japanese would be: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          小説を読んでいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Once more, "I am reading a novel": 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          小説を読んでいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Next is a form of books that is especially popular in Japan: manga. Manga, in Japanese, is also referred to as 
+The next term we're learning is "manga". Manga in Japan is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          漫画
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Let's repeat, manga is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,14 +92,29 @@ Next is a form of books that is especially popular in Japan: manga. Manga, in Ja
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once more, 'manga' is: 
+For instance, if you want to say "I like reading manga", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          漫画
+          漫画を読むのが好きです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating, "I like reading manga" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          漫画を読むのが好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -96,7 +123,7 @@ Once more, 'manga' is:
       <break time='1s'/>
       .
 
-Let's move on to 'magazine'. The Japanese word for 'magazine' is 
+Next is the word for "magazine", which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -110,7 +137,8 @@ Let's move on to 'magazine'. The Japanese word for 'magazine' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try repeating: 
+      .
+Once more, magazine is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -125,15 +153,14 @@ Let's move on to 'magazine'. The Japanese word for 'magazine' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Finally, let's cover 'newspaper'. The Japanese refer to a newspaper as a 
+For example, to say "This magazine is interesting" in Japanese, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          新聞紙
+          この雑誌は面白いです
         </mstts:prosody>
     </lang>
   </voice>
@@ -141,44 +168,14 @@ Finally, let's cover 'newspaper'. The Japanese refer to a newspaper as a
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Say it with me, 'newspaper' is 
+Exemplifying again, "This magazine is interesting": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          新聞紙
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Consider the following sentence as an example of how to use these words. 'I'm reading a novel and a newspaper' would translate to: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は小説と新聞紙を読んでいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Say it again: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は小説と新聞紙を読んでいます
+          この雑誌は面白いです
         </mstts:prosody>
     </lang>
   </voice>
@@ -187,21 +184,68 @@ Consider the following sentence as an example of how to use these words. 'I'm re
       <break time='1s'/>
       .
 
-To recap, we learned 'book' as 
+Lastly, we have the term for "newspaper". In Japanese, newspaper is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          本
+          新聞
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'novel' as 
+      .
+Again, newspaper is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          新聞
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+If you want to say, "I read the newspaper every morning," you say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は毎朝新聞を読みます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating, "I read the newspaper every morning": 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は毎朝新聞を読みます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+We have now expanded our Japanese vocabulary with words related to books: novel or 
       <break time='1s'/>
     </lang>
   </voice>
@@ -215,7 +259,7 @@ To recap, we learned 'book' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'manga' as 
+      , manga or 
       <break time='1s'/>
     </lang>
   </voice>
@@ -229,7 +273,7 @@ To recap, we learned 'book' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'magazine' as 
+      , magazine or 
       <break time='1s'/>
     </lang>
   </voice>
@@ -243,36 +287,20 @@ To recap, we learned 'book' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'newspaper' as 
+      , and newspaper or 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          新聞紙
+          新聞
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-This concludes our lesson focusing on basic types of books in Japanese. Keep reading, or should I say, keep 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          読んで
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      !
+      . Practice these words, and incorporate them into your conversations. This brings us to the end of this lesson. Happy studying!
     </lang>
   </voice>
 </speak>

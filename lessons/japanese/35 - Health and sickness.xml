@@ -2,72 +2,44 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will focus on expressing health concerns in Japanese, particularly soreness and feelings of discomfort. These expressions can be valuable to know when visiting a doctor or describing how you feel.
+      This lesson will delve into expressions relating to health and sickness in Japanese. Having already familiarized yourself with basic conversational phrases and parts of the body, we'll specifically learn how to say "I have a headache", "I have a stomachache", and "I feel nauseous".
 
-Let's first learn how to say "I have a headache" in Japanese. This statement is 
+We'll begin by learning how to express having a headache. The term for headache in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          頭が痛いです
+          頭痛
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Breaking it down, 
+      . Broken down, the first character translates to "head", and the second to "pain", combining to form "headache". To say "I have a headache", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          頭
+          頭痛があります
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       means 'head', while 
+      . Try to say it: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          痛いです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       means 'it hurts'. Thus, the phrase 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          頭が痛いです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       literally translates to 'The head hurts'. Please repeat: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          頭が痛いです
+          頭痛があります
         </mstts:prosody>
     </lang>
   </voice>
@@ -76,70 +48,42 @@ Let's first learn how to say "I have a headache" in Japanese. This statement is
       <break time='1s'/>
       .
 
-Next, let's tackle "I have a stomachache". In Japanese, it's 
+Moving on, "stomachache" in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          お腹が痛いです
+          胃痛
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The term 
+      . Here, the first character signifies "stomach", while the second remains the same as in the previous example meaning "pain". So, "I have a stomachache" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          お腹
+          胃痛があります
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       signifies 'stomach', while 
+      . Go ahead and practice: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          痛いです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       means 'it hurts'. The phrase 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          お腹が痛いです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , therefore, can be translated as 'The stomach hurts'. Please practice: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          お腹が痛いです
+          胃痛があります
         </mstts:prosody>
     </lang>
   </voice>
@@ -148,70 +92,28 @@ Next, let's tackle "I have a stomachache". In Japanese, it's
       <break time='1s'/>
       .
 
-Lastly, if you're not feeling well and need to say "I feel nauseous", you would say 
+Finally, if you are feeling nauseous, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          気分が悪いです
+          気持ちが悪いです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The word 
+      . Translating word for word, it means "feeling is bad". But it generally conveys the idea of feeling sick or nauseous. Let's practice: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          気分
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       refers to 'feeling' and 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          悪いです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       expresses 'bad' or 'ill'. So, 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          気分が悪いです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       altogether means 'The feeling is bad/ill'. Let's try to pronounce it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          気分が悪いです
+          気持ちが悪いです
         </mstts:prosody>
     </lang>
   </voice>
@@ -220,48 +122,48 @@ Lastly, if you're not feeling well and need to say "I feel nauseous", you would 
       <break time='1s'/>
       .
 
-In review, we learned how to say "I have a headache" as 
+To summarize, "I have a headache" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          頭が痛いです
+          頭痛があります
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , "I have a stomachache" as 
+      , "I have a stomachache" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          お腹が痛いです
+          胃痛があります
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and "I feel nauseous" as 
+      , and "I feel nauseous" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          気分が悪いです
+          気持ちが悪いです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Practice these phrases and you'll be more prepared for discussing health matters in Japanese.
+      . These phrases will be indispensible in communicating how you're feeling when you're not well. This concludes our lesson about expressions regarding health and sickness in Japanese.
     </lang>
   </voice>
 </speak>

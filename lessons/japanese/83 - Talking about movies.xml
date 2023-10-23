@@ -2,58 +2,62 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your lesson on talking about movies in Japanese. We'll learn how to say "I like", "I'm watching", and "I want to see" in relation to films.
+      In this lesson, we are expanding your ability to express your preferences and activities related to movies in Japanese. Let's get started!
 
-Let's begin with the phrase "I like". In Japanese, this is 
+First, let's learn how to say "I like this movie". In Japanese, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は好きです
+          この映画が好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The word for movie in Japanese is 
+      .
+Say it again: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          映画
+          この映画が好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . To say "I like movies", you can say 
+      . 
+
+Now, let's learn how to say, "I'm watching a movie". In Japanese, it's: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は映画が好きです
+          映画を見ています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, the phrase is 
+      .
+Repeat after me: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は映画が好きです
+          映画を見ています
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,42 +66,29 @@ Let's begin with the phrase "I like". In Japanese, this is
       <break time='1s'/>
       .
 
-Next, we move onto the phrase "I'm watching". In Japanese, this is 
+Now, for expressing a desire to see a particular movie, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は見ています
+          その映画を見たいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . If you are watching a movie, we can say "I'm watching a movie", which in Japanese, is 
+      , which is "I want to see that movie". 
+Again, "I want to see that movie" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は映画を見ています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Repeating the phrase: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は映画を見ています
+          その映画を見たいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -106,42 +97,30 @@ Next, we move onto the phrase "I'm watching". In Japanese, this is
       <break time='1s'/>
       .
 
-Finally, we cover the phrase "I want to see". In Japanese, you express this as 
+Let's practice a short conversation.
+If someone asks you what kind of movie you're watching, "What movie are you watching?", this is said as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          見たいです
+          どの映画を見ていますか？
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . To say "I want to see a movie", we say 
+      .
+Once more: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は映画を見たいです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Once more, that's 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は映画を見たいです
+          どの映画を見ていますか？
         </mstts:prosody>
     </lang>
   </voice>
@@ -150,48 +129,98 @@ Finally, we cover the phrase "I want to see". In Japanese, you express this as
       <break time='1s'/>
       .
 
-In this lesson, we have learnt how to express "I like movies" with 
+Your response could be, "I am watching a suspense movie." In Japanese, it's: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は映画が好きです
+          サスペンス映画を見ています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , "I'm watching a movie" with 
+      .
+Again: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は映画を見ています
+          サスペンス映画を見ています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and "I want to see a movie" with 
+      .
+
+Now, if someone asks you whether you've seen a certain movie, "Have you seen this movie?", you'd hear: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は映画を見たいです
+          この映画を見ましたか？
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Make sure to keep practicing these sentences to get familiar with them. Happy learning!
+      <break time='1s'/>
+      .
+Repeating the question: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          この映画を見ましたか？
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+You could answer, "No, but I want to see it." This sentence is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          いいえ、でも見たいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Again, "No, but I want to see it" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          いいえ、でも見たいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      .
+
+That's it for learning phrases related to watching movies. Well done! Remember to use them next time you're discussing movies with your Japanese-speaking friends.
     </lang>
   </voice>
 </speak>

@@ -2,30 +2,59 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to Japanese Lesson 96, where we'll explore basic science terminology, focusing on the fields of physics, chemistry, biology, and astronomy. 
+      Welcome to Japanese lesson 96, focusing on basic science terms: Physics, Chemistry, Biology, and Astronomy.
 
-Let's start with the word for physics, which in Japanese is: 
+Firstly, let's learn how to say Physics. In Japanese, the term for Physics is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          物理学
+          物理
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Could you repeat that? Perfect, physics is: 
+      . Repeat after me, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          物理学
+          物理
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Great! Now, if you want to say "I'm studying Physics," you can say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は物理を勉強しています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Once more, to say, "I'm studying Physics", say, 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は物理を勉強しています
         </mstts:prosody>
     </lang>
   </voice>
@@ -34,7 +63,7 @@ Let's start with the word for physics, which in Japanese is:
       <break time='1s'/>
       .
 
-Now let's move over to chemistry. This is expressed in Japanese as: 
+Next, we have Chemistry. The Japanese term for Chemistry is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -48,7 +77,7 @@ Now let's move over to chemistry. This is expressed in Japanese as:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more: 
+      . Again, Chemistry in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -56,6 +85,21 @@ Now let's move over to chemistry. This is expressed in Japanese as:
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
           化学
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+If you want to say "I'm studying Chemistry", you would say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は化学を勉強しています
         </mstts:prosody>
     </lang>
   </voice>
@@ -63,8 +107,23 @@ Now let's move over to chemistry. This is expressed in Japanese as:
     <lang xml:lang="en-US">
       <break time='1s'/>
       . 
+Repeat this back: "I'm studying Chemistry" which translates as 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は化学を勉強しています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Our next field of science is biology, or in Japanese: 
+Let's now move on to Biology, which is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -78,7 +137,8 @@ Our next field of science is biology, or in Japanese:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try pronouncing it again: 
+       in Japanese.
+Repeat the term for Biology: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -93,8 +153,37 @@ Our next field of science is biology, or in Japanese:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
+Then the sample sentence, "I'm studying Biology", would be 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は生物学を勉強しています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Try repeating that phrase, "I'm studying Biology" in Japanese 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は生物学を勉強しています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Last but not least, we'll learn the Japanese word for astronomy: 
+Lastly, we have Astronomy. In Japanese, Astronomy is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -108,7 +197,8 @@ Last but not least, we'll learn the Japanese word for astronomy:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . And once more: 
+      .
+Say Astronomy: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -123,29 +213,14 @@ Last but not least, we'll learn the Japanese word for astronomy:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Now, let's put these words into context. You could say "I'm studying physics", which in Japanese is: 
+To say "I'm studying Astronomy", you would say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は物理学を勉強しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . A similar sentence for chemistry would be: "I'm interested in chemistry", translating to: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は化学に興味があります
+          私は天文学を勉強しています
         </mstts:prosody>
     </lang>
   </voice>
@@ -153,28 +228,14 @@ Now, let's put these words into context. You could say "I'm studying physics", w
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-If you're keen on biology, you could say: "I want to be a biologist", which is expressed as: 
+Again, "I'm studying Astronomy"; 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は生物学者になりたいです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . And if you're fascinated by the stars, you can say "I like astronomy", in Japanese: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は天文学が好きです
+          私は天文学を勉強しています
         </mstts:prosody>
     </lang>
   </voice>
@@ -183,21 +244,21 @@ If you're keen on biology, you could say: "I want to be a biologist", which is e
       <break time='1s'/>
       .
 
-That concludes our introduction to scientific terminology in Japanese. You've learned how to say physics, 
+That's it for today! You've just learned how to say Physics as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          物理学
+          物理
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      ; chemistry, 
+      , Chemistry as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -211,7 +272,7 @@ That concludes our introduction to scientific terminology in Japanese. You've le
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      ; biology, 
+      , Biology as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -225,7 +286,7 @@ That concludes our introduction to scientific terminology in Japanese. You've le
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      ; and astronomy, 
+      , and Astronomy as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -238,7 +299,7 @@ That concludes our introduction to scientific terminology in Japanese. You've le
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Great work! Keep on practicing and broaden your scientific vocabulary.
+      .
     </lang>
   </voice>
 </speak>

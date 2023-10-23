@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your continuing journey with the Japanese language! This is lesson 85 and today's focus is on useful vocabularies revolving around books. In particular, we'll look at the terms 'Library', 'bookstore', 'author', and 'page'.
+      In this lesson, we continue our exploration of books, focusing on words related to libraries, bookstores, authors, and pages in Japanese. 
 
-Let's start with the term for 'Library'. In Japanese, it is 
+We will begin with the word for library, which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,8 +18,8 @@ Let's start with the term for 'Library'. In Japanese, it is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-Listen again: 'Library' is 
+      . 
+Once more, library is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -33,30 +33,30 @@ Listen again: 'Library' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-An example sentence could be "I am going to the library", or in Japanese 
+      . 
+Let's construct a sentence: "I'm going to the library" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は図書館に行っています
+          図書館に行きます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-Let's repeat that: 
+      . 
+Repeating the sentence: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は図書館に行っています
+          図書館に行きます
         </mstts:prosody>
     </lang>
   </voice>
@@ -65,7 +65,22 @@ Let's repeat that:
       <break time='1s'/>
       .
 
-Next is the term for 'Bookstore'. In Japanese, this is 
+Up next is the word for a bookstore. In Japanese, bookstore is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          書店
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . 
+Again, bookstore is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,14 +95,14 @@ Next is the term for 'Bookstore'. In Japanese, this is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'Bookstore' is 
+To say "I'm going to the bookstore", you should say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          書店
+          書店に行きます
         </mstts:prosody>
     </lang>
   </voice>
@@ -95,29 +110,14 @@ Again, 'Bookstore' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-As an example, "I bought this at the bookstore" is 
+Again, "I'm going to the bookstore" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これは書店で買いました
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-Let's repeat: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          これは書店で買いました
+          書店に行きます
         </mstts:prosody>
     </lang>
   </voice>
@@ -126,7 +126,22 @@ Let's repeat:
       <break time='1s'/>
       .
 
-Moving on, let's learn the term for 'Author'. In Japanese, author is 
+The word for author in Japanese is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          著者
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . 
+Let's repeat that, author is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -141,14 +156,14 @@ Moving on, let's learn the term for 'Author'. In Japanese, author is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once more: 'Author' is 
+Let's make a sentence together: "The author of the book is famous" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          著者
+          その本の著者は有名です
         </mstts:prosody>
     </lang>
   </voice>
@@ -156,29 +171,14 @@ Once more: 'Author' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-An applied sentence could be: "My favorite author is Murakami Haruki", which is 
+Repeating for clarity, "The author of the book is famous" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の好きな著者は村上春樹です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       in Japanese.
-Repeat that: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私の好きな著者は村上春樹です
+          その本の著者は有名です
         </mstts:prosody>
     </lang>
   </voice>
@@ -187,7 +187,7 @@ Repeat that:
       <break time='1s'/>
       .
 
-Lastly, the term for 'Page' in Japanese is 
+Finally, let's learn the word for page. In Japanese, page is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -202,7 +202,7 @@ Lastly, the term for 'Page' in Japanese is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once more: 'Page' is 
+Let's try that again: the word for page is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -217,14 +217,14 @@ Once more: 'Page' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Put into use, "I'm on page 50" translates to 
+When you want to ask "What page is it?", you can say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は50ページ目です
+          何ページですか？
         </mstts:prosody>
     </lang>
   </voice>
@@ -232,14 +232,14 @@ Put into use, "I'm on page 50" translates to
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Please repeat: 
+Try it once more: "What page is it?" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は50ページ目です
+          何ページですか？
         </mstts:prosody>
     </lang>
   </voice>
@@ -248,7 +248,7 @@ Please repeat:
       <break time='1s'/>
       .
 
-This concludes our lesson on books-related vocabulary. We learned 'Library' which is 
+There you have it. We've now expanded our vocabulary with library (
       <break time='1s'/>
     </lang>
   </voice>
@@ -262,7 +262,7 @@ This concludes our lesson on books-related vocabulary. We learned 'Library' whic
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Bookstore' as 
+      ), bookstore (
       <break time='1s'/>
     </lang>
   </voice>
@@ -276,7 +276,7 @@ This concludes our lesson on books-related vocabulary. We learned 'Library' whic
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Author' as 
+      ), author (
       <break time='1s'/>
     </lang>
   </voice>
@@ -290,7 +290,7 @@ This concludes our lesson on books-related vocabulary. We learned 'Library' whic
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and 'Page' as 
+      ), and page (
       <break time='1s'/>
     </lang>
   </voice>
@@ -303,7 +303,7 @@ This concludes our lesson on books-related vocabulary. We learned 'Library' whic
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Practice these words and phrases to get comfortable with them. Keep up the good work!
+      ). Keep practising and you'll remember these words in no time.
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we'll explore the vocabulary related to historical periods: Ancient, Medieval, Modern, and Future, in Japanese. 
+      Welcome to your 90th Japanese lesson! We are going to cover some basic history terminologies: Ancient, Medieval, Modern, and Future. 
 
-Let's start with the word for 'ancient'. In Japanese, ancient is 
+Let's start with the term for 'ancient' in Japanese. It is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ Let's start with the word for 'ancient'. In Japanese, ancient is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat, 'ancient' is 
+      . Try to repeat after me: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,37 +32,9 @@ Let's start with the word for 'ancient'. In Japanese, ancient is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, if you want to say "I'm studying ancient history," it would translate into: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は古代の歴史を勉強しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Once more, "I'm studying ancient history" is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は古代の歴史を勉強しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
       .
 
-Next, we will learn the word for 'medieval'. In Japanese, 'medieval' is 
+Moving on to the 'medieval' period, the word to use in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +48,7 @@ Next, we will learn the word for 'medieval'. In Japanese, 'medieval' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, 'medieval' is: 
+      . Once again, the term for 'medieval' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,37 +62,9 @@ Next, we will learn the word for 'medieval'. In Japanese, 'medieval' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For instance, "I find medieval Japan interesting," translates to 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は中世の日本が面白いと思う
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Again, "I find medieval Japan interesting" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は中世の日本が面白いと思う
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
       .
 
-Moving on, 'modern' in Japanese is 
+Now that we've covered ancient and medieval, let's move on to 'modern'. In Japanese, 'modern' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +78,7 @@ Moving on, 'modern' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, 'modern' is: 
+      . Repeat this term: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,37 +92,9 @@ Moving on, 'modern' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . An example sentence would be: "This is a book about modern architecture," which translates to: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          これは現代建築の本です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Repeat, "This is a book about modern architecture" is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          これは現代建築の本です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
       .
 
-Finally, the word for 'future' in Japanese is 
+Finally, the term for the 'future' in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +108,7 @@ Finally, the word for 'future' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat, 'future' is: 
+      . Please repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -206,37 +122,39 @@ Finally, the word for 'future' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A basic sentence could be "I'm excited about the future," which would be: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は未来にワクワクしています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Once more, "I'm excited about the future" is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は未来にワクワクしています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
       .
 
-To recap, 'ancient' is 
+A sentence that could incorporate these words might be: "I am studying the ancient, medieval, and modern periods, and I look forward to the future.". In Japanese, that could be translated as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は古代、中世、現代を学んでいて、未来を楽しみにしています。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       Let's repeat that: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は古代、中世、現代を学んでいて、未来を楽しみにしています。
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      
+
+In recap, 'ancient' is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -291,9 +209,9 @@ To recap, 'ancient' is
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       in Japanese. 
+      . 
 
-This concludes the lesson on historical periods in Japanese.
+This finishes our lesson on basic history terminologies. Well done! Keep practicing and see you in our next lesson.
     </lang>
   </voice>
 </speak>

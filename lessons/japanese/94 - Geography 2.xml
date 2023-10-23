@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we'll learn how to talk about different geographical features in Japanese, particularly: ocean, lake, island, and desert. 
+      Welcome to our continuing exploration of geography terms in Japanese. In this lesson, we'll focus on terms related to bodies of water and landscapes, including the words for ocean, lake, island, and desert.
 
-First, let's explore the term for 'ocean'. In Japanese, the word for 'ocean' is 
+Let's start by learning the word for ocean, or "umi" in Japanese. The Japanese term for ocean is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ First, let's explore the term for 'ocean'. In Japanese, the word for 'ocean' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat this after me 
+      .
+Say it again with me, ocean is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,30 +33,30 @@ First, let's explore the term for 'ocean'. In Japanese, the word for 'ocean' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-A simple sentence to highlight this would be: "I see the ocean" which translates in Japanese to: 
+      .
+If you were to say "The Pacific Ocean is vast", in Japanese, you'd say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は海を見ます
+          太平洋は広大です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "I see the ocean" translates to 
+      .
+Let's practice: "The Pacific Ocean is vast" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は海を見ます
+          太平洋は広大です
         </mstts:prosody>
     </lang>
   </voice>
@@ -64,7 +65,7 @@ A simple sentence to highlight this would be: "I see the ocean" which translates
       <break time='1s'/>
       .
 
-Next, we'll learn how we say 'lake'. The Japanese word for this geographical feature is 
+Next up, the word for lake. In Japanese, lake is expressed as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -78,7 +79,8 @@ Next, we'll learn how we say 'lake'. The Japanese word for this geographical fea
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try repeating it: 
+      .
+Repeat after me, lake is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -92,30 +94,30 @@ Next, we'll learn how we say 'lake'. The Japanese word for this geographical fea
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-You can utilize this in a sentence: "There is a lake in that city", which in Japanese is: 
+      .
+An example sentence could be: "The lake is calm", which in Japanese, translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          その都市には湖があります
+          湖は静かです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . To reiterate, "There is a lake in that city" is: 
+      .
+Repeating our example, "The lake is calm" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          その都市には湖があります
+          湖は静かです
         </mstts:prosody>
     </lang>
   </voice>
@@ -124,7 +126,7 @@ You can utilize this in a sentence: "There is a lake in that city", which in Jap
       <break time='1s'/>
       .
 
-Continuing, the word for 'island' in Japanese is: 
+Moving on, the word for island. Island translates to: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -138,7 +140,8 @@ Continuing, the word for 'island' in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it again: 
+       in Japanese.
+Repeating the word, island is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -152,30 +155,30 @@ Continuing, the word for 'island' in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-As an example, "I want to visit an island" in Japanese is: 
+      .
+For example, to say "The island has beautiful beaches", in Japanese, you'd say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は島を訪れたい
+          島には美しいビーチがあります
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . And once more: "I want to visit an island" translates to 
+      .
+Again, "The island has beautiful beaches" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は島を訪れたい
+          島には美しいビーチがあります
         </mstts:prosody>
     </lang>
   </voice>
@@ -184,7 +187,7 @@ As an example, "I want to visit an island" in Japanese is:
       <break time='1s'/>
       .
 
-Finally, the word for 'desert' in Japanese is 
+Finally, let's learn the word for desert, which is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -198,7 +201,8 @@ Finally, the word for 'desert' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try repeating the Japanese word for desert: 
+       in Japanese.
+Once again, desert is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -212,39 +216,39 @@ Finally, the word for 'desert' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-An illustrative sentence would be: "The desert is vast", which translates to: 
+      .
+If you wanted to say, "The desert is hot", in Japanese, you'd say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          砂漠は広大です
+          砂漠は暑いです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . To go over it again, "The desert is vast" is 
+      .
+Repeating our last example, "The desert is hot" in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          砂漠は広大です
+          砂漠は暑いです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. 
+      .
 
-This brings us to the end of our Japanese lesson focusing on geographical features. To summarize, you've learned to say 'ocean' as 
+With this lesson, we've learned how to say ocean as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -258,7 +262,7 @@ This brings us to the end of our Japanese lesson focusing on geographical featur
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'lake' as 
+      , lake as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -272,7 +276,7 @@ This brings us to the end of our Japanese lesson focusing on geographical featur
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'island' as 
+      , island as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -286,7 +290,7 @@ This brings us to the end of our Japanese lesson focusing on geographical featur
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'desert' as 
+      , and desert as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -299,7 +303,7 @@ This brings us to the end of our Japanese lesson focusing on geographical featur
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Keep practicing these new vocabulary words and their usage in sentences. Ganbatte!
+      . This new vocabulary will help you converse more naturally about geography in Japanese! Keep practicing these new terms, and as always, happy learning!
     </lang>
   </voice>
 </speak>

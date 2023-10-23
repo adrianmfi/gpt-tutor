@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will explore scientific terms in Japanese connected with the theme of scientific investigation: 'Experiment', 'Theory', 'Research', and 'Discovery'. Given your familiarity with basic terms and sentences, we'll pair these new vocabulary words with sentences to provide additional context.
+      Welcome to Japanese Lesson 97 - focusing on science vocabulary: experiment, theory, research, and discovery.
 
-First, we touch on 'Experiment'. In Japanese, 'Experiment' is 
+Let's begin. The word for experiment in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ First, we touch on 'Experiment'. In Japanese, 'Experiment' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me. 
+      .
+Once more, experiment is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +33,30 @@ First, we touch on 'Experiment'. In Japanese, 'Experiment' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A good example could be: "We will do an experiment", which translates to 
+      .
+For instance, you can say: "I'm conducting an experiment", which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私たちは実験をします
+          私は実験を行っています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat, "We will do an experiment": 
+      .
+Repeating, "I'm conducting an experiment" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私たちは実験をします
+          私は実験を行っています
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +65,7 @@ First, we touch on 'Experiment'. In Japanese, 'Experiment' is
       <break time='1s'/>
       .
 
-Second, we have the word 'Theory'. 'Theory' in Japanese is 
+Moving on to theory. The Japanese term for theory is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +79,8 @@ Second, we have the word 'Theory'. 'Theory' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat: 
+      .
+Let's repeat, theory is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,37 +94,39 @@ Second, we have the word 'Theory'. 'Theory' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, you can say "This is a new theory", which is 
+      .
+An example sentence could be: "This is just a theory", or in Japanese: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これは新しい理論です
+          これはただの理論です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. Let's repeat "This is a new theory": 
+      .
+Again, "This is just a theory" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これは新しい理論です
+          これはただの理論です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-The third word of the lesson is 'Research'. In Japanese, 'Research' is 
+Next, we have the word for research, which is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +140,8 @@ The third word of the lesson is 'Research'. In Japanese, 'Research' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat: 
+      .
+Again, research is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,28 +155,30 @@ The third word of the lesson is 'Research'. In Japanese, 'Research' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . You could say "I'm doing research in astronomy", translating to 
+      .
+To say "I'm doing research", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は天文学の研究をしています
+          私は研究をしています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "I'm doing research in astronomy" is: 
+      .
+Repeating, "I'm doing research" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は天文学の研究をしています
+          私は研究をしています
         </mstts:prosody>
     </lang>
   </voice>
@@ -178,7 +187,7 @@ The third word of the lesson is 'Research'. In Japanese, 'Research' is
       <break time='1s'/>
       .
 
-Lastly, we have the term 'Discovery'. The Japanese word for 'Discovery' is 
+Lastly, we'll look at the term for discovery, which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +201,8 @@ Lastly, we have the term 'Discovery'. The Japanese word for 'Discovery' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice saying it: 
+      .
+Let's practice, discovery is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -206,28 +216,30 @@ Lastly, we have the term 'Discovery'. The Japanese word for 'Discovery' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, "The discovery was exciting", which translates to: 
+      .
+You might say "This is a new discovery", which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          発見は興奮するものでした
+          これは新しい発見です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once again, "The discovery was exciting" is: 
+      .
+Again, "This is a new discovery" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          発見は興奮するものでした
+          これは新しい発見です
         </mstts:prosody>
     </lang>
   </voice>
@@ -236,7 +248,7 @@ Lastly, we have the term 'Discovery'. The Japanese word for 'Discovery' is
       <break time='1s'/>
       .
 
-In this lesson, we've learned how to say 'Experiment' as 
+We've now learned how to say experiment as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,7 +262,7 @@ In this lesson, we've learned how to say 'Experiment' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Theory' as 
+      , theory as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -264,7 +276,7 @@ In this lesson, we've learned how to say 'Experiment' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Research' as 
+      , research as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,7 +290,7 @@ In this lesson, we've learned how to say 'Experiment' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'Discovery' as 
+      , and discovery as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -291,7 +303,7 @@ In this lesson, we've learned how to say 'Experiment' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Remember to review these words and practice forming sentences. Happy learning!
+       in Japanese. This concludes our science-focused vocabulary lesson.
     </lang>
   </voice>
 </speak>

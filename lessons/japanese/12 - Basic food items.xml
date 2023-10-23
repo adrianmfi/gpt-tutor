@@ -1,254 +1,311 @@
-<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
-  xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> Welcome to Lesson 12 where we will be expanding your Japanese vocabulary
-      for basic food items including "rice", "fish", "meat" and "vegetables". Let's start with the
-      all-essential Japanese staple, "rice". The Japanese word for rice is <break time='1s' />
+      <break time='1s'/>
+      In this lesson, we will focus on learning the basic food items in Japanese: rice, fish, meat, and vegetables. We'll start with a few words, then apply them in context.
+
+Let's begin with the word for rice. Rice, which is a staple in many Japanese meals, is called: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ご飯
-      </mstts:prosody>
+          ご飯
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Let's repeat, "rice" is <break time='1s' />
+      <break time='1s'/>
+      .
+Repeating, rice is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ご飯
-      </mstts:prosody>
+          ご飯
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . You could construct a sentence like, "I eat rice" which translates to <break
-        time='1s' />
+      <break time='1s'/>
+      .
+
+Next up we have fish. Fish in Japanese is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        私はご飯を食べます
-      </mstts:prosody>
+          魚
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . To repeat again, "I eat rice" is <break time='1s' />
+      <break time='1s'/>
+      .
+Let's say fish once more: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        私はご飯を食べます
-      </mstts:prosody>
+          魚
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Next, let's learn the word for "fish". In Japanese, "fish" is <break
-        time='1s' />
+      <break time='1s'/>
+      .
+
+Now, let's learn the word for meat. In Japanese, meat is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        魚
-      </mstts:prosody>
+          肉
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Repeat after me, "fish" is <break time='1s' />
+      <break time='1s'/>
+      .
+Again, meat translates to: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        魚
-      </mstts:prosody>
+          肉
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Now for a sentence: "I like fish" that translates to <break time='1s' />
+      <break time='1s'/>
+      .
+
+Finally, we have vegetables. Vegetables in Japanese are referred to as: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        私は魚が好きです
-      </mstts:prosody>
+          野菜
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Again, "I like fish" is <break time='1s' />
+      <break time='1s'/>
+      .
+Repeating, vegetables is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        私は魚が好きです
-      </mstts:prosody>
+          野菜
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Moving on to the word for "meat". In Japanese, "meat" is <break
-        time='1s' />
+      <break time='1s'/>
+      .
+
+So now we know that rice is 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        肉
-      </mstts:prosody>
+          ご飯
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . To repeat, "meat" is <break time='1s' />
+      <break time='1s'/>
+      , fish is 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        肉
-      </mstts:prosody>
+          魚
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . If you want to say, "I don't eat meat", you would say <break time='1s' />
+      <break time='1s'/>
+      , meat is 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        私は肉を食べません
-      </mstts:prosody>
+          肉
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Let's repeat this, "I don't eat meat" is <break time='1s' />
+      <break time='1s'/>
+       and vegetables are 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        私は肉を食べません
-      </mstts:prosody>
+          野菜
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Finally, we have the word for "vegetables". This is <break time='1s' />
+      <break time='1s'/>
+      .
+
+In accordance to your lessons on phrases like "Do you have" and "I want this", let us form a sentence using these food items.
+
+If you want to ask, "Do you have rice?", you would say: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        野菜
-      </mstts:prosody>
+          ご飯がありますか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> in Japanese. Again, "vegetables" is <break time='1s' />
+      <break time='1s'/>
+      .
+Repeating the Japanese expression for "Do you have rice?", it is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        野菜
-      </mstts:prosody>
+          ご飯がありますか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Now let's learn how to say, "I love vegetables". This would be <break
-        time='1s' />
+      <break time='1s'/>
+      .
+
+If you want to express "I want fish", you can say: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        私は野菜が大好きです
-      </mstts:prosody>
+          魚が欲しいです
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Repeat once more, "I love vegetables" is <break time='1s' />
+      <break time='1s'/>
+      .
+Again, the phrase "I want fish" translates as: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        私は野菜が大好きです
-      </mstts:prosody>
+          魚が欲しいです
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Great! To sum up, we learned to say "rice" which is <break time='1s' />
+      <break time='1s'/>
+      .
+
+This concludes our lesson on basic food items. We have learned that rice is 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ご飯
-      </mstts:prosody>
+          ご飯
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> , "fish" which is <break time='1s' />
+      <break time='1s'/>
+      , fish is 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        魚
-      </mstts:prosody>
+          魚
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> , "meat" which is <break time='1s' />
+      <break time='1s'/>
+      , meat is 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        肉
-      </mstts:prosody>
+          肉
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> and "vegetables" which is <break time='1s' />
+      <break time='1s'/>
+       and vegetables are 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        野菜
-      </mstts:prosody>
+          野菜
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Great work on pushing your Japanese language skills forward.
+      . We also learned how to use them in sentences. Great job, and keep practicing!
     </lang>
   </voice>
 </speak>

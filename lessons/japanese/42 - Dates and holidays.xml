@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome back to your Japanese studies, we're embarking on our 42nd lesson! In this session, we will focus on learning how to ask and talk about dates and holidays in Japanese.
+      Welcome to the next instalment of your Japanese learning journey. In this lesson, we will build on what you've most recently learned about times of the day, days of the week, and months. We will focus on asking and telling dates and introducing some common holidays.
 
-Let's introduce a crucial question, "What's the date today?" In Japanese you would say: 
+Let's start with how to ask "What's the date today?" in Japanese. The sentence is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ Let's introduce a crucial question, "What's the date today?" In Japanese you wou
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's break this down: 
+      . Let's break that down. 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,7 +32,7 @@ Let's introduce a crucial question, "What's the date today?" In Japanese you wou
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       means 'today', 
+       means 'today'. 
       <break time='1s'/>
     </lang>
   </voice>
@@ -46,7 +46,7 @@ Let's introduce a crucial question, "What's the date today?" In Japanese you wou
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       denotes 'what date', and 
+       means 'what day' or 'what date', and 
       <break time='1s'/>
     </lang>
   </voice>
@@ -60,7 +60,7 @@ Let's introduce a crucial question, "What's the date today?" In Japanese you wou
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       is the question-indicating phrase. So combined, 
+       is a polite ending for a question. Let's say the full sentence again: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -74,194 +74,210 @@ Let's introduce a crucial question, "What's the date today?" In Japanese you wou
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       translates to 'What's the date today?'
+      .
 
-Next, let's learn to ask "When is...". This is particularly useful when you want to know when a specific event or holiday is. For example, "When is New Year's?". In Japanese, this would be: 
+Now, to tell the date, for instance saying "It's December 1st", you can say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          新年はいつですか
+          12月1日です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more: 
+      . Again, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          新年
+          12月
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       means 'New Year', 
+       means 'December'. 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          は
+          1日
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       is a topic marker, 
+       means 'the first day', and 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          いつですか
+          です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       translates to 'when is'. So altogether, 
+       is 'it is'. Once more, "It's December 1st" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          新年はいつですか
+          12月1日です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       means 'When is New Year's?'
+      .
 
-The last phrase we'll learn today is "I'm here for...". This can be employed in various situations where you're specifying a reason for being somewhere. For example, "I'm here for the summer festival," would be said like this: 
+Next, to ask when a specific event is, such as "When is New Year's Day?" you can say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          夏祭りに来ました
+          元日は何日ですか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeating that, 
+      ? Here, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          夏祭り
+          元日
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       denotes 'summer festival', 
+       is 'New Year's Day'. Then, you know already that 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          に
+          何日ですか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       is the directional particle, and 
+       is 'when is'. So the full sentence, "When is New Year's Day?" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          来ました
+          元日は何日ですか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       is the past form of 'to come', making the sentence 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          夏祭りに来ました
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , 'I came for the summer festival.'
+      .
 
-Great work, today we've learned how to ask: 'What's the date today?' - 
+Lastly, if you arrive for a festival and want to say "I'm here for the festival", you can say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          今日は何日ですか
+          私は祭りのためにここにいます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'When is...' - 
+      . In that sentence, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ...はいつですか
+          私は
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and how to mention why you are in a certain place 'I'm here for...' - 
+       means 'I'. 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ...に来ました
+          祭りのために
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Our conversations can now delve into time, dates, and expressing purpose of visit in Japanese! Practice these phrases and we'll continue building our vocabulary and sentence structures next time. Until then, keep practicing and happy learning!
+      <break time='1s'/>
+       means 'for the festival', and 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ここにいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       is 'am here'. So, "I'm here for the festival" in Japanese is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は祭りのためにここにいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      .
+
+That concludes this lesson on dates and holidays in Japanese. You can now ask about and say dates, as well as express your reason for being somewhere, such as a festival. In the next lesson, we will continue expanding your conversational skills. Happy learning!
     </lang>
   </voice>
 </speak>

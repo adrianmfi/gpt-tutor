@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we're diving deeper into place words in Japanese: Here, there, and over there. 
+      In this lesson, we’re reviewing and consolidating your understanding of basic location words in Japanese: Here, there, and over there. 
 
-We will start with the Japanese word for 'Here', which is 
+First, we're revisiting the term for "here". In Japanese, "here" is expressed with the word: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,8 +18,7 @@ We will start with the Japanese word for 'Here', which is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-That's how you say 'Here' in Japanese: 
+      . Once more, "here" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -33,30 +32,28 @@ That's how you say 'Here' in Japanese:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Now, let's use it in a context: "Look here" in Japanese you can say: 
+      . So, if you were to say "It's here," you would use the phrase: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ここを見て
+          ここです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-Repeat after me, 'Look here' is: 
+      . Let's repeat that, "It's here" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ここを見て
+          ここです
         </mstts:prosody>
     </lang>
   </voice>
@@ -65,7 +62,7 @@ Repeat after me, 'Look here' is:
       <break time='1s'/>
       .
 
-Next, is the word for 'There', which in Japanese is: 
+Now, let's move on to "there". The Japanese term for "there" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -79,8 +76,7 @@ Next, is the word for 'There', which in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-Once more, 'There' is: 
+      . Again, "there" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -94,30 +90,28 @@ Once more, 'There' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-An example of how to use 'There' is saying "it is there", translates to: 
+      . If you need to say "It's there," the phrase would be: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          それはそこです
+          そこです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-Let's try that again. 'It is there' is: 
+      . Repeating for clarity: "It's there" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          それはそこです
+          そこです
         </mstts:prosody>
     </lang>
   </voice>
@@ -126,7 +120,7 @@ Let's try that again. 'It is there' is:
       <break time='1s'/>
       .
 
-Lastly, we have the phrase for 'Over there', which is 
+Lastly, we’ll review the word for "over there". "Over there" in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -140,8 +134,7 @@ Lastly, we have the phrase for 'Over there', which is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese.
-Say it again, 'Over there' is: 
+      . Once more, "over there" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -155,30 +148,28 @@ Say it again, 'Over there' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-You would use 'Over there' in a sentence like "The store is over there". In Japanese, that would be: 
+      . To say "It's over there", you would state: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          店はあそこです
+          あそこです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-Let's rehearse that once more: 'The store is over there' is: 
+      . Let’s repeat that: "It's over there" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          店はあそこです
+          あそこです
         </mstts:prosody>
     </lang>
   </voice>
@@ -187,7 +178,7 @@ Let's rehearse that once more: 'The store is over there' is:
       <break time='1s'/>
       .
 
-In this lesson, we've learned how to say 'Here' as 
+In summary, we have reinforced our understanding of how to say "here" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -201,7 +192,7 @@ In this lesson, we've learned how to say 'Here' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'There' as 
+      , "there" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -215,7 +206,7 @@ In this lesson, we've learned how to say 'Here' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'Over there' as 
+       and "over there" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -229,8 +220,8 @@ In this lesson, we've learned how to say 'Here' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
        in Japanese.
-It will be useful to practice these words and sentences to master these basic location words. Happy studying!
 
+Handle these terms comfortably as they often play crucial roles in various day-to-day conversations in Japanese. The next round of lessons will focus on counting in Japanese, starting from one to ten. Till then, keep practicing!
     </lang>
   </voice>
 </speak>

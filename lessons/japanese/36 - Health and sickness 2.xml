@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we'll focus on expressing the need for medicine and rest, as well as asking where the pharmacy is in Japanese. 
+      Let's continue our focus on health and sickness with our Japanese language lesson. Today, we'll be learning phrases related to needing medicine, finding a pharmacy, and the need to rest. 
 
-Our first phrase is "I need medicine". In Japanese, that translates to 
+First, we will explore how to communicate "I need medicine". In Japanese, it can be said as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ Our first phrase is "I need medicine". In Japanese, that translates to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .  Let's break that down: 薬 is 'medicine', が is a particle, 必要 is 'necessary', and です is the polite form of 'to be'. Altogether, 
+      . Once more, "I need medicine" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,30 +32,28 @@ Our first phrase is "I need medicine". In Japanese, that translates to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       means 'Medicine is necessary', or more naturally in English, 'I need medicine'. 
-
-Now let's practice that phrase. Repeat after me: 
+      . For practice, let's use it in a sentence: "I have a headache and I need medicine." The translation in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          薬が必要です
+          頭痛があり、薬が必要です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Good. Once again, "I need medicine" is 
+      . Repeating, "I have a headache and I need medicine": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          薬が必要です
+          頭痛があり、薬が必要です
         </mstts:prosody>
     </lang>
   </voice>
@@ -64,7 +62,7 @@ Now let's practice that phrase. Repeat after me:
       <break time='1s'/>
       .
 
-Next up is "Where is the pharmacy". In Japanese, this is 
+Moving on, if you want to ask "Where is the pharmacy?", you can ask: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -78,7 +76,7 @@ Next up is "Where is the pharmacy". In Japanese, this is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Breaking this down: 薬局 is 'pharmacy', は is a particle, どこ is 'where', and ですか constructs the question that we want to ask. All together, 
+      . Again, "Where is the pharmacy?" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -92,90 +90,28 @@ Next up is "Where is the pharmacy". In Japanese, this is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       means 'Where is the pharmacy'. 
-
-Try saying it out loud: 
+      . Let's pair this new phrase with a sentence you've learned earlier. How about: "I need medicine, where is the pharmacy?" In Japanese, it's: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          薬局はどこですか
+          薬が必要です、薬局はどこですか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Good. One more time: "Where is the pharmacy" is 
+      . And let's repeat that: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          薬局はどこですか
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-Lastly, let's learn how to say "I need to rest". In Japanese, it's 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          休む必要があります
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Here, 休む is 'to rest', 必要 is 'necessary', が is a particle, あります is the formal form of 'to exist'. Together, 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          休む必要があります
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       roughly translates to 'There is a need to rest' but is typically understood as 'I need to rest'. 
-
-Give it a try: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          休む必要があります
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Well done. Remember, "I need to rest" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          休む必要があります
+          薬が必要です、薬局はどこですか
         </mstts:prosody>
     </lang>
   </voice>
@@ -184,7 +120,65 @@ Give it a try:
       <break time='1s'/>
       .
 
-We have now covered how to say 'I need medicine' as 
+Lastly, when you're not feeling well and you need to express "I need to rest", you can say this as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          休む必要があります
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Again, "I need to rest" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          休む必要があります
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Here's a conversation snippet to provide context: "I have a stomachache. I need to rest." In Japanese: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          胃痛があります、休む必要があります
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Repeating: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          胃痛があります、休む必要があります
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Today, we learned how to say "I need medicine" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -198,7 +192,7 @@ We have now covered how to say 'I need medicine' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Where is the pharmacy' as 
+      , "Where is the pharmacy?" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -212,7 +206,7 @@ We have now covered how to say 'I need medicine' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'I need to rest' as 
+      , and "I need to rest" as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -225,7 +219,7 @@ We have now covered how to say 'I need medicine' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Keep practicing these phrases and you're well on your way to being prepared for any health-related situation that might arise in Japan.
+      . Keep practicing these phrases to solidify your learning, and remember to rest well when you're not feeling well!
     </lang>
   </voice>
 </speak>

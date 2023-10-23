@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will expand your sports vocabulary in Japanese and focus on the terms for 'running', 'cycling', 'hiking', and 'yoga'. 
+      Welcome to your Japanese lesson on Sports. Today we'll be learning words related to running, cycling, hiking, and yoga. 
 
-Let's start with 'running'. The word for running in Japanese is 
+First, let's start with the word for running in Japanese: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,7 +19,7 @@ Let's start with 'running'. The word for running in Japanese is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's practice. The word 'running' is: 
+Once more, running is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,14 +34,14 @@ Let's practice. The word 'running' is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-In a sentence, you could say: "I like running.", which in Japanese is: 
+For example, saying "I'm going for a run" could translate as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は走るのが好きです
+          走りに行きます
         </mstts:prosody>
     </lang>
   </voice>
@@ -49,14 +49,14 @@ In a sentence, you could say: "I like running.", which in Japanese is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once more, "I like running" is: 
+Repeating, "I'm going for a run" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は走るのが好きです
+          走りに行きます
         </mstts:prosody>
     </lang>
   </voice>
@@ -65,7 +65,7 @@ Once more, "I like running" is:
       <break time='1s'/>
       .
 
-Next, we have the word for 'cycling'. In Japanese, 'cycling' is said as: 
+Next, we have cycling. In Japanese, it's: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,7 +80,7 @@ Next, we have the word for 'cycling'. In Japanese, 'cycling' is said as:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'cycling' is: 
+Let's repeat that, cycling is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -94,15 +94,15 @@ Again, 'cycling' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-A relevant phrase would be: "I go cycling every day", which translates to: 
+      .
+You might say "I like cycling" which is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は毎日サイクリングに行きます
+          私はサイクリングが好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -110,14 +110,14 @@ A relevant phrase would be: "I go cycling every day", which translates to:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-And once more, "I go cycling every day" is: 
+Repeating, "I like cycling" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は毎日サイクリングに行きます
+          私はサイクリングが好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -126,7 +126,7 @@ And once more, "I go cycling every day" is:
       <break time='1s'/>
       .
 
-Moving on to 'hiking', the Japanese term for which is 
+Moving on, the Japanese word for hiking is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -141,7 +141,7 @@ Moving on to 'hiking', the Japanese term for which is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-To repeat: 'hiking' is: 
+Again: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -156,14 +156,14 @@ To repeat: 'hiking' is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-For instance, to say "I will go hiking", you would say: 
+A sentence like "Let's go hiking tomorrow", translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はハイキングに行きます
+          明日、ハイキングに行きましょう
         </mstts:prosody>
     </lang>
   </voice>
@@ -171,14 +171,14 @@ For instance, to say "I will go hiking", you would say:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's practice that once more: "I will go hiking" is: 
+Again, "Let's go hiking tomorrow" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はハイキングに行きます
+          明日、ハイキングに行きましょう
         </mstts:prosody>
     </lang>
   </voice>
@@ -187,7 +187,7 @@ Let's practice that once more: "I will go hiking" is:
       <break time='1s'/>
       .
 
-Finally, let's learn 'yoga'. In Japanese, it is said as: 
+Finally, we come to yoga. Yoga in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -202,7 +202,7 @@ Finally, let's learn 'yoga'. In Japanese, it is said as:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Repeating: the word 'yoga' is: 
+One more time with yoga: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -217,14 +217,14 @@ Repeating: the word 'yoga' is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-To put it in a sentence, "I do yoga in the morning" would be translated as: 
+If you were to say "I practice yoga every morning", it would translate as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は朝ヨガをします
+          毎朝、ヨガを練習します
         </mstts:prosody>
     </lang>
   </voice>
@@ -232,14 +232,14 @@ To put it in a sentence, "I do yoga in the morning" would be translated as:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once again: "I do yoga in the morning" is: 
+Again, "I practice yoga every morning" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は朝ヨガをします
+          毎朝、ヨガを練習します
         </mstts:prosody>
     </lang>
   </voice>
@@ -248,7 +248,7 @@ Once again: "I do yoga in the morning" is:
       <break time='1s'/>
       .
 
-By the end of this lesson, we've learned the Japanese terms for 'running' as 
+We have now learned how to say running as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -262,7 +262,7 @@ By the end of this lesson, we've learned the Japanese terms for 'running' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'cycling' as 
+      , cycling as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -276,7 +276,7 @@ By the end of this lesson, we've learned the Japanese terms for 'running' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'hiking', as 
+      , hiking as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -290,7 +290,7 @@ By the end of this lesson, we've learned the Japanese terms for 'running' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'yoga' as 
+      , and yoga as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -303,7 +303,9 @@ By the end of this lesson, we've learned the Japanese terms for 'running' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      .
+      . Practice these words and sentences until you feel comfortable with them.
+
+That concludes your lesson on Sports in Japanese. Keep practicing, and we'll continue building up your vocabulary and sentences. See you in your next lesson!
     </lang>
   </voice>
 </speak>

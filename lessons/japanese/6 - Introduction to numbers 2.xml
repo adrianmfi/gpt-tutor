@@ -2,9 +2,10 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we're continuing with numbers in Japanese, specifically the numbers 11 through to 20.
+      Welcome to your next step in learning Japanese. In this lesson, we will be focusing on the numbers 11 through 20.
 
-Let's begin with 'eleven'. In Japanese, eleven is 
+Let's jump straight into it.
+To say: eleven, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,49 +19,8 @@ Let's begin with 'eleven'. In Japanese, eleven is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Now, you might notice something interesting. If you remember, ten in Japanese is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       and one is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          一
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 'Eleven' is simply these two numbers together: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十一
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , which is quite literal: 'ten-one'. So, break it down and try saying it: 
+      .
+Say it with me now: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +36,7 @@ Let's begin with 'eleven'. In Japanese, eleven is
       <break time='1s'/>
       .
 
-Moving on to 'twelve', which is 
+The next number: twelve, is said as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,49 +50,8 @@ Moving on to 'twelve', which is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Just like eleven, 'twelve' follows the same rule. It's 'ten' (
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      ) + 'two' (
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          二
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      ) = 'twelve' (
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十二
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Repeat: 
+      .
+Repeating for reinforcement: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,11 +67,11 @@ Moving on to 'twelve', which is
       <break time='1s'/>
       .
 
-The same pattern follows through all the way to nineteen. So, to say the numbers thirteen to nineteen in Japanese, you just add the corresponding number to 'ten', as we did with eleven and twelve. 
+Interestingly, you might have noticed a pattern here. The Japanese numbers 11 through 19 are created by combining "十", the word for ten, with the number from 1 to 9. 
 
-Here's the list, try to repeat each number after me:
+Now, let's wrap up the rest of the numbers. 
 
-Thirteen is: 
+Thirteen is pronounced: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -167,7 +86,7 @@ Thirteen is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Fourteen is: 
+Fourteen is pronounced: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -182,7 +101,7 @@ Fourteen is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Fifteen is: 
+The number fifteen is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -212,7 +131,7 @@ Sixteen is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Seventeen is: 
+To say seventeen, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -242,7 +161,7 @@ Eighteen is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-And finally, nineteen is: 
+Nineteen is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -258,7 +177,9 @@ And finally, nineteen is:
       <break time='1s'/>
       .
 
-Now, when you reach 'twenty', you will notice that the format is slightly different. 'Twenty' in Japanese is 
+By following this pattern, you can now comfortably express numbers from 11 to 19 in Japanese. 
+
+Lastly, the number: twenty, is expressed as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -272,49 +193,8 @@ Now, when you reach 'twenty', you will notice that the format is slightly differ
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . This time, the number 'two' (
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          二
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      ) comes before 'ten' (
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      ). So, 'twenty' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          二十
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , which reads like 'two-ten'. Repeat it once more: 
+      .
+Once again, twenty is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -329,7 +209,9 @@ Now, when you reach 'twenty', you will notice that the format is slightly differ
     <lang xml:lang="en-US">
       .
 
-Reviewing, we now know 1-20 in Japanese. This will come in handy when we start to learn how to tell the time, buy quantities, and more, in our upcoming lessons. Practice reviewing your new vocabulary. Happy learning!
+You have now learned how to count from 11 to 20! Try practicing with various combinations of these numbers to improve your memory and pronunciation. We will continue to build on these as we further enhance your verbal Japanese Counting skills.
+
+That concludes our lesson. Keep practicing these numbers and your pronunciation will improve. Until our next lesson, happy learning!
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your learning Japanese lesson on "History 2: War, Peace, King, Queen." You've already learned some terms about art and different periods in history. Now let's take it a step further by looking into more specific historical terms.
+      Welcome to your 91st Japanese language lesson. In this lesson, you will build on your historical knowledge by incorporating new vocabulary focused on wartime and peacetime history, as well as royal hierarchies. Let's get started.
 
-Let's tackle 'war' first. In Japanese, the term for 'war' is 
+Let us begin with the word for war which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,7 +19,7 @@ Let's tackle 'war' first. In Japanese, the term for 'war' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Practicing the word. 'war' is 
+Repeat after me: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -34,14 +34,29 @@ Practicing the word. 'war' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Here's an example sentence: "I'm studying about the war." or in Japanese, 
+For instance, the sentence "War is tragic" translates to 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は戦争について勉強しています
+          戦争は悲劇です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Again, "War is tragic" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          戦争は悲劇です
         </mstts:prosody>
     </lang>
   </voice>
@@ -50,7 +65,7 @@ Here's an example sentence: "I'm studying about the war." or in Japanese,
       <break time='1s'/>
       .
 
-Next, we have the word for 'peace'. In Japanese, 'peace' is 
+Now let us move on to the word for peace, which in Japanese, is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -65,7 +80,7 @@ Next, we have the word for 'peace'. In Japanese, 'peace' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's practice saying 'peace' - 
+Say it once more: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,14 +95,29 @@ Let's practice saying 'peace' -
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-For a phrase, let's use: "We hope for peace." Or in Japanese: 
+To say "Peace is precious", you say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私たちは平和を望んでいます
+          平和は貴重です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating, "Peace is precious" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          平和は貴重です
         </mstts:prosody>
     </lang>
   </voice>
@@ -96,7 +126,7 @@ For a phrase, let's use: "We hope for peace." Or in Japanese:
       <break time='1s'/>
       .
 
-Now, let's move on to royal terms. The word for 'king' in Japanese is 
+Next, we'll look at royalty. The term for king in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -111,7 +141,7 @@ Now, let's move on to royal terms. The word for 'king' in Japanese is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Practicing the word: 'king' is 
+Again, king is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -126,14 +156,29 @@ Practicing the word: 'king' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-A sample sentence would be: "The king issued a decree", which translates to 
+For instance, to say "The king is wise", you say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          王は布告を発行しました
+          王は賢いです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Once more, "The king is wise" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          王は賢いです
         </mstts:prosody>
     </lang>
   </voice>
@@ -142,7 +187,7 @@ A sample sentence would be: "The king issued a decree", which translates to
       <break time='1s'/>
       .
 
-Finally, we get to 'queen'. In Japanese, a 'queen' is called 
+Finally, let's learn the word for queen, which is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -157,7 +202,7 @@ Finally, we get to 'queen'. In Japanese, a 'queen' is called
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-To practice: the word 'queen' is 
+Let's say it again: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -172,14 +217,29 @@ To practice: the word 'queen' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's wrap up with: "The queen gave a speech", in Japanese, it would be: 
+For example, the sentence "The queen is beautiful" can be said in Japanese as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          女王が演説をしました
+          女王は美しいです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating, "The queen is beautiful" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          女王は美しいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -188,7 +248,7 @@ Let's wrap up with: "The queen gave a speech", in Japanese, it would be:
       <break time='1s'/>
       .
 
-That brings us to the end of this lesson where we've discussed 'war' as 
+Excellent work! Today, we've learned how to say war as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -202,7 +262,7 @@ That brings us to the end of this lesson where we've discussed 'war' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'peace' as 
+      , peace as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -216,7 +276,7 @@ That brings us to the end of this lesson where we've discussed 'war' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'king' as 
+      , king as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -230,7 +290,7 @@ That brings us to the end of this lesson where we've discussed 'war' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'queen' as 
+       and queen as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -243,9 +303,7 @@ That brings us to the end of this lesson where we've discussed 'war' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       in Japanese.
-
-Excellent job today, and keep practicing!
+       in Japanese. Keep practicing these new words and see if you can incorporate them into your conversations. Until our next lesson, keep practicing and exploring the Japanese language.
     </lang>
   </voice>
 </speak>

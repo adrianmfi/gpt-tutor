@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we venture into the athletic world and learn about sports in Japanese, covering favorites like baseball, soccer, tennis, and swimming.
+      This lesson will delve into the world of sports in Japanese, focusing specifically on baseball, soccer, tennis, and swimming.
 
-First up, let's begin with 'baseball'. In Japanese, it's called 
+Our first sport is baseball, which is typically referred to as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ First up, let's begin with 'baseball'. In Japanese, it's called
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, 'baseball' in Japanese is: 
+      . Say it once more: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +32,28 @@ First up, let's begin with 'baseball'. In Japanese, it's called
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, to say "I like baseball", you would say 
+      . Let's build a sentence "I'm going to watch baseball", this would be conveyed as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は野球が好きです
+          野球を見に行きます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat that, "I like baseball" is 
+      . Repeating that sentence: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は野球が好きです
+          野球を見に行きます
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +62,7 @@ First up, let's begin with 'baseball'. In Japanese, it's called
       <break time='1s'/>
       .
 
-Moving on to 'soccer'. Soccer in Japanese is referred to as 
+Next up is soccer, or in Japanese: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +76,7 @@ Moving on to 'soccer'. Soccer in Japanese is referred to as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, 'soccer' is: 
+      . Again, soccer is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,7 +90,7 @@ Moving on to 'soccer'. Soccer in Japanese is referred to as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A useful sentence might be "I play soccer", which translates to: 
+      . In a sentence, if you wish to express "I play soccer", you could say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -104,7 +104,7 @@ Moving on to 'soccer'. Soccer in Japanese is referred to as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, "I play soccer" in Japanese is 
+      . Practice this a few times: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -120,7 +120,7 @@ Moving on to 'soccer'. Soccer in Japanese is referred to as
       <break time='1s'/>
       .
 
-Next, we have 'tennis'. Tennis in Japanese is pronounced as 
+Moving along to tennis, the term in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +134,7 @@ Next, we have 'tennis'. Tennis in Japanese is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat that, 'tennis' is: 
+      . Repeat this word for practice: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,86 +148,28 @@ Next, we have 'tennis'. Tennis in Japanese is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, if you wanted to say "I want to play tennis". In Japanese, it would be 
+      . To use this word in a sentence, such as "I am playing tennis" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はテニスをしたい
+          私はテニスをしています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's try that again, "I want to play tennis" is 
+      . Let's say that again: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はテニスをしたい
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-Finally, we will learn about 'swimming'. In Japanese, swimming is called 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          泳ぎ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Again, 'swimming' is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          泳ぎ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . A practical sentence might be "I am swimming", which translates to: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は泳いでいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . One more time, "I am swimming" in Japanese is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は泳いでいます
+          私はテニスをしています
         </mstts:prosody>
     </lang>
   </voice>
@@ -236,7 +178,65 @@ Finally, we will learn about 'swimming'. In Japanese, swimming is called
       <break time='1s'/>
       .
 
-That concludes our lesson on basic sports in Japanese. Now you can talk about baseball as 
+Finally, swimming in Japanese is spoken as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          水泳
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Practice this word: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          水泳
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . If you were to say "I like swimming", this could be expressed as: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は水泳が好きです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Repeat that phrase a few times: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は水泳が好きです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+In summary, we learned the terms for sports like baseball: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,7 +250,7 @@ That concludes our lesson on basic sports in Japanese. Now you can talk about ba
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , soccer as 
+      , soccer: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -264,7 +264,7 @@ That concludes our lesson on basic sports in Japanese. Now you can talk about ba
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , tennis as 
+      , tennis: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,21 +278,20 @@ That concludes our lesson on basic sports in Japanese. Now you can talk about ba
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and swimming as 
+      , and swimming: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          泳ぎ
+          水泳
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       in Japanese. Keep practicing and we'll see you in the next lesson.
-
+       in Japanese. Practice these words and sample sentences as they can come handy in connecting with the local sports enthusiasts.
     </lang>
   </voice>
 </speak>

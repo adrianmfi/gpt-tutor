@@ -2,23 +2,53 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your Japanese lesson 51 about countries and nationalities: “I’m from”, “I’m”, “I live in”.
+      In this lesson, we will learn how to talk about countries and nationalities in Japanese. We will cover phrases such as "I'm from", "I'm", and "I live in". 
 
-Building on your current knowledge, remember that "I" in Japanese is 
+Let's start with the phrase "I'm from". In Japanese, we use the word 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私
+          出身
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and "am" is 
+      , pronounced "shusshin", followed by the country name. For instance, to say "I'm from America", we would say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はアメリカ出身です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Repeat after me: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はアメリカ出身です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . 
+
+Next, let's move on to the phrase "I'm". In Japanese, we don't often directly translate "I'm"; instead, we use the verb 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,7 +62,7 @@ Building on your current knowledge, remember that "I" in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . So let's start by saying "I am" in our context. In Japanese, "I'm American" would be 
+       ("desu") which acts a bit like "am" or "is". Let's use this in context. To say "I'm American", we would say 
       <break time='1s'/>
     </lang>
   </voice>
@@ -46,7 +76,7 @@ Building on your current knowledge, remember that "I" in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat it again, "I'm American" is 
+      . Repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -62,88 +92,56 @@ Building on your current knowledge, remember that "I" in Japanese is
       <break time='1s'/>
       . 
 
-Now let's learn how to state where you're from. In Japanese, "I'm from America" will be 
+Lastly, we will cover the phrase "I live in". In Japanese, this is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はアメリカ出身です
+          住む
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once more, "I'm from America" is 
+      , pronounced "sumu". However, when we want to say where we live, it becomes 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はアメリカ出身です
+          に住んでいます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-
-Next, let's cover how to say where you live. "I live in America" is 
+      , pronounced "ni sunde imasu". For example, to say "I live in Japan", it would be 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はアメリカに住んでいます
+          私は日本に住んでいます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, "I live in America" is 
+      . Let's practice: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はアメリカに住んでいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-In our next example, let's use Japan. So, if you want to say "I'm Japanese", you say 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本人です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Practice it one more time, "I'm Japanese": 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本人です
+          私は日本に住んでいます
         </mstts:prosody>
     </lang>
   </voice>
@@ -151,82 +149,9 @@ In our next example, let's use Japan. So, if you want to say "I'm Japanese", you
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
- 
-Now, if you want to say "I'm from Japan", the phrase is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本出身です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Once again, "I'm from Japan" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本出身です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
 
-Similarly, "I live in Japan" translates to 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本に住んでいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . One more time, "I live in Japan" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は日本に住んでいます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-To summarize, with this lesson we learned how to say where we live, where we are from, and our nationality. Such as "I'm American": 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はアメリカ人です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , "I'm from America": 
+To recap today's lesson, we learned the following phrases:
+"I'm from America": 
       <break time='1s'/>
     </lang>
   </voice>
@@ -240,25 +165,38 @@ To summarize, with this lesson we learned how to say where we live, where we are
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and "I live in America": 
+       
+"I'm American": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はアメリカに住んでいます
+          私はアメリカ人です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       with similar phrases for being Japanese. 
+      <break time='1s'/>
+       
+"I live in Japan": 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は日本に住んでいます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      
 
-Keep practicing these sentences and replace the country/nationality as needed. This will help you confidently talk about your nationality and residence in Japanese. 
-
-This concludes the lesson on talking about countries and nationalities in Japanese. Keep practicing and see you in the next lesson.
-
+That ends our lesson on how to talk about countries and nationalities in Japanese. Till next time!
     </lang>
   </voice>
 </speak>

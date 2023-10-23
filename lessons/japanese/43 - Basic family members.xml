@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will be focusing on naming basic family members - specifically mother, father, brother, and sister, in Japanese. This will be a good opportunity to expand your vocabulary and make your Japanese expressions more natural and complete.
+      Welcome to Japanese lesson 43. This lesson covers basic family terms, focusing on mother, father, brother, and sister. Let's dive in.
 
-To begin with, let's cover the term 'mother'. In Japanese, this is pronounced as: 
+Starting with mother, in Japanese mother is referred to as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ To begin with, let's cover the term 'mother'. In Japanese, this is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Once again, 'mother' in Japanese is: 
+      . Let's repeat, mother is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +32,30 @@ To begin with, let's cover the term 'mother'. In Japanese, this is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, you could use it in a sentence: "This is my mother", which translates to: 
+      .
+When you want to say "This is my mother," in Japanese, you say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これが私のお母さんです
+          これは私のお母さんです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Make sure to listen carefully to the pronunciation and try to repeat it:
+      .
+One more time, "This is my mother" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これが私のお母さんです
+          これは私のお母さんです
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +64,7 @@ To begin with, let's cover the term 'mother'. In Japanese, this is pronounced as
       <break time='1s'/>
       .
 
-Next, let's learn the word for 'father'. 'Father' in Japanese is: 
+Next is father. The word for father in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +78,8 @@ Next, let's learn the word for 'father'. 'Father' in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, 'father' in Japanese is said as: 
+      .
+Let's practice, father is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,28 +93,30 @@ Next, let's learn the word for 'father'. 'Father' in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . The sentence "This is my father" would translate to: 
+      .
+In a sentence, "This is my father" you say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これが私のお父さんです
+          これは私のお父さんです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me: 
+      .
+Remember, "This is my father" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          これが私のお父さんです
+          これは私のお父さんです
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,7 +125,7 @@ Next, let's learn the word for 'father'. 'Father' in Japanese is:
       <break time='1s'/>
       .
 
-Now, let's move on to siblings. The word for 'brother' in Japanese is: 
+Let's proceed with siblings. The Japanese word for brother is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,21 +139,8 @@ Now, let's move on to siblings. The word for 'brother' in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       for older brother and 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          弟
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       for younger brother.  Try to pronounce 'older  brother' again, it's: 
+      .
+Say it with me, brother is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -162,67 +154,39 @@ Now, let's move on to siblings. The word for 'brother' in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . And 'younger brother' is: 
+      .
+In a sentence, "This is my brother", you say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          弟
+          これは私の兄です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
+Again, "This is my brother" in Japanese is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これは私の兄です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-In a sentence context, we could say "My older brother is tall", this translates to: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私の兄は高いです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Go ahead, say it out loud:
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私の兄は高いです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-Lastly, we will learn the word for 'sister'. 'Older sister' in Japanese is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          姉
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       and 'younger sister' is 
+Now to the term sister which is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -236,21 +200,8 @@ Lastly, we will learn the word for 'sister'. 'Older sister' in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, 'older sister' is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          姉
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       and 'younger sister' is: 
+       in Japanese. 
+Let's practice that, sister is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -265,29 +216,29 @@ Lastly, we will learn the word for 'sister'. 'Older sister' in Japanese is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-To use this in a sentence, "My younger sister is cute" translates to: 
+To say "This is my sister", it's: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の妹は可愛いです
+          これは私の妹です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice that: 
+      .
+Repeating, "This is my sister" is expressed as: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の妹は可愛いです
+          これは私の妹です
         </mstts:prosody>
     </lang>
   </voice>
@@ -296,7 +247,7 @@ To use this in a sentence, "My younger sister is cute" translates to:
       <break time='1s'/>
       .
 
-Bravo, we've covered the basic terms for immediate family members in Japanese. Keep practicing these new terms as they are fundamental in having conversations about family in Japanese. Remember these terms: 'mother' is 
+From today's lesson we have learned how to say mother as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -310,7 +261,7 @@ Bravo, we've covered the basic terms for immediate family members in Japanese. K
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'father' is 
+      , father as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -324,7 +275,7 @@ Bravo, we've covered the basic terms for immediate family members in Japanese. K
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 'Older brother' and 'younger brother' are 
+      , brother as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -338,35 +289,7 @@ Bravo, we've covered the basic terms for immediate family members in Japanese. K
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          弟
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       respectively. Lastly, 'older sister' and 'younger sister' are 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          姉
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       and 
+      , and sister as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -379,7 +302,9 @@ Bravo, we've covered the basic terms for immediate family members in Japanese. K
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . See you in the next lesson where we will continue our exploration of the Japanese language together.
+       in Japanese. 
+
+That wraps up our lesson on basic family terms in Japanese. Well done!
     </lang>
   </voice>
 </speak>

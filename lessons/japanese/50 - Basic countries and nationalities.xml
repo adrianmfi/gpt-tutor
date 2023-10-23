@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your 50th language lesson in Japanese. In this lesson, we focus on basic countries and nationalities, specifically those of America and Japan. 
+      In this lesson, we'll be introducing the words for America, Japan, American, and Japanese in the Japanese language. Let's jump right in.
 
-Let's begin with how to say the names of these two countries in Japanese. 'America' in Japanese is translated as 
+First up is the word for America. In Japanese, it's pronounced as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ Let's begin with how to say the names of these two countries in Japanese. 'Ameri
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it out loud: 
+      .
+Let's repeat that. America is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,9 +33,39 @@ Let's begin with how to say the names of these two countries in Japanese. 'Ameri
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Excellent! 
+      .
+For example, "I'm from America" translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はアメリカから来ました
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . 
+Again, "I'm from America" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はアメリカから来ました
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Now, let's move on to 'Japan'. In Japanese, you say 'Japan' as 
+Next is the word for Japan. In Japanese, it is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -48,7 +79,8 @@ Now, let's move on to 'Japan'. In Japanese, you say 'Japan' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying it: 
+      .
+Repetition reinforces learning, so let's say that again. Japan is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -62,9 +94,39 @@ Now, let's move on to 'Japan'. In Japanese, you say 'Japan' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Good job!
+      .
+As an example, to say "I want to travel to Japan", you would say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は日本に旅行したい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Restating that, "I want to travel to Japan" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は日本に旅行したい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
 
-Next, we will learn how to refer to the people from these countries. 'American' in Japanese is 
+Now let's move on to nationalities. American in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -78,7 +140,8 @@ Next, we will learn how to refer to the people from these countries. 'American' 
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's hear it: 
+      .
+Say it with me, American is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -92,40 +155,8 @@ Next, we will learn how to refer to the people from these countries. 'American' 
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . That's correct!
-
-Let's not forget 'Japanese'. To say 'Japanese' as relating to a person in Japanese, you say 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          日本人
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Go ahead and say it: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          日本人
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Well done!
-
-To incorporate these words into a sentence, here are some examples:
-If you want to say "I'm American" the phrase in Japanese is 
+      .
+If you need to express that "I am an American", you can say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -139,8 +170,8 @@ If you want to say "I'm American" the phrase in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Try out: 
+      .
+Again, "I am an American" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -156,29 +187,59 @@ Try out:
       <break time='1s'/>
       .
 
-Supposing you are in Tokyo and you meet a local. You can ask, "Are you Japanese?" This translates to: 
+Lastly, we'll learn how to say Japanese in Japanese. It's: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          あなたは日本人ですか?
+          日本人
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Practice it: 
+      .
+Once more, Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          あなたは日本人ですか?
+          日本人
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+If a person is Japanese, they would say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は日本人です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating that sentence, "I am Japanese" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は日本人です
         </mstts:prosody>
     </lang>
   </voice>
@@ -187,7 +248,7 @@ Practice it:
       <break time='1s'/>
       .
 
-To conclude, we have learned how to say 'America' as 
+In this lesson, you've learned how to say America as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -201,7 +262,7 @@ To conclude, we have learned how to say 'America' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Japan' as 
+      , and Japan as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -215,7 +276,7 @@ To conclude, we have learned how to say 'America' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'American' as 
+      . You've also learnt how to say American as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -229,7 +290,7 @@ To conclude, we have learned how to say 'America' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and 'Japanese' as 
+       and Japanese as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -242,7 +303,8 @@ To conclude, we have learned how to say 'America' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Good work, and let's keep building that vocabulary.
+      . Keep practicing these terms, and in no time, you'll have them down pat.
+This concludes our lesson on basic countries and nationalities in Japanese. Until the next time!
     </lang>
   </voice>
 </speak>

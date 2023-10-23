@@ -2,71 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will delve into the world of music in the Japanese language. We will learn and practice using phrases like "I like", "I'm listening to" and "I'm going to a concert". 
+      In this lesson, we'll practice talking about music in Japanese, continuing from where we left off regarding your hobbies and preferences. Since you've already become familiar with expressions such as "I like", "I'm good at", and "I'm watching", we can start incorporating music vocabulary into your repertoire.
 
-Having recently discussed some music genres like pop, rock, jazz, and classical, let's use those terms in real-life scenarios. 
-
-Firstly, let's start with how to express your liking for a genre. In Japanese, to say "I like rock music", you would say 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はロック音楽が好きです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-Listen again: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はロック音楽が好きです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-The phrase consists of the words 'I' - 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , 'rock music' - 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ロック音楽
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , and 'like' - 
+Let's first tackle saying "I like". The phrase for "I like" in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,16 +18,14 @@ The phrase consists of the words 'I' -
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-
-Now, let's move to the phrase "I'm listening to classical music". In Japanese, this would be 
+      . To specify what you like, you put the object in front of this phrase. Now, let's say you like rock music. In Japanese, that would be: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はクラシック音楽を聴いています
+          ロック音楽が好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -97,15 +33,14 @@ Now, let's move to the phrase "I'm listening to classical music". In Japanese, t
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-
-Let's repeat that: 
+Once more, "I like rock music" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はクラシック音楽を聴いています
+          ロック音楽が好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -114,42 +49,43 @@ Let's repeat that:
       <break time='1s'/>
       .
 
-This phrase breaks down into 'I' - 
+Next up is "I'm listening to". In Japanese, the phrase for "I'm listening to" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は
+          聴いています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'classical music' - 
+      . And once again, the object goes in front. If, for example, you're listening to jazz, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          クラシック音楽
+          ジャズを聴いています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'am listening to' - 
+      .
+Repeating, "I'm listening to jazz" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          を聴いています
+          ジャズを聴いています
         </mstts:prosody>
     </lang>
   </voice>
@@ -158,67 +94,7 @@ This phrase breaks down into 'I' -
       <break time='1s'/>
       .
 
-Finally, to express that you are going to a jazz concert, you would say 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はジャズのコンサートに行きます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-And again: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はジャズのコンサートに行きます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-
-This sentence consists of 'I' - 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , 'jazz concert' - 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ジャズのコンサート
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , and 'am going to' - 
+Now, let's go over saying "I'm going to a". When referring to events like concerts, the phrase "I'm going to a" can be translated as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -231,9 +107,80 @@ This sentence consists of 'I' -
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
+      <break time='1s'/>
+      . You put the event you're going to in front of the phrase. So to say "I'm going to a concert", you would say: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          コンサートに行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Again, "I'm going to a concert" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          コンサートに行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
       .
 
-Remember, practice makes perfect! Keep practicing these phrases and soon you'll be able to express your music preferences and activities fluently in Japanese. That concludes our lesson on talking about music.
+With these phrases, you're now able to discuss your music interests in Japanese. Today, you've learned how to express liking a specific genre with 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          好きです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , stating what you are currently listening to with 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          聴いています
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and telling someone you're going to a music event with 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          に行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      . Keep practicing these phrases and tune in for the next lesson!
     </lang>
   </voice>
 </speak>

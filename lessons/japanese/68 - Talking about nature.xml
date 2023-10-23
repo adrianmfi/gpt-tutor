@@ -2,58 +2,61 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your next Japanese lesson, where we'll focus on talking about nature, honing phrases like "I like", "I want to go to" and describing something as beautiful.
+      Welcome to your 68th lesson in Japanese. In this session, we will learn how to converse about nature, using phrases like "I like", "I want to go to", and "It's beautiful".
 
-Let's start with sharing your appreciation for nature. We usually say "I like..." in Japanese as 
+We'll start off with "I like", which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は好きです
+          好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeating, "I like..." is 
+      . 
+Repeat after me: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は好きです
+          好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . But when we express our love for something specific in nature, we position it before 'like'. For example, for "I like flowers", we say: 
+      .
+For instance, to say, "I like mountains", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は花が好きです
+          山が好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again "I like flowers" is 
+      .
+Let's practice: "I like mountains" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は花が好きです
+          山が好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,42 +65,59 @@ Let's start with sharing your appreciation for nature. We usually say "I like...
       <break time='1s'/>
       .
 
-Next, expressing your desire to visit a specific place in nature. You have learned previously to say "I want to go to" as 
+Now let's learn "I want to go to". In Japanese, it's: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は行きたい
+          行きたい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's apply it: "I want to go to the forest" is 
+      .
+Again, it's: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は森に行きたい
+          行きたい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, the phrase "I want to go to the forest" is 
+      .
+To express "I want to go to the beach" in Japanese, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は森に行きたい
+          ビーチに行きたい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Repeating, "I want to go to the beach" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ビーチに行きたい
         </mstts:prosody>
     </lang>
   </voice>
@@ -106,42 +126,59 @@ Next, expressing your desire to visit a specific place in nature. You have learn
       <break time='1s'/>
       .
 
-Finally, let's express admiration for nature as being beautiful. The general structure to say something is beautiful in Japanese is 
+Lastly, we'll learn how to say "It's beautiful". In Japanese, that’s: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          それは美しいです
+          綺麗です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For example, "The sky is beautiful" is 
+      .
+Once more, "It's beautiful" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          空は美しいです
+          綺麗です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "The sky is beautiful" is 
+      .
+For instance, to say "The tree is beautiful", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          空は美しいです
+          木が綺麗です
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Let's practice: "The tree is beautiful" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          木が綺麗です
         </mstts:prosody>
     </lang>
   </voice>
@@ -150,48 +187,50 @@ Finally, let's express admiration for nature as being beautiful. The general str
       <break time='1s'/>
       .
 
-Congratulations! You have now learned how to express your liking for a particular aspect of nature as 
+In this lesson, we learned how to say "I like" as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は…が好きです
+          好きです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , articulate your desire to visit a specific place in nature using 
+      , "I want to go to" as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は…に行きたい
+          行きたい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and describe a natural element's beauty with 
+      , and "It's beautiful" as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          …は美しいです
+          綺麗です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Keep practicing!
+      .
+
+This concludes our lesson on discussing nature in Japanese. Keep practicing, and we'll see you in the next lesson.
     </lang>
   </voice>
 </speak>

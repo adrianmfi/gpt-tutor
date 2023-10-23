@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this session, we'll be learning about some basic occupations in Japanese. Let's begin with the word for 'teacher'. 
+      This lesson is dedicated to learning the words for various occupations in Japanese, specifically: teacher, student, engineer, and doctor.
 
-In Japanese, 'teacher' is 
+The first occupation we will learn is "teacher". In Japanese, teacher is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ In Japanese, 'teacher' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, 
+      . Repeat, the word for teacher is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +32,28 @@ In Japanese, 'teacher' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . An example sentence could be: "My father is a teacher" which in Japanese translates to 
+      . Let's put this into a sentence. In Japanese, "I am a teacher" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の父は先生です
+          私は先生です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's say it again, "My father is a teacher": 
+      . Repeat, "I am a teacher" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の父は先生です
+          私は先生です
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +62,7 @@ In Japanese, 'teacher' is
       <break time='1s'/>
       .
 
-Next, the word for 'student'. 'Student' in Japanese is 
+Now let’s move on to the word 'student'. The Japanese word for student is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +76,7 @@ Next, the word for 'student'. 'Student' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try pronouncing 
+      . Again, student is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,28 +90,28 @@ Next, the word for 'student'. 'Student' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A sentence could be: "She is a student", which is 
+      . Let's use 'student' in a sentence too. "I am a student" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          彼女は学生です
+          私は学生です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. Again, "She is a student" translates to 
+      . Repeat, 'I am a student' is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          彼女は学生です
+          私は学生です
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,7 +120,7 @@ Next, the word for 'student'. 'Student' in Japanese is
       <break time='1s'/>
       .
 
-Proceeding to our next occupation, which is 'engineer'. In Japanese, engineer is 
+Next, we have the word for 'engineer'. The Japanese equivalent for engineer is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +134,7 @@ Proceeding to our next occupation, which is 'engineer'. In Japanese, engineer is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying it: 
+      . Repeat after me, engineer is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,37 +148,37 @@ Proceeding to our next occupation, which is 'engineer'. In Japanese, engineer is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . A sample sentence could be: "He is an engineer", which translates to 
+      . In a sentence, we could say: "My brother is an engineer", which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          彼はエンジニアです
+          私の兄はエンジニアです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat once more: "He is an engineer" is 
+      . Once more, 'My brother is an engineer' is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          彼はエンジニアです
+          私の兄はエンジニアです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese.
+      .
 
-Finally, let's learn how to say 'doctor'. 'Doctor' in Japanese is 
+The final occupation for today is 'doctor'. In Japanese, doctor is referred to as: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +192,7 @@ Finally, let's learn how to say 'doctor'. 'Doctor' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Please pronounce 
+      . Let's repeat, doctor is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -206,37 +206,37 @@ Finally, let's learn how to say 'doctor'. 'Doctor' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Using it in a sentence, we could say: "My sister is a doctor", which in Japanese is 
+      . For our example sentence, "My sister is a doctor" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の姉は医者です
+          私の妹は医者です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . And once again, "My sister is a doctor" is 
+      . Again, "My sister is a doctor" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の姉は医者です
+          私の妹は医者です
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese.
+      .
 
-To sum up, we've learned to say 'teacher' as 
+That concludes our lesson on the occupations: teacher, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,7 +250,7 @@ To sum up, we've learned to say 'teacher' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'student' as 
+      , student, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -264,7 +264,7 @@ To sum up, we've learned to say 'teacher' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'engineer' as 
+      , engineer, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,7 +278,7 @@ To sum up, we've learned to say 'teacher' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'doctor' as 
+      , and doctor, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -291,7 +291,7 @@ To sum up, we've learned to say 'teacher' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Well done on today's lesson progress. I recommend practicing these occupational terms until they become second nature to you. Thank you for your hard work, see you in the next session!
+       in Japanese.
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,23 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to the 77th Japanese language lesson - today we aim to build upon your Japanese sports vocab and delve into expressions for liking, being good at, and watching sports.
+      Welcome to your lesson 77, where we will talk about expressing your sports preferences, abilities, and activities in Japanese.
 
-Let’s start with the phrase for “I like”. In Japanese, the phrase is: 
+Let's start with "I like". "I like" in Japanese is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          好きです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Try to say it: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,14 +33,15 @@ Let’s start with the phrase for “I like”. In Japanese, the phrase is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's try repeating that, “I like” is: 
+
+For example, "I like running" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          好きです
+          私は走るのが好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -34,29 +49,14 @@ Let's try repeating that, “I like” is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-So if you wanted to say, “I like soccer”, it would translate to: 
+Once again, "I like running" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          サッカーが好きです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-One more time, "I like soccer" is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          サッカーが好きです
+          私は走るのが好きです
         </mstts:prosody>
     </lang>
   </voice>
@@ -65,7 +65,7 @@ One more time, "I like soccer" is:
       <break time='1s'/>
       .
 
-Next up, we have the phrase for “I’m good at”. In Japanese, you would say: 
+Now, let's learn to say "I'm good at". In Japanese, it is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,7 +80,7 @@ Next up, we have the phrase for “I’m good at”. In Japanese, you would say:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, “I’m good at” is: 
+Repeat after me: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -95,14 +95,15 @@ Again, “I’m good at” is:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-As an example, if you're good at tennis, you would say: 
+
+For instance, "I'm good at swimming" would be: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          テニスが得意です
+          私は泳ぐのが得意です
         </mstts:prosody>
     </lang>
   </voice>
@@ -110,14 +111,14 @@ As an example, if you're good at tennis, you would say:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Repeating the sentence, "I'm good at tennis" is: 
+Repeat that sentence: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          テニスが得意です
+          私は泳ぐのが得意です
         </mstts:prosody>
     </lang>
   </voice>
@@ -126,7 +127,7 @@ Repeating the sentence, "I'm good at tennis" is:
       <break time='1s'/>
       .
 
-Finally, let's consider the phrase “I’m watching”. In Japanese, that's: 
+Lastly, to say "I'm watching" in the context of watching a sports game, you would say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -141,7 +142,7 @@ Finally, let's consider the phrase “I’m watching”. In Japanese, that's:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Once more, “I’m watching” is: 
+Again, "I'm watching" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -149,36 +150,6 @@ Once more, “I’m watching” is:
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
           見ています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-For example, if you are watching a baseball game, you say: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          野球を見ています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
-And again, "I'm watching a baseball game" is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          野球を見ています
         </mstts:prosody>
     </lang>
   </voice>
@@ -187,48 +158,37 @@ And again, "I'm watching a baseball game" is:
       <break time='1s'/>
       .
 
-So as a recap, we have learned "I like" as 
+So, if you are watching soccer, in Japanese it would be: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          好きです
+          私はサッカーを見ています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , "I'm good at" as 
+      .
+Let's repeat: "I'm watching soccer": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          得意です
+          私はサッカーを見ています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s'/>
-      , and "I'm watching" as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          見ています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      . Now you can confidently express your sports preferences in Japanese. Keep practicing!
+      .
+
+Today you've learned to say "I like", "I'm good at", and "I'm watching" in Japanese, as well as how to construct sentences with these phrases to talk about your sports preferences, abilities and activities. Well done! Keep practicing these new structures and vocabulary until our next lesson.
     </lang>
   </voice>
 </speak>

@@ -1,254 +1,191 @@
-<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
-  xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="en-US">
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> In this lesson, we are going to learn how to say different types of
-      accommodations in Japanese. First up, the word for 'hotel', in Japanese is <break time='1s' />
+      <break time='1s'/>
+      Welcome to Lesson 18 of your Japanese language course, where we will cover basic accommodations. Let's dive into the words and phrases that will be very useful when looking for a place to stay in Japan.
+
+First, let's start with the word for hotel. In Japanese, "hotel" is 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ホテル
-      </mstts:prosody>
+          ホテル
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Let's say that again. 'Hotel' in Japanese is: <break time='1s' />
+      <break time='1s'/>
+      . Repeat after me, 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ホテル
-      </mstts:prosody>
+          ホテル
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . For example, to ask "Is this a hotel?", you would say: <break time='1s' />
+      <break time='1s'/>
+      .
+
+Next, the term for inn is 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        これはホテルですか？
-      </mstts:prosody>
+          旅館
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Once more, "Is this a hotel?" in Japanese is: <break time='1s' />
+      <break time='1s'/>
+      . Let's say it together, 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        これはホテルですか？
-      </mstts:prosody>
+          旅館
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Now let's learn how to say 'inn'. Again, in Japanese, 'inn' is: <break
-        time='1s' />
+      <break time='1s'/>
+      .
+
+For a guesthouse, you can use the word 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        旅館
-      </mstts:prosody>
+          ゲストハウス
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Let's say that again. 'Inn' in Japanese is: <break time='1s' />
+      <break time='1s'/>
+      . Try saying it, 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        旅館
-      </mstts:prosody>
+          ゲストハウス
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . To ask "Where is the inn?", you would say: <break time='1s' />
+      <break time='1s'/>
+      .
+
+Lastly, the word for hostel is simply 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        旅館はどこですか？
-      </mstts:prosody>
+          ホステル
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . And once more, "Where is the inn?" in Japanese is: <break time='1s' />
+      <break time='1s'/>
+      . Practice pronunciation: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        旅館はどこですか？
-      </mstts:prosody>
+          ホステル
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . The next word is 'guesthouse'. In Japanese, this is: <break time='1s' />
+      <break time='1s'/>
+      .
+
+You can use the phrase you already know, which is "where is", and append the accommodation type to it. For example, "Where is the hotel?" in Japanese is: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ゲストハウス
-      </mstts:prosody>
+          ホテルはどこですか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Let's repeat. 'Guesthouse' is: <break time='1s' />
+      <break time='1s'/>
+      .
+Practice saying this: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ゲストハウス
-      </mstts:prosody>
+          ホテルはどこですか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . To ask "I want to book a guesthouse.", you would say: <break time='1s' />
+      <break time='1s'/>
+      .
+
+Similarly, "Where is the guesthouse?" translates to: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ゲストハウスを予約したい。
-      </mstts:prosody>
+          ゲストハウスはどこですか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      <break time='1s' /> . Once more, "I want to book a guesthouse" is: <break time='1s' />
+      <break time='1s'/>
+      .
+Once more: 
+      <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-        ゲストハウスを予約したい。
-      </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s' /> . Lastly, we have the word 'hostel'. In Japanese, this is: <break
-        time='1s' />
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-        ホステル
-      </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s' /> . Let's say that again. 'Hostel' in Japanese is: <break time='1s' />
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-        ホステル
-      </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s' /> . To ask "Is there a hostel near here?", you would say: <break time='1s' />
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-        ここ近くにホステルはありますか？
-      </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s' /> . Again, "Is there a hostel near here?" is: <break time='1s' />
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-        ここ近くにホステルはありますか？
-      </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s' /> . In this lesson, we talked about different types of accommodation,
-      'hotel' as <break time='1s' />
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-        ホテル
-      </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s' /> , 'inn' as <break time='1s' />
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-        旅館
-      </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s' /> , 'guesthouse' as <break time='1s' />
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-        ゲストハウス
-      </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s' /> , and 'hostel' as <break time='1s' />
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-        ホステル
-      </mstts:prosody>
+          ゲストハウスはどこですか
+        </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       .
 
-
+I hope you now feel more confident about finding a place to stay in Japan. Keep practicing these new words and sentences, and you'll master them in no time.
     </lang>
   </voice>
 </speak>

@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your Japanese learning session. We will be focusing on more body parts today: the eye, ear, mouth, and nose.
+      Welcome to your new lesson on Japanese body parts, where we will learn the words for "Eye", "Ear", "Mouth", and "Nose". 
 
-We'll begin with the word for 'eye'. In Japanese, 'eye' is said as 
+Let's start off with the word for "Eye", which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -19,7 +19,7 @@ We'll begin with the word for 'eye'. In Japanese, 'eye' is said as
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's repeat: 'Eye' is 
+To reiterate, "Eye" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -33,15 +33,15 @@ Let's repeat: 'Eye' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
-As an example, we could say "My eyes are blue." which translates to: 
+      . 
+An example sentence might be: "I see it with my eyes", which translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の目は青いです
+          私の目でそれを見ます
         </mstts:prosody>
     </lang>
   </voice>
@@ -49,14 +49,14 @@ As an example, we could say "My eyes are blue." which translates to:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-One more time for pronunciation: "My eyes are blue." is 
+Repeating, "I see it with my eyes": 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の目は青いです
+          私の目でそれを見ます
         </mstts:prosody>
     </lang>
   </voice>
@@ -65,7 +65,7 @@ One more time for pronunciation: "My eyes are blue." is
       <break time='1s'/>
       .
 
-Next, we are going to talk about the word for 'ear'. In Japanese, 'ear' is 
+Moving on, let's learn the word for "Ear". In Japanese, it is pronounced: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -80,7 +80,7 @@ Next, we are going to talk about the word for 'ear'. In Japanese, 'ear' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's practice: 'Ear' is 
+Again, the word for "Ear" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -95,14 +95,14 @@ Let's practice: 'Ear' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-For instance, "Do you hear that with your ear?" translates to: 
+Using it in a sentence, we could say: "I hear it with my ears", which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          それをあなたの耳で聞きますか？
+          私の耳でそれを聞きます
         </mstts:prosody>
     </lang>
   </voice>
@@ -110,23 +110,23 @@ For instance, "Do you hear that with your ear?" translates to:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's repeat this phrase: "Do you hear that with your ear?" is 
+Let's repeat that: "I hear it with my ears", is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          それをあなたの耳で聞きますか？
+          私の耳でそれを聞きます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
+       in Japanese.
 
-Next up, 'mouth' is expressed in Japanese as 
+Next, we'll look at the word for "Mouth". In Japanese, it is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -141,7 +141,7 @@ Next up, 'mouth' is expressed in Japanese as
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Please pronounce: 'Mouth' is 
+Once again, the word "Mouth" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -156,14 +156,14 @@ Please pronounce: 'Mouth' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Here is a sample sentence: "I eat rice with my mouth.", which is 
+For instance, to say "Open your mouth", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の口でご飯を食べます
+          口を開けてください
         </mstts:prosody>
     </lang>
   </voice>
@@ -171,14 +171,14 @@ Here is a sample sentence: "I eat rice with my mouth.", which is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Repeat after me: "I eat rice with my mouth." translates to 
+To repeat, "Open your mouth" in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の口でご飯を食べます
+          口を開けてください
         </mstts:prosody>
     </lang>
   </voice>
@@ -187,7 +187,7 @@ Repeat after me: "I eat rice with my mouth." translates to
       <break time='1s'/>
       .
 
-Finally, we will discuss the word for 'nose' which in Japanese is 
+Lastly, we are going to learn the word for "Nose". In Japanese, it is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -202,7 +202,7 @@ Finally, we will discuss the word for 'nose' which in Japanese is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Again, 'nose' is 
+Once more, the word for "Nose" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -217,14 +217,14 @@ Again, 'nose' is
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-Let's use it in a sentence: "My nose is big." which translates to: 
+We could say for example: "He has a big nose", which would be: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の鼻は大きいです
+          彼は大きな鼻を持っています
         </mstts:prosody>
     </lang>
   </voice>
@@ -232,23 +232,23 @@ Let's use it in a sentence: "My nose is big." which translates to:
     <lang xml:lang="en-US">
       <break time='1s'/>
       .
-One more time, "My nose is big." is 
+Repeating that, "He has a big nose" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の鼻は大きいです
+          彼は大きな鼻を持っています
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
+       in Japanese.
 
-By the end of this lesson, we have learned to say 'eye' as 
+We have now learned how to say Eye as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -262,7 +262,7 @@ By the end of this lesson, we have learned to say 'eye' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'ear' as 
+      , Ear as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -276,7 +276,7 @@ By the end of this lesson, we have learned to say 'eye' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'mouth' as 
+      , Mouth as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -290,7 +290,7 @@ By the end of this lesson, we have learned to say 'eye' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'nose' as 
+      , and Nose as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -303,9 +303,9 @@ By the end of this lesson, we have learned to say 'eye' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      .
+      . 
 
-Well done on completing this lesson! Continue to practice these new vocabulary words until they come naturally to you. See you next time!
+Keep practicing these words and their usage in a sentence, and you’ll be able to describe more aspects of yourself and others in Japanese soon. This completes the body parts lesson for today.
     </lang>
   </voice>
 </speak>

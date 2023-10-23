@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      In this lesson, we will delve deeper into political terminology in Japanese, focusing on words like 'President', 'Prime Minister', 'Democracy', and 'Dictatorship'. 
+      In this lesson, we'll be covering some crucial political terms in Japanese: President, Prime Minister, Democracy, and Dictatorship. 
 
-We will start with 'President'. In Japanese, a 'President' is called a 
+Let's first start with the term "President", which in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ We will start with 'President'. In Japanese, a 'President' is called a
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat it, 'President' is 
+      . Repeat after me, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,37 +32,9 @@ We will start with 'President'. In Japanese, a 'President' is called a
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's see it in a sentence now: "The President is speaking" can be said as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          大統領が話しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Once more, "The President is speaking" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          大統領が話しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
       .
 
-Next up, 'Prime Minister'. A 'Prime Minister' in Japanese is referred to as 
+Now let's understand the term "Prime Minister" in Japanese, which is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +48,7 @@ Next up, 'Prime Minister'. A 'Prime Minister' in Japanese is referred to as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, 'Prime Minister' is 
+      . Again, Prime Minister is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,37 +62,39 @@ Next up, 'Prime Minister'. A 'Prime Minister' in Japanese is referred to as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . In a sentence, you might say: "The Prime Minister will visit tomorrow", or 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          首相は明日訪問します
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Again, "The Prime Minister will visit tomorrow" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          首相は明日訪問します
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      .
+       in Japanese. 
 
-Now on to, 'Democracy'. 'Democracy' in Japanese is 
+Let's create a sentence with these two terms. "The president met the prime minister" translates to 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          大統領は首相に会った
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Once again, "The president met the prime minister" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          大統領は首相に会った
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+       in Japanese. 
+
+Next, we'll learn the Japanese term for "Democracy". It is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +108,7 @@ Now on to, 'Democracy'. 'Democracy' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's rehearse it together, 'Democracy' is 
+      . Please repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,28 +122,30 @@ Now on to, 'Democracy'. 'Democracy' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . In a sentence, we might say: "Japan is a democracy", which translates to 
+      . 
+
+The term "Dictatorship" translates in Japanese to 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          日本は民主主義です
+          独裁主義
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's repeat, "Japan is a democracy" is 
+      . Let's repeat: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          日本は民主主義です
+          独裁主義
         </mstts:prosody>
     </lang>
   </voice>
@@ -178,56 +154,28 @@ Now on to, 'Democracy'. 'Democracy' in Japanese is
       <break time='1s'/>
       .
 
-Last but not least, 'Dictatorship'. A 'Dictatorship' in Japanese is 
+Let's use these in a sentence. "I prefer democracy over dictatorship." This translates to 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          独裁制
+          私は独裁主義より民主主義を好む
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat again, 'Dictatorship' is 
+      . Once more: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          独裁制
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Using it in a sentence: "He lives under a dictatorship" can be said as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          彼は独裁制の下で生活しています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Once more, "He lives under a dictatorship" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          彼は独裁制の下で生活しています
+          私は独裁主義より民主主義を好む
         </mstts:prosody>
     </lang>
   </voice>
@@ -236,7 +184,7 @@ Last but not least, 'Dictatorship'. A 'Dictatorship' in Japanese is
       <break time='1s'/>
       .
 
-This concludes our lesson on the political terms 'President' - 
+In this lesson, we have learned the Japanese terms for President - 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,7 +198,7 @@ This concludes our lesson on the political terms 'President' -
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Prime Minister' - 
+      , Prime Minister - 
       <break time='1s'/>
     </lang>
   </voice>
@@ -264,7 +212,7 @@ This concludes our lesson on the political terms 'President' -
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'Democracy' - 
+      , Democracy - 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,20 +226,23 @@ This concludes our lesson on the political terms 'President' -
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       and 'Dictatorship' - 
+      , and Dictatorship - 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          独裁制
+          独裁主義
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       in Japanese.
+      . 
+
+Keep practicing these new words and sentences to increase your proficiency on political topics in Japanese.
+
     </lang>
   </voice>
 </speak>

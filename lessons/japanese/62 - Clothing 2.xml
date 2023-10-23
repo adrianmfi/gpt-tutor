@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      This lesson will expand on our clothing vocabulary in Japanese, specifically focusing on four new words: coat, dress, skirt, and socks.
+      Welcome to your next Japanese lesson where we'll cover more terms for clothing, specifically: a coat, a dress, a skirt and socks.
 
-Let's start with the word for 'coat', which in Japanese is: 
+We'll begin with the term for "coat". In Japanese, a coat is referred to as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,8 +18,7 @@ Let's start with the word for 'coat', which in Japanese is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Once more, 'coat' is: 
+      . Let's try that again, coat is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -33,30 +32,28 @@ Once more, 'coat' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-An example sentence would be: "I bought a new coat", which translates to: 
+      . Say, for example, you are shopping and you say "I want a coat". That would be 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は新しいコートを買いました
+          コートがほしい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Repeating the sentence one more time, 'I bought a new coat': 
+      . Remember, despite the westernized nature of this word's pronunciation, always refer to it with the correct term 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は新しいコートを買いました
+          コート
         </mstts:prosody>
     </lang>
   </voice>
@@ -65,7 +62,7 @@ Repeating the sentence one more time, 'I bought a new coat':
       <break time='1s'/>
       .
 
-Our second word for today is 'dress'. In Japanese, dress is: 
+Next, we move on to the word for "dress". A dress in Japanese is called a 
       <break time='1s'/>
     </lang>
   </voice>
@@ -79,8 +76,7 @@ Our second word for today is 'dress'. In Japanese, dress is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Again, 'dress' is: 
+      . Saying it again, dress is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -94,15 +90,14 @@ Again, 'dress' is:
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Let's use it in a sentence: "This dress is beautiful", which translates to: 
+      . Building on the shopping scenario, if you were to say "I'm looking for a dress", in Japanese it would be 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          このドレスは美しいです
+          ドレスを探している
         </mstts:prosody>
     </lang>
   </voice>
@@ -110,14 +105,43 @@ Let's use it in a sentence: "This dress is beautiful", which translates to:
     <lang xml:lang="en-US">
       <break time='1s'/>
       . 
-And once more, 'This dress is beautiful': 
+
+Following that, we have the term for "skirt". In Japanese, a skirt is known as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          このドレスは美しいです
+          スカート
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Let's repeat, skirt is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          スカート
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . So, if you were to say "I bought a skirt", in Japanese you would say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          スカートを買った
         </mstts:prosody>
     </lang>
   </voice>
@@ -126,128 +150,51 @@ And once more, 'This dress is beautiful':
       <break time='1s'/>
       .
 
-Next up, we have 'skirt', which in Japanese is: 
+Lastly, let's learn how to say "socks". In Japanese, socks are referred to as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          スカート
+          靴下
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Again, 'skirt' is: 
+      . Once more, socks are 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          スカート
+          靴下
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . You could say: "She is wearing a red skirt" or in Japanese: 
+      . In the scenario if you need to ask "Do you sell socks?", you'd ask 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          彼女は赤いスカートを着ています
+          靴下を売っていますか
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Again, 'She is wearing a red skirt': 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          彼女は赤いスカートを着ています
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
+      ?
 
-Our last word for this lesson is 'socks'. In Japanese, socks is: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ソックス
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-Once more: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          ソックス
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-A practical sentence would be "I need new socks", which translates to: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は新しいソックスが必要です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-Repeating that sentence: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は新しいソックスが必要です
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . 
-
-In this lesson, we've learned 'coat' as 
+This concludes our lesson on additional clothing terms. You've now learned to say coat as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -261,7 +208,7 @@ In this lesson, we've learned 'coat' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'dress' as 
+      , dress as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -275,7 +222,7 @@ In this lesson, we've learned 'coat' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'skirt' as 
+      , skirt as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -289,22 +236,20 @@ In this lesson, we've learned 'coat' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'socks' as 
+       and socks as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          ソックス
+          靴下
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . 
-
-We'll continue exploring more clothing items in the next lessons. Happy learning!
+       in Japanese.
     </lang>
   </voice>
 </speak>

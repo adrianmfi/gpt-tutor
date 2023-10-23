@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      This lesson will help us explore and understand basic body parts' names in Japanese. Even though there's a lot to cover, we will focus on key words, such as 'head', 'hand', 'foot', and 'stomach'. 
+      In this lesson, we will learn the Japanese words for several basic body parts: head, hand, foot, and stomach. 
 
-Let's start with the term 'head'. In Japanese, it's called 
+Our first term to learn is head. In Japanese, "head" is said: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ Let's start with the term 'head'. In Japanese, it's called
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me, 
+      . 
+Let’s hear that again: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +33,30 @@ Let's start with the term 'head'. In Japanese, it's called
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . With that said, the sentence "I hit my head" translates to 
+      .
+An example sentence might be, "My head hurts", which in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は頭を打った
+          頭が痛いです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's say it once more: 
+      .
+Once again: "My head hurts" is 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は頭を打った
+          頭が痛いです
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +65,7 @@ Let's start with the term 'head'. In Japanese, it's called
       <break time='1s'/>
       .
 
-Next, we have the word 'hand', which in Japanese translates to 
+Next, let's learn the word for hand. In Japanese, "hand" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +79,8 @@ Next, we have the word 'hand', which in Japanese translates to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try and repeat: 
+      .
+Let's repeat that: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,28 +94,30 @@ Next, we have the word 'hand', which in Japanese translates to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Applying this into a sentence, "My hand hurts" in Japanese would be 
+      .
+In a situation where you want to say, "My hand is cold", you can say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の手が痛い
+          手が冷たいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . One more time: 
+      .
+Again, "My hand is cold" translates to: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の手が痛い
+          手が冷たいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,7 +126,7 @@ Next, we have the word 'hand', which in Japanese translates to
       <break time='1s'/>
       .
 
-The term 'foot' is pronounced as 
+Moving on to foot - it is called 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +140,8 @@ The term 'foot' is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. Please repeat: 
+       in Japanese. 
+Let’s repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,28 +155,30 @@ The term 'foot' is pronounced as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . For instance, to say "I broke my foot", you would say 
+      .
+A usage example is: "My foot hurts", which translates to 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は足を折った
+          足が痛いです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Again, "I broke my foot" is 
+      .
+Again, "My foot hurts" in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は足を折った
+          足が痛いです
         </mstts:prosody>
     </lang>
   </voice>
@@ -178,56 +187,59 @@ The term 'foot' is pronounced as
       <break time='1s'/>
       .
 
-Lastly, we'll learn 'stomach'. The Japanese term is 
+Finally, let's look at the Japanese word for stomach, 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          腹
+          お腹
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Please repeat: 
+      .
+Let’s practice saying it: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          腹
+          お腹
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . To say "My stomach hurts", the phrase would be 
+      .
+For example, when you want to say "My stomach is full", you can say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の腹が痛い
+          お腹がいっぱいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat that phrase: 
+      .
+Repeating the sentence: "My stomach is full" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私の腹が痛い
+          お腹がいっぱいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -236,7 +248,7 @@ Lastly, we'll learn 'stomach'. The Japanese term is
       <break time='1s'/>
       .
 
-We've now added 'head' as 
+Today, we've learned head as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -250,7 +262,7 @@ We've now added 'head' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'hand' as 
+      , hand as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -264,7 +276,7 @@ We've now added 'head' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , 'foot' as 
+      , foot as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -278,20 +290,22 @@ We've now added 'head' as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and 'stomach' as 
+      , and stomach as 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          腹
+          お腹
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-       to your vocabulary. Great job!
+       in Japanese.
+
+This concludes the basic body parts lesson. Keep practicing these new terms.
     </lang>
   </voice>
 </speak>

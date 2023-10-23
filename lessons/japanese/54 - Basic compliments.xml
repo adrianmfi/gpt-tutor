@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      This lesson is all about expressing complimentary adjectives in Japanese: beautiful, cute, cool, and amazing. 
+      Welcome to lesson number 54 - Basic compliments in Japanese. These are simple expressions that can be used to brighten someone's day or lift their spirits. We'll be looking at: beautiful, cute, cool, and amazing. 
 
-Let's start with the word 'beautiful'. In Japanese, 'beautiful' is expressed as 
+Let's get started with our first word, 'beautiful', which is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,8 @@ Let's start with the word 'beautiful'. In Japanese, 'beautiful' is expressed as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Repeat after me: 
+      . 
+I'll say it again: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -32,28 +33,30 @@ Let's start with the word 'beautiful'. In Japanese, 'beautiful' is expressed as
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . An example sentence might be, "The flowers are beautiful". In Japanese, this would be: 
+      .
+For example, if you want to say something like "The cherry blossom is beautiful", it would be: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          花は美しいです
+          桜が美しいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying it out loud: 
+      .
+Let's repeat that sentence: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          花は美しいです
+          桜が美しいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -62,7 +65,7 @@ Let's start with the word 'beautiful'. In Japanese, 'beautiful' is expressed as
       <break time='1s'/>
       .
 
-Next, we move on to the word 'cute', which is 
+Next we have 'cute'. In Japanese, cute is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -76,7 +79,8 @@ Next, we move on to the word 'cute', which is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Say it out loud: 
+      . 
+Let's repeat: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -90,28 +94,30 @@ Next, we move on to the word 'cute', which is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Now, if you were to say "Your cat is cute", in Japanese, it would be: 
+      .
+For example, to say "That kitten is cute", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          あなたの猫はかわいいです
+          その子猫はかわいいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try to repeat: 
+      .
+Again, "That kitten is cute" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          あなたの猫はかわいいです
+          その子猫はかわいいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -120,7 +126,7 @@ Next, we move on to the word 'cute', which is
       <break time='1s'/>
       .
 
-The Japanese word for 'cool' is 
+Our third word for today is 'cool'. The Japanese word for cool is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -134,7 +140,8 @@ The Japanese word for 'cool' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Can you repeat after me: 
+      . 
+Let's say it again: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -148,28 +155,30 @@ The Japanese word for 'cool' is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      ? If you wanted to say "Your clothes are cool", you would say: 
+      .
+To say something like "Your jacket is cool", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          あなたの服はかっこいいです
+          あなたのジャケットはかっこいいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Try saying it again: 
+      .
+Let's repeat that: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          あなたの服はかっこいいです
+          あなたのジャケットはかっこいいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -178,7 +187,7 @@ The Japanese word for 'cool' is
       <break time='1s'/>
       .
 
-Finally, 'amazing' in Japanese is 
+Lastly, let's learn how to say 'amazing' in Japanese. Amazing is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -192,7 +201,8 @@ Finally, 'amazing' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Practice it out loud: 
+      . 
+Once more, 'amazing' is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -206,28 +216,30 @@ Finally, 'amazing' in Japanese is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . You might say "Your performance was amazing", which in Japanese translates to 
+      .
+For example, to say "Your cooking is amazing", you would say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          あなたのパフォーマンスはすごかったです
+          あなたの料理はすごいです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Go ahead and practice: 
+      .
+Again, "Your cooking is amazing" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          あなたのパフォーマンスはすごかったです
+          あなたの料理はすごいです
         </mstts:prosody>
     </lang>
   </voice>
@@ -236,7 +248,7 @@ Finally, 'amazing' in Japanese is
       <break time='1s'/>
       .
 
-So now we've covered 'beautiful' as 
+Congratulations, you now know how to give basic compliments in Japanese. To quickly recap the words, we have 'beautiful' as 
       <break time='1s'/>
     </lang>
   </voice>
@@ -291,7 +303,7 @@ So now we've covered 'beautiful' as
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Keep practicing these adjectives and you'll be sharing Japanese compliments in no time! This concludes the lesson on basic compliments in Japanese.
+      . Practice these words and soon you'll be able to compliment friends, family, and even strangers in Japanese. Definitely a great way to make someone's day.
     </lang>
   </voice>
 </speak>

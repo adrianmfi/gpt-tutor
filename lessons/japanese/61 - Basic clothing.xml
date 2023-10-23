@@ -2,9 +2,9 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your 61st language lesson in Japanese. Today, we will introduce and practice the Japanese words for "shirt", "pants", "shoes", and "hat". These are useful items of clothing vocabulary that can help broaden your overall language understanding. 
+      Welcome to lesson 61 on basic clothing in Japanese. Given your prior knowledge, we'll dive directly into learning specific vocabulary.
 
-Starting with the clothing item you wear on top, "shirt" translates to 
+Let's get started. The word for "shirt" in Japanese is 
       <break time='1s'/>
     </lang>
   </voice>
@@ -18,7 +18,7 @@ Starting with the clothing item you wear on top, "shirt" translates to
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. Remember this by repeating: 
+      . Repeat after me, 
       <break time='1s'/>
     </lang>
   </voice>
@@ -26,50 +26,6 @@ Starting with the clothing item you wear on top, "shirt" translates to
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
           シャツ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Perfect! You've now learned how to say "shirt".
-
-Next is the word for "pants", which in Japanese is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          パンツ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Let's say it again: 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          パンツ
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      . Excellent, you've got it, "pants" is 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          パンツ
         </mstts:prosody>
     </lang>
   </voice>
@@ -78,7 +34,37 @@ Next is the word for "pants", which in Japanese is
       <break time='1s'/>
       .
 
-The third item of clothing we'll learn today is "shoes". In Japanese, you would say: 
+Next, let's learn the word for "pants", which in Japanese is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ズボン
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Again, "pants" is 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ズボン
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Let's move on to "shoes". In Japanese, you say 
       <break time='1s'/>
     </lang>
   </voice>
@@ -92,7 +78,7 @@ The third item of clothing we'll learn today is "shoes". In Japanese, you would 
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . One more time, "shoes" is: 
+      . Please repeat, "shoes" are 
       <break time='1s'/>
     </lang>
   </voice>
@@ -106,9 +92,9 @@ The third item of clothing we'll learn today is "shoes". In Japanese, you would 
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
+      .
 
-Finally, we will learn how to say "hat". The Japanese term for "hat" is 
+Finally, for the word "hat", you say 
       <break time='1s'/>
     </lang>
   </voice>
@@ -122,7 +108,7 @@ Finally, we will learn how to say "hat". The Japanese term for "hat" is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Let's practice this last term: 
+       in Japanese. Let's practice: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -136,39 +122,69 @@ Finally, we will learn how to say "hat". The Japanese term for "hat" is
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . Very good, you've learned how to say "hat"!
+      .
 
-Now, let's put what you've learned into a complete sentence: "I bought a shirt, pants, shoes, and a hat." In Japanese, you would say: 
+Let's form a few basic sentences with these new words. If you want to say "I'm going to buy a shirt", you could say 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はシャツ、パンツ、靴、帽子を買いました。
+          私はシャツを買うつもりです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       Say it with me: 
+      . Let's try that again, say: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はシャツ、パンツ、靴、帽子を買いました。
+          私はシャツを買うつもりです
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      
- 
-To summarize, we've learned the Japanese words for "shirt" 
+      .
+
+To say "These shoes are red", in Japanese you'd say 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これらの靴は赤いです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      . Repeat after me: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          これらの靴は赤いです
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+
+Exercise your memory recall now: Can you remember how to say "shirt"? Right, it's 
       <break time='1s'/>
     </lang>
   </voice>
@@ -182,21 +198,51 @@ To summarize, we've learned the Japanese words for "shirt"
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , "pants" 
+      . How about "pants"? Yes, it's indeed 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          パンツ
+          ズボン
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , "shoes" 
+      . 
+
+Great job! This concludes lesson 61 on basic clothing in Japanese. You have learned new vocabulary for "shirt", 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          シャツ
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , "pants", 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          ズボン
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , "shoes", 
       <break time='1s'/>
     </lang>
   </voice>
@@ -210,7 +256,7 @@ To summarize, we've learned the Japanese words for "shirt"
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      , and "hat" 
+      , and "hat", 
       <break time='1s'/>
     </lang>
   </voice>
@@ -223,7 +269,7 @@ To summarize, we've learned the Japanese words for "shirt"
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
-      . Well done and continue practicing these new words!
+      . Keep practicing, and see you next time!
     </lang>
   </voice>
 </speak>

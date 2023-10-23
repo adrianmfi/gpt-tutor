@@ -2,32 +2,16 @@
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      Welcome to your next lesson in Japanese. Given that you're getting more comfortable with some basics phrases, let's dive a bit deeper into geography. In this lesson, we will learn how to say "I'm from", "I'm going to", and "I want to see" in Japanese.
+      In this lesson, we're going to dive a bit deeper into Japanese geography and travel phrases. 
 
-Let's start with "I'm from", which is 
+Firstly let's learn to say "I'm from" in Japanese. The phrase to use is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は〜から来ました
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-       in Japanese. 
-The symbol 〜 is a placeholder where the name of your city or country will be.
-Saying you're from Sydney, Australia, you'd say 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私はシドニー、オーストラリアから来ました
+          私は...から来ました
         </mstts:prosody>
     </lang>
   </voice>
@@ -35,15 +19,29 @@ Saying you're from Sydney, Australia, you'd say
     <lang xml:lang="en-US">
       <break time='1s'/>
       . 
-
-Let's retrospect. "I'm from Sydney, Australia" is 
+Literally, it means "I... came from". Let's practice with the name of a country: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私はシドニー、オーストラリアから来ました
+          私はアメリカから来ました
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , which translates to "I'm from America". 
+Once again, the sentence is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私はアメリカから来ました
         </mstts:prosody>
     </lang>
   </voice>
@@ -52,22 +50,22 @@ Let's retrospect. "I'm from Sydney, Australia" is
       <break time='1s'/>
       .
 
-Next, we'll learn "I'm going to". In Japanese, it's 
+Now let's proceed to "I'm going to".  The phrase in Japanese is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は〜に行きます
+          私は...に行きます
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      . 
-Again, 〜 should be replaced by your destination. If you're heading to Tokyo, you'd say 
+      . The space in the sentence is where you insert your destination. 
+For example, if you're going to Tokyo, you'd say: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -82,8 +80,7 @@ Again, 〜 should be replaced by your destination. If you're heading to Tokyo, y
     <lang xml:lang="en-US">
       <break time='1s'/>
       . 
-
-Let's refresh. "I'm going to Tokyo" is 
+This of course means "I'm going to Tokyo". Let's practice again, saying "I'm going to Tokyo" is: 
       <break time='1s'/>
     </lang>
   </voice>
@@ -99,29 +96,44 @@ Let's refresh. "I'm going to Tokyo" is
       <break time='1s'/>
       .
 
-Lastly, let's learn how to say "I want to see", which is 
+Lastly, we have the phrase "I want to see". In Japanese, this is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は〜を見たいです
+          私は...を見たい
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-       in Japanese. 
-If you wish to see Mount Fuji, you would say 
+      . 
+For instance, if you'd like to see Mount Fuji, the sentence is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は富士山を見たいです
+          私は富士山を見たい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      .
+Again, "I want to see Mount Fuji" translates to: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は富士山を見たい
         </mstts:prosody>
     </lang>
   </voice>
@@ -130,64 +142,50 @@ If you wish to see Mount Fuji, you would say
       <break time='1s'/>
       .
 
-So to summarize: "I want to see Mount Fuji" is 
+To recap, "I'm from" is: 
       <break time='1s'/>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="ja-JP">
       <mstts:prosody rate="-20%">
-          私は富士山を見たいです
+          私は...から来ました
         </mstts:prosody>
     </lang>
   </voice>
   <voice name="en-US-RyanMultilingualNeural">
     <lang xml:lang="en-US">
       <break time='1s'/>
-      .
+      , "I'm going to" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は...に行きます
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      <break time='1s'/>
+      , and "I want to see" is: 
+      <break time='1s'/>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="ja-JP">
+      <mstts:prosody rate="-20%">
+          私は...を見たい
+        </mstts:prosody>
+    </lang>
+  </voice>
+  <voice name="en-US-RyanMultilingualNeural">
+    <lang xml:lang="en-US">
+      . 
 
-To recap this lesson, we learned how to say "I'm from" as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は〜から来ました
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , "I'm going to" as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は〜に行きます
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-      <break time='1s'/>
-      , and "I want to see" as 
-      <break time='1s'/>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="ja-JP">
-      <mstts:prosody rate="-20%">
-          私は〜を見たいです
-        </mstts:prosody>
-    </lang>
-  </voice>
-  <voice name="en-US-RyanMultilingualNeural">
-    <lang xml:lang="en-US">
-       in Japanese. Keep practicing these phrases as you continue to expand your vocabulary.
+Look forward to our next lesson where we will continue to expand our Japanese geographic and cultural vocabulary.
     </lang>
   </voice>
 </speak>
