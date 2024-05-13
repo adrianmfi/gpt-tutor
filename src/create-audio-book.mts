@@ -62,10 +62,10 @@ const outputDir = outputDirPrompt.outputDir;
 
 const gptModelPrompt = await inquirer.prompt({
   type: "list",
-  choices: ["gpt-3.5-turbo-16k", "gpt-4"],
+  choices: ["gpt-3.5-turbo-16k", "gpt-4", "gpt-4-turbo", "gpt-4o"],
   name: "model",
   message: "Enter GPT model",
-  default: "gpt-4",
+  default: "gpt-4o",
 });
 const gptModel = gptModelPrompt.model;
 
