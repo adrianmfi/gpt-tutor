@@ -16,6 +16,11 @@ Target knowledge: Enough to be able to enjoy a three week vacation`;
 
 https://github.com/adrianmfi/gpt-tutor/assets/12783483/253f55d1-0b0a-40c2-ab78-9affb3901a5a
 
+### Why Azure AI Speech?
+Out of the text-to-speech solutions I tried, this was the only one I was able to get to produce good bilingual results within a single paragraph, by specifying language  with the Speech Synthesis Markup Language.
+As a bonus, generating all the lessons during testing and finalization (several hundred lessons, 4-5 hours of conversation) was well within the Azure free tier.
+
+
 ## Installation
 
 ```bash
